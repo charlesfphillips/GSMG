@@ -1,0 +1,196 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                  WINDOWS QUICK START - SOLVE THE PUZZLE                   ║
+║                        Using Python + OpenSSL                             ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+PREREQUISITES:
+✓ Python 3.6+ (download from python.org, check "Add to PATH")
+✓ OpenSSL for Windows (https://slproweb.com/products/Win32OpenSSL.html)
+✓ The HTML file from Salphaseion page
+
+════════════════════════════════════════════════════════════════════════════
+
+STEP 0: Setup Files
+
+1. Create a folder: C:\Users\YourName\puzzle
+2. Download all files from the outputs folder
+3. Copy the HTML content from Salphaseion page and save as: salphaseion.html
+   (Put it in the puzzle folder)
+
+════════════════════════════════════════════════════════════════════════════
+
+STEP 1: Extract Content from HTML
+
+Command:
+  python 01_extract.py
+
+What it does:
+  - Reads salphaseion.html
+  - Extracts SALPHASEION content → salphaseion_content.txt
+  - Extracts COSMIC DUALITY → cosmic_duality_content.txt
+
+Expected output:
+  ✓ Extracted [number] characters from both sections
+
+════════════════════════════════════════════════════════════════════════════
+
+STEP 2: Decode ABBA Binary Sections
+
+Command:
+  python 02_decode_abba.py
+
+What it does:
+  - Finds all ABBA sections (look like: abbabbab...)
+  - Decodes a=0, b=1 as binary
+  - Converts to ASCII text
+  - Saves to abba_decoded.txt
+
+Expected output:
+  ✓ Found [X] ABBA sections
+  ✓ Decoded sections like:
+    - matrixsumlist
+    - enter
+    - or similar readable text
+
+════════════════════════════════════════════════════════════════════════════
+
+STEP 3: Decode HEX Sections
+
+Command:
+  python 03_decode_hex.py
+
+What it does:
+  - Finds letter sequences (a=1, b=2, ..., z=26, o=0)
+  - Interprets as numbers
+  - Groups as hex pairs
+  - Converts to ASCII
+  - Saves to hex_decoded.txt
+
+Expected output:
+  ✓ Found sections with words like:
+    - lastwordsbeforearchichoice
+    - thispassword
+    - or similar readable text
+
+════════════════════════════════════════════════════════════════════════════
+
+STEP 4: Create Password Candidates
+
+Command:
+  python 04_combine_passwords.py
+
+What it does:
+  - Reads abba_decoded.txt
+  - Reads hex_decoded.txt
+  - Combines them different ways
+  - Creates SHA256 hashes
+  - Saves to test_passwords.txt
+
+Expected output:
+  ✓ Password Candidates (X total):
+    1. Raw password: matrixsumlist + enter + lastwordsbeforearchichoice + ...
+    2. SHA256 hash: abc123def456...
+
+════════════════════════════════════════════════════════════════════════════
+
+STEP 5: Test with OpenSSL
+
+Command (Option A - PowerShell):
+  powershell -ExecutionPolicy Bypass -File 05_test_openssl.ps1
+
+Command (Option B - Command Prompt):
+  openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -pass pass:YOURPASSWORD
+
+What it does:
+  - Tests each password from test_passwords.txt
+  - Attempts to decrypt cosmic_duality_content.txt
+  - Shows decrypted content if successful
+  - Saves result to decrypted_result.txt
+
+Expected output (SUCCESS):
+  ✓ SUCCESS!
+  Type: RAW or SHA256
+  Password: [the password that worked]
+  
+  [Shows decrypted content with private key]
+  ✓ Full result saved to decrypted_result.txt
+
+Expected output (FAILURE):
+  ✗ Failed (bad decrypt)
+  → Try different password combinations or re-check decoding
+
+════════════════════════════════════════════════════════════════════════════
+
+COMPLETE WORKFLOW IN ONE GO:
+
+Open Command Prompt and run:
+  python 01_extract.py && python 02_decode_abba.py && python 03_decode_hex.py && python 04_combine_passwords.py
+
+Then:
+  powershell -ExecutionPolicy Bypass -File 05_test_openssl.ps1
+
+════════════════════════════════════════════════════════════════════════════
+
+TROUBLESHOOTING:
+
+Problem: "Python not found"
+Solution: 
+  - Install Python from python.org
+  - Check "Add Python to PATH" during installation
+  - Restart Command Prompt
+
+Problem: "OpenSSL not found"
+Solution:
+  - Install from https://slproweb.com/products/Win32OpenSSL.html
+  - Choose "Add OpenSSL to PATH" during installation
+  - Restart Command Prompt
+
+Problem: "salphaseion.html not found"
+Solution:
+  - Save the HTML file in the same folder as the scripts
+  - Name it exactly: salphaseion.html
+  - Make sure it's not salphaseion.html.txt
+
+Problem: "All passwords failed"
+Solution:
+  - Check that ABBA decoding produced readable text
+  - Check that HEX decoding produced readable text
+  - Try different combinations in 04_combine_passwords.py
+  - Check the hex/ABBA decoding by opening:
+    - abba_decoded.txt
+    - hex_decoded.txt
+
+════════════════════════════════════════════════════════════════════════════
+
+FILES CREATED BY THE SCRIPTS:
+
+After all steps, you'll have:
+  ✓ salphaseion_content.txt - Raw SALPHASEION content
+  ✓ cosmic_duality_content.txt - Encrypted blob
+  ✓ abba_decoded.txt - Decoded ABBA sections
+  ✓ hex_decoded.txt - Decoded HEX sections
+  ✓ test_passwords.txt - Password candidates
+  ✓ decrypted_result.txt - Final result (if successful)
+
+════════════════════════════════════════════════════════════════════════════
+
+FINAL CHECK:
+
+If you see a Bitcoin private key (looks like: 5KJ... or 1A3...), you've
+succeeded! The key can be imported to your Bitcoin wallet to access the 2.5 BTC.
+
+════════════════════════════════════════════════════════════════════════════
+
+NEED HELP? Check:
+1. PRACTICAL_WINDOWS_GUIDE.md - Detailed explanations
+2. README.md - Overview and troubleshooting
+3. QUICK_REFERENCE.md - Encoding reference
+
+════════════════════════════════════════════════════════════════════════════
+
+Ready? Start with:
+  python 01_extract.py
+
+Good luck! 🔐
+
+════════════════════════════════════════════════════════════════════════════

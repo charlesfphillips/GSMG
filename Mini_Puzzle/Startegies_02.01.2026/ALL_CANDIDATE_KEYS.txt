@@ -1,0 +1,323 @@
+GSMG DUALITY PUZZLE - ALL CANDIDATE SOLUTIONS
+================================================================================
+
+Solution 1:
+  k1 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  k2 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  Method: Addition
+  Target: 9be8c1d7d32eb2dda7021c61b518351b65acf17c7725fff3eb5381cca98a281e
+  WIF Uncompressed: 5Jzx5Bj57t9tfBt8Ytz9XdmCDKrTYnV6WeEqr8JfnU3K1QXT9Rm
+  WIF Compressed:   L2Sn5ULhBNnF1Z2gKnTEeDG4VQDJBHm1KqN6bqEzBgMCUQv5bK4L
+
+Solution 2:
+  k1 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  k2 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  Method: Subtraction
+  Target: f54218bdb31f22a8031f5c2cdc8b661fad714d2f8136709eb0f1938253e6eeb0
+  WIF Uncompressed: 5KgJNaMnn3CadkzXyZKo3GcDQZkFzUpFTiKUH12HYMBfHtGLkc3
+  WIF Compressed:   L5STgEEm3ni7TFAwidfxD1tRm1XwAhmYpuNXPd6g1N641T2c3zTM
+
+Solution 3:
+  k1 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  k2 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  Method: Addition
+  Target: 0851725dfbd37d4ec7f8b851e56d34b6fa0a6184845afdd477639f85499c0a3e
+  WIF Uncompressed: 5Hsx4HknAF9qtTdC6JxxvWL6xi1H3i38SCuus57WN94ot2o7oc5
+  WIF Compressed:   KwVt1WxEKoU2n8WjxSJ1qATKJszDpx8PpFaYL19icJbousJzibTa
+
+Solution 4:
+  k1 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  k2 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  Method: Subtraction
+  Target: 88d968378a7a5836e228c03cac3666855e650040c4b8d282650f173ce39ecb4f
+  WIF Uncompressed: 5JrZDEt3tFXQGffmXZiyh5ScGwLdNsg8DDqHGmEsfKB9h2LgU4P
+  WIF Compressed:   L1ojB2GKjD7Bi9g7XuSHDtc2hLqdZYfgpwe6paGEc7DoMXhzqP1z
+
+Solution 5:
+  k1 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  k2 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  Method: Addition
+  Target: 7f2354031780b03386ceba5ce86246595fe34586d94c22846c7759761b47cb72
+  WIF Uncompressed: 5JnH9iYvKH4rdJJgW9uGkGVwSxqABpTTSRkifCZyE4gvuFb5Qtu
+  WIF Compressed:   L1UrHUPtKfv23DP3MgHiVyQjKbRZYkTmhEFxsc4XAfHEuQx2QhmX
+
+Solution 6:
+  k1 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  k2 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  Method: Subtraction
+  Target: 120786926ecd25522352be31a94154e2f88c1c3e6fc7add26ffb5d4c11f30a1b
+  WIF Uncompressed: 5HxE7p5ujDcPXpzH7infsKGmngWkEmFoCzzUUdnQoPZ2fnySSKs
+  WIF Compressed:   Kwpku4pfjLfCT4op8fSaZ5ecgdQHqkLJwxxgGyMS3kYNMz3qaUdE
+
+Solution 7:
+  k1 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  k2 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  Method: Addition
+  Target: 9730e439919019f059d660f29aa65dcb380650f9074804f5310297e321b3e9a3
+  WIF Uncompressed: 5JxsYyyVBacE4PXkjBiGMDuu7SAznkAujkFUXZnyKgPt3NeW5B8
+  WIF Compressed:   L2Hc8AUKPhLUdxSk1CH8kFzV1Q784uYjmfttVujubSszHQbRhz1R
+
+Solution 8:
+  k1 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  k2 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  Method: Subtraction
+  Target: f9f9f65bf4bdbb95504b179bf6fd3d6fdb17edb2f1146b9d6b427d6bdbbd2d2b
+  WIF Uncompressed: 5KiNtn7NiLkFEZLuoGbgDgTWWTRikX8SEcJqbZXz18q6FtrWxfh
+  WIF Compressed:   L5bddY78qU9spqkt3Dr46yA1F1e7H5ypP4qjVYbkbbZGCTFVgT6c
+
+Solution 9:
+  k1 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  k2 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  Method: Addition
+  Target: 9be8c1d7d32eb2dda7021c61b518351b65acf17c7725fff3eb5381cca98a281e
+  WIF Uncompressed: 5Jzx5Bj57t9tfBt8Ytz9XdmCDKrTYnV6WeEqr8JfnU3K1QXT9Rm
+  WIF Compressed:   L2Sn5ULhBNnF1Z2gKnTEeDG4VQDJBHm1KqN6bqEzBgMCUQv5bK4L
+
+Solution 10:
+  k1 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  k2 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  Method: Subtraction
+  Target: 0abde7424ce0dd57fce0a3d3237499df0d3d8fb72e122f9d0ee0cb0a7c4f5291
+  WIF Uncompressed: 5Hu1y1zREJcd25Mj1RC169UjQtAPYUW1JqdDAe3nEmWdmczry9P
+  WIF Compressed:   KwabGFNRwikDykEUQqmZPiRQCQpSVvP2MjcphYXGfmToHmACDkxX
+
+Solution 11:
+  k1 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  k2 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  Method: Addition
+  Target: 130f59a048b45aa6c4d95c2508e1ce960747f13bb26d2d7186446a8fc5eb5ccf
+  WIF Uncompressed: 5HxgSdJ7K6CUeXbe4Xi4vc4i9zLkP3g42EULoY7YN2ioUzULGGy
+  WIF Compressed:   Kwrm67CWrqwf2e3taaYGKbmNeg6AUJoNLSTgQQKsRpbWAFosJkZK
+
+Solution 12:
+  k1 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  k2 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  Method: Subtraction
+  Target: 93974f79d75b358edf09640fcfab00646ba28ff7f2cb021f73efe2475fee1de0
+  WIF Uncompressed: 5JwHbaRP36a32jeDVnU5hBBDUDg6iDK3oFPiDEEufCq9J3ewoyV
+  WIF Compressed:   L2AcFcWcGFaoxfDGA3gXiKv638waCuLfM8XEtySPRdDVbv92uaaw
+
+Solution 13:
+  k1 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  k2 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  Method: Addition
+  Target: 89e13b4564618d8b83af5e300bd6e0386d20d53e075e52217b58248097971e03
+  WIF Uncompressed: 5Js1Y46FU87VPNH8UNeNkNEYeFAdXA6P2TK9bfa1DxLvWDaLdC7
+  WIF Compressed:   L1qjN4eAriPeHivBypXxzQinfPXWC78kDR96x1EfzBGw9oUXhraU
+
+Solution 14:
+  k1 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  k2 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  Method: Subtraction
+  Target: 1cc56dd4bbae02aa20336204ccb5eec205c9abf59dd9dd6f7edc28568e425cac
+  WIF Uncompressed: 5J2xW9dEt4f2Htxj5wXmsR1NyxrDa6tio2YuR6nSoHD2GkZzd33
+  WIF Compressed:   KxBdyf4xGP8phaLxkogq3Wxg2RWEV71HU9qpMNXasGY4cNXoXhMf
+
+Solution 15:
+  k1 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  k2 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  Method: Addition
+  Target: a1eecb7bde70f74856b704c5be1af7aa4543e0b0355a34923fe362ed9e033c34
+  WIF Uncompressed: 5K3bwKWpLRerpTWChQTNMKeWJiWU85oqKmouU2o1Ka3sePw9sVo
+  WIF Compressed:   L2eVCkibvjp6tTytdLXPEhJYMCD4iGDiHrn2aJv4QxsgXo9eSjxW
+
+Solution 16:
+  k1 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  k2 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  Method: Subtraction
+  Target: 04b7dd9e419e98ed4d2bbb6f1a71d7502da6a0836fddfafeba50e9e987d63e7b
+  WIF Uncompressed: 5HrN6tCg1m7erojeruinGTbRKVWNyBBGVi49YjZShfW58ewQQaV
+  WIF Compressed:   KwNt8xzXCMiN6qHG7HhQoENvLcpfxwvKPiCtj4rCSUwKENsmiFfc
+
+Solution 17:
+  k1 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  k2 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  Method: Addition
+  Target: 0851725dfbd37d4ec7f8b851e56d34b6fa0a6184845afdd477639f85499c0a3e
+  WIF Uncompressed: 5Hsx4HknAF9qtTdC6JxxvWL6xi1H3i38SCuus57WN94ot2o7oc5
+  WIF Compressed:   KwVt1WxEKoU2n8WjxSJ1qATKJszDpx8PpFaYL19icJbousJzibTa
+
+Solution 18:
+  k1 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  k2 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  Method: Subtraction
+  Target: 772697c87585a7c91dd73fc353c999795c49dca5ea8fcdb95ac3474fec9775f2
+  WIF Uncompressed: 5Jim8MUA86HoPAgVTQnpSLeLYWa2A5e8ZL7QAsqC7oX9NY5xmER
+  WIF Compressed:   L1DKmTLsGJM9iqjJba1ENqhoG5Wk75UtMhMFGbMi52L3wgLff3UL
+
+Solution 19:
+  k1 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  k2 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  Method: Addition
+  Target: 130f59a048b45aa6c4d95c2508e1ce960747f13bb26d2d7186446a8fc5eb5ccf
+  WIF Uncompressed: 5HxgSdJ7K6CUeXbe4Xi4vc4i9zLkP3g42EULoY7YN2ioUzULGGy
+  WIF Compressed:   Kwrm67CWrqwf2e3taaYGKbmNeg6AUJoNLSTgQQKsRpbWAFosJkZK
+
+Solution 20:
+  k1 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  k2 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  Method: Subtraction
+  Target: 6c68b08628a4ca7120f69bf03054ff9a4f0c4ceebc7d9e1c4be27c4570482361
+  WIF Uncompressed: 5Je2k1vpyFFAd6i3VC3iSEujMEEYpk1CyJYyEQqA7us9mZQkmBM
+  WIF Compressed:   KzrSgs6ajFsXULC9yRkytQPjvHQoTiouqWU7CCBZFWLMhHuP76Qc
+
+Solution 21:
+  k1 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  k2 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  Method: Addition
+  Target: f649ebcb8d0657fca4a5fa203c2bdfd2bc2d222cc3dbf03dc73aa0c607df4164
+  WIF Uncompressed: 5KgkhPZzMunfkTbtvNFC6ZQ9msaG8mEWGwoLbuMR6zMS75p5RRw
+  WIF Compressed:   L5UTsGccBHza2pR2AYmdyY1Bj4DooGEcDNsXX457PS9BoihtVMvD
+
+Solution 22:
+  k1 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  k2 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  Method: Subtraction
+  Target: 892e1e5ae452cd1b4129fdf4fd0aee5c54d5f8e45a577b8bcabea49bfe8a800d
+  WIF Uncompressed: 5JrhfV6ymrLCezHVXw8bDcAz7bFrBi2r3X36RLZrgKDXsbuo3EW
+  WIF Compressed:   L1pNUs3PaxjkSfqnwXvW2eF566CY6G79U7aEvRN2GXQKGHoBvEok
+
+Solution 23:
+  k1 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  k2 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  Method: Addition
+  Target: 0e577c020715c1b977ada0b5ee6ff745d9a150b8428f3272cbf380a63e151e54
+  WIF Uncompressed: 5HvbvRYXNnep3jFGEpSBkCDR46fHd1MsFLUyUybquF5NX251CNA
+  WIF Compressed:   Kwhb8oL95AVtf3TxFzNAReVoAfyzMvb6nGzUJUpnqb8HyFZEidGC
+
+Solution 24:
+  k1 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  k2 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  Method: Subtraction
+  Target: 71208e246a43635e6e22575f4ac6d6ea7cb2ed722c5b991b0633662ef81e61dc
+  WIF Uncompressed: 5Jg7GDgQuYnqDu4RJuKbcem2T7v1anKPkCYLYyLrahWajSeuizC
+  WIF Compressed:   L11ceAxxWwKHqvn6J1w5nMfKQHWya72BPfwKJ7gdqjoZtJC9FbZ9
+
+Solution 25:
+  k1 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  k2 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  Method: Addition
+  Target: 7f2354031780b03386ceba5ce86246595fe34586d94c22846c7759761b47cb72
+  WIF Uncompressed: 5JnH9iYvKH4rdJJgW9uGkGVwSxqABpTTSRkifCZyE4gvuFb5Qtu
+  WIF Compressed:   L1UrHUPtKfv23DP3MgHiVyQjKbRZYkTmhEFxsc4XAfHEuQx2QhmX
+
+Solution 26:
+  k1 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  k2 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  Method: Subtraction
+  Target: edf8796d9132daaddcad41ce56beab1bc222c0a83f80f2694fd70140be433726
+  WIF Uncompressed: 5Kd6DnGJH8Cp81MysFj8G6pB2mPuJC4TZYxCy1Heyj9GPmoGLK4
+  WIF Compressed:   L5CJ3QnXGAo8yvbbzozw3efDGnx5pspGEg2fpCGWdP1UwE2w7Qzc
+
+Solution 27:
+  k1 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  k2 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  Method: Addition
+  Target: 89e13b4564618d8b83af5e300bd6e0386d20d53e075e52217b58248097971e03
+  WIF Uncompressed: 5Js1Y46FU87VPNH8UNeNkNEYeFAdXA6P2TK9bfa1DxLvWDaLdC7
+  WIF Compressed:   L1qjN4eAriPeHivBypXxzQinfPXWC78kDR96x1EfzBGw9oUXhraU
+
+Solution 28:
+  k1 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  k2 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  Method: Subtraction
+  Target: e33a922b4451fd55dfcc9dfb334a113cb4e530f1116ec2cc40f6363641f3e495
+  WIF Uncompressed: 5KYMqSiy8HABMwPXu2z2G15ZqV4RxrRXyXPn2YHcyqVGnkPKXt8
+  WIF Compressed:   L4qQxpYEj8KWjR4TNfkgZDM9vzr9BX9HiV9Xjo6Mos1ngqZ3fC7U
+
+Solution 29:
+  k1 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  k2 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  Method: Addition
+  Target: f649ebcb8d0657fca4a5fa203c2bdfd2bc2d222cc3dbf03dc73aa0c607df4164
+  WIF Uncompressed: 5KgkhPZzMunfkTbtvNFC6ZQ9msaG8mEWGwoLbuMR6zMS75p5RRw
+  WIF Compressed:   L5UTsGccBHza2pR2AYmdyY1Bj4DooGEcDNsXX457PS9BoihtVMvD
+
+Solution 30:
+  k1 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  k2 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  Method: Subtraction
+  Target: 76d1e1a51bad32e4bed6020b02f511a265d8e40254f124aff513b9f0d1abc134
+  WIF Uncompressed: 5Jicg7FEEVUzzr4mT3PCuouxhreoMFHQj2ub2JWD6oUmBuKN78M
+  WIF Compressed:   L1CgTcZoQYiazKZdBwX1a64ksL9qaN3RiXR7AkFvQc9Y2vHPnL1i
+
+Solution 31:
+  k1 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  k2 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  Method: Addition
+  Target: 85295da722c2f49e3683a2c0f16508e83f7a34ba97805722c1073a970fc0df88
+  WIF Uncompressed: 5Jpw1rLfXpZpnZvkefNVZxPFYMVAm7nCFZKnH74JmAhVYJqpQoU
+  WIF Compressed:   L1gZQkmo52wsv8LFfEMs6TTDBPRL5ivUfFftr5jbPwoixoAzZaYC
+
+Solution 32:
+  k1 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  k2 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  Method: Subtraction
+  Target: e7f26fc985f096432cf8596a4dbbe88ce28bd174814cbdcafb47201fc9ca2310
+  WIF Uncompressed: 5KaSMeUZ4ahqxjjuikFuSQvrwNjtitjikRP9M6oKSd8hkmuS7i3
+  WIF Compressed:   L4zav8QcWomH71ePhFvnTAcjQzxKHuMZGecjqibSQ6UzsqoGJN56
+
+Solution 33:
+  k1 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  k2 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  Method: Addition
+  Target: 9730e439919019f059d660f29aa65dcb380650f9074804f5310297e321b3e9a3
+  WIF Uncompressed: 5JxsYyyVBacE4PXkjBiGMDuu7SAznkAujkFUXZnyKgPt3NeW5B8
+  WIF Compressed:   L2Hc8AUKPhLUdxSk1CH8kFzV1Q784uYjmfttVujubSszHQbRhz1R
+
+Solution 34:
+  k1 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  k2 (Chunk 1): c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  Method: Subtraction
+  Target: 060609a40b42446aafb4e8640902c28edf96ef33be34349e548fe120f4791416
+  WIF Uncompressed: 5HrwSpEqJ14xRH1MBhv7ujdSJzUvnSBpXwdqr5Y5mysCogpxnU9
+  WIF Compressed:   KwRRJwW4A3JTc9eY6FbTVm9piQiGPYAkoa9cbd2C5Xzb6ktum9r9
+
+Solution 35:
+  k1 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  k2 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  Method: Addition
+  Target: a1eecb7bde70f74856b704c5be1af7aa4543e0b0355a34923fe362ed9e033c34
+  WIF Uncompressed: 5K3bwKWpLRerpTWChQTNMKeWJiWU85oqKmouU2o1Ka3sePw9sVo
+  WIF Compressed:   L2eVCkibvjp6tTytdLXPEhJYMCD4iGDiHrn2aJv4QxsgXo9eSjxW
+
+Solution 36:
+  k1 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  k2 (Chunk 2): d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  Method: Subtraction
+  Target: fb482261be616712b2d44490e58e28ae8d083c633f6aa53d058174a3486002c6
+  WIF Uncompressed: 5KixEi9XzahYo2cc84o1rxVXVxQGZn8zGqtXtuWd5TCDvtigkkZ
+  WIF Compressed:   L5eAoWcfo9jyLA8A2Bk6oVvucoXhhgEFnvnTN6mkEecY4qEXUSsb
+
+Solution 37:
+  k1 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  k2 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  Method: Addition
+  Target: 0e577c020715c1b977ada0b5ee6ff745d9a150b8428f3272cbf380a63e151e54
+  WIF Uncompressed: 5HvbvRYXNnep3jFGEpSBkCDR46fHd1MsFLUyUybquF5NX251CNA
+  WIF Compressed:   Kwhb8oL95AVtf3TxFzNAReVoAfyzMvb6nGzUJUpnqb8HyFZEidGC
+
+Solution 38:
+  k1 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  k2 (Chunk 3): 3fbc051338ac928bf2e7fc0a9c9b67182b2a1f15377565c6e913736a9b19c018
+  Method: Subtraction
+  Target: 8edf71db95bc9ca191dda8a0b53929143dfbef7482ed0720b99ef85dd817df65
+  WIF Uncompressed: 5JuD5Nfo6o2NRwHqg5CCWmKvNKzdxAzs2MQLtfjDCRBiL4RFU9m
+  WIF Compressed:   L21SJJeEUa93b4dKqTWRpNeWZ8qQ6X8Pny42o3wJqPkHQuzU3GeA
+
+Solution 39:
+  k1 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  k2 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  Method: Addition
+  Target: 85295da722c2f49e3683a2c0f16508e83f7a34ba97805722c1073a970fc0df88
+  WIF Uncompressed: 5Jpw1rLfXpZpnZvkefNVZxPFYMVAm7nCFZKnH74JmAhVYJqpQoU
+  WIF Compressed:   L1gZQkmo52wsv8LFfEMs6TTDBPRL5ivUfFftr5jbPwoixoAzZaYC
+
+Solution 40:
+  k1 (Chunk 5): ce9b76eece692f2d84c5a4ab51d4902c69260e89ba626ce7a2b26bc873319f7d
+  k2 (Chunk 4): b68de6b85459c570b1bdfe159f9078ba910303178c668a76de272d5b6cc5814c
+  Method: Subtraction
+  Target: 180d90367a0f69bcd307a695b2441771d8230b722dfbe270c48b3e6d066c1e31
+  WIF Uncompressed: 5Hzsywsewm7Mh6cMGEFth1A5t5Akp4aY28ZY6YGkLVZbJrNx5d6
+  WIF Compressed:   Kx2U2MCaUhh4Kym2SDWj9Zh6YRQ4Nio1uzNcFT2WH34rRNH14DA2
+

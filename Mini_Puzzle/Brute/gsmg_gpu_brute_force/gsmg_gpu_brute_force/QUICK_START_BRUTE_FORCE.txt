@@ -1,0 +1,68 @@
+# QUICK START GUIDE - GPU Brute Force
+
+## 1. Setup (60 seconds)
+
+```bash
+chmod +x setup_brute_force.sh
+./setup_brute_force.sh
+```
+
+## 2. Run (minutes to hours)
+
+```bash
+python3 optimized_gpu_brute_force_new.py
+```
+
+## 3. Wait for Results
+
+The script will test ~25 million permutations across 7 smart character subsets.
+
+**Estimated Time:**
+- With GPU: 5-15 minutes
+- Without GPU: 20-60 minutes
+
+## What It Does
+
+Tests mappings from puzzle alphabet `abcdefghio` to Base58 characters to find:
+- k1: 51-char WIF key starting with '5'
+- k2: 52-char WIF key starting with 'K' or 'L'
+
+## Success Looks Like:
+
+```
+🎉 FOUND VALID WIF KEY(S)!
+  k1: 5KLdDt3RwxgEeUSLGE9yHTBhowoMmdefzBHA4ZfUfQcV9bR6dLz (Valid: True)
+  k2: L3wcsrHj7akBEQ6p2D4bRcaF8CscfzmH5NNJzjAq6XDdEvv8ok5R (Valid: True)
+🏆 COMPLETE SOLUTION FOUND! 🏆
+```
+
+## Next Steps After Finding Keys:
+
+1. Calculate `k_final = (k1 + k2) mod n`
+2. Verify k_final generates address: `1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe`
+3. Claim the 2.5 BTC prize!
+
+## Troubleshooting:
+
+**"No module named 'numba'"**
+```bash
+pip3 install numba numpy
+```
+
+**Takes too long**
+- Let it run! 25M permutations takes time
+- GPU speeds it up 10-100x
+- Progress updates every few seconds
+
+**No results found**
+- The mapping might not be in the smart subsets
+- May need exhaustive search (much slower)
+- Or a different decoding method is required
+
+## Files:
+
+- `optimized_gpu_brute_force_new.py` - Main script (run this!)
+- `README_BRUTE_FORCE.md` - Full documentation
+- `setup_brute_force.sh` - Setup script
+
+For full details, see README_BRUTE_FORCE.md

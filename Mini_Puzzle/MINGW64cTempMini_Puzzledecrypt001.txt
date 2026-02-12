@@ -1,0 +1,1410 @@
+
+Dad@DESKTOP-LAB MINGW64 ~
+$ cd C:/Temp/Mini_Puzzle/temp
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ python C:\Temp\Mini_Puzzle\temp\01_extract.py
+C:\Users\Dad\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'C:\\Temp\\Mini_Puzzle\\temp\\TempMini_Puzzletemp01_extract.py': [Errno 2] No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ python 01_extract.py
+======================================================================
+STEP 1: EXTRACT CONTENT FROM HTML
+======================================================================
+
+✗ ERROR: salphaseion.html not found!
+  Please save the HTML document as salphaseion.html in this folder
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ python 01_extract.py
+======================================================================
+STEP 1: EXTRACT CONTENT FROM HTML
+======================================================================
+
+✗ ERROR: salphaseion.html not found!
+  Please save the HTML document as salphaseion.html in this folder
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ python 01_extract.py
+======================================================================
+STEP 1: EXTRACT CONTENT FROM HTML
+======================================================================
+
+✓ Opened salphaseion.html
+
+Extracting SALPHASEION section...
+✓ Extracted 2179 characters
+  Preview: d b b i b f b h c c b e g b
+ i h a b e b e i h b e g g e g e b e b b g e h h e b...
+
+Extracting COSMIC DUALITY section...
+✓ Extracted 1819 characters
+  Preview: U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtX...
+
+======================================================================
+RESULT: Two files created
+  • salphaseion_content.txt - SALPHASEION raw content
+  • cosmic_duality_content.txt - COSMIC DUALITY encrypted blob
+======================================================================
+
+Next: Run 02_decode_abba.py
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ 05_test_openssl.ps1
+bash: 05_test_openssl.ps1: command not found
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ python decrypt.py
+Traceback (most recent call last):
+  File "C:\Temp\Mini_Puzzle\temp\decrypt.py", line 10, in <module>
+    with open("cosmic_duality_real.txt", "rb") as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'cosmic_duality_real.txt'
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ python decrypt.py
+Decrypted answer written to answer3_2.txt
+Preview:
+��vjp��}���%�d,�ǪW*RA�; ��B����<Y�z��
+�owʩJi��/�      ѱ��l.>�^��,/�␦7�qPT�F�$��W�#|̬�tY␦�7��
+��B�����QY?k�T}+�ܱI-��HA�(�O��N�t?��>��lp�Bh4��}M�e�;ϖE��␦����V;�n
+��h�T�x������I� ?�y>
+                    <u�}���;2C;��ɴ��rvn�W��$�QO�?�N�!iԒ�z�%�>X6�du�� �����(Yse�
+                                                                               "�m���:KT0�␦������4����^�17[��>�d~�c�8�}z�;A�Z�1u�␦#G�4Or*��[8�c9Kd��ޟ��ѵ*
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ python extraction_tools.py
+GSMG PUZZLE SOLVER - EXTRACTION TOOLS
+
+TEST 1: ABBA Decoding
+--------------------------------------------------------------------------------
+Input: abbabbababbaaaaabaabbbbabaaabbbaababbabaaababbbbaa...
+Output: m`[158][142]Z/[3][155]j[205]n
+
+TEST 2: Hex Section Decoding
+--------------------------------------------------------------------------------
+Input: agdafaohaeiecggchgicbbhcgbehcfcoabicfdhhcdbcacagbd...
+pairs: Aa7s"rX60d4#$"rQEDS`&HG@$p@4h
+triples: |q@
+adaptive: taYSw8y2(7%60)6H4#1rA"'%EDS`&HG@$pt4iF
+
+================================================================================
+EXTRACTION COMPLETE
+================================================================================
+
+To use with actual puzzle content:
+1. Save Salphaseion HTML to file
+2. Run this script with the HTML content
+3. Analyze each section
+4. Test password candidates on Cosmic Duality
+
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ python decrypt
+C:\Users\Dad\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'C:\\Temp\\Mini_Puzzle\\temp\\decrypt': [Errno 2] No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ cd decrypt
+bash: cd: decrypt: No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ python 01_extract.py
+======================================================================
+STEP 1: EXTRACT CONTENT FROM HTML
+======================================================================
+
+✓ Opened salphaseion.html
+
+Extracting SALPHASEION section...
+✓ Extracted 2179 characters
+  Preview: d b b i b f b h c c b e g b
+ i h a b e b e i h b e g g e g e b e b b g e h h e b...
+
+Extracting COSMIC DUALITY section...
+✓ Extracted 1819 characters
+  Preview: U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtX...
+
+======================================================================
+RESULT: Two files created
+  • salphaseion_content.txt - SALPHASEION raw content
+  • cosmic_duality_content.txt - COSMIC DUALITY encrypted blob
+======================================================================
+
+Next: Run 02_decode_abba.py
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ python extraction_tools.py
+GSMG PUZZLE SOLVER - EXTRACTION TOOLS
+
+TEST 1: ABBA Decoding
+--------------------------------------------------------------------------------
+Input: abbabbababbaaaaabaabbbbabaaabbbaababbabaaababbbbaa...
+Output: m`[158][142]Z/[3][155]j[205]n
+
+TEST 2: Hex Section Decoding
+--------------------------------------------------------------------------------
+Input: agdafaohaeiecggchgicbbhcgbehcfcoabicfdhhcdbcacagbd...
+pairs: Aa7s"rX60d4#$"rQEDS`&HG@$p@4h
+triples: |q@
+adaptive: taYSw8y2(7%60)6H4#1rA"'%EDS`&HG@$pt4iF
+
+================================================================================
+EXTRACTION COMPLETE
+================================================================================
+
+To use with actual puzzle content:
+1. Save Salphaseion HTML to file
+2. Run this script with the HTML content
+3. Analyze each section
+4. Test password candidates on Cosmic Duality
+
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ python 02_decode_abba.py
+======================================================================
+STEP 2: DECODE ABBA BINARY SECTIONS
+======================================================================
+
+✓ Opened salphaseion_content.txt
+
+Searching for ABBA binary sections...
+Found 0 ABBA sections
+
+✗ No ABBA sections found or decoded
+
+Next: Run 03_decode_hex.py
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ python 03_decode_hex.py
+======================================================================
+STEP 3: DECODE HEX SECTIONS
+======================================================================
+
+✓ Opened salphaseion_content.txt
+
+Searching for HEX sections (a=1-26, o=0)...
+Found 28 potential sections
+
+Section 1 (36 letters):
+  Numbers: 981252598257757525227588528862126482...
+  Decoded: 'RYWuu%"uRbd'
+
+Section 2 (36 letters):
+  Numbers: 566342263337262557753254392626679725...
+  Decoded: 'VcB&37&%Wu2T9&&g%'
+
+Section 3 (36 letters):
+  Numbers: 551251221221212211112122212111222112...
+  Decoded: 'UQ"!!"!"!!"!'
+
+Section 4 (36 letters):
+  Numbers: 112212112122221111222112212221212122...
+  Decoded: '"!"""!!"!!!"'
+
+Section 5 (36 letters):
+  Numbers: 122121221221112212112122211221222121...
+  Decoded: '!!"!"!"!!"!!'
+
+Section 6 (36 letters):
+  Numbers: 161547755463241288773143654476472797...
+  Decoded: "GuTc$w1CeDvG'"
+
+Section 7 (36 letters):
+  Numbers: 115477916153787734198581821897359672...
+  Decoded: 'TwaSxw45r'
+
+Section 8 (36 letters):
+  Numbers: 675671961296171575137225176775577162...
+  Decoded: 'gVqur%guWqb'
+
+Section 9 (36 letters):
+  Numbers: 137634259661163941874556788377157452...
+  Decoded: 'v4%a9AEVxwtR'
+
+Section 10 (36 letters):
+  Numbers: 885757835714624917563937796437117762...
+  Decoded: 'WWWbIV97yd7wb'
+
+Section 11 (36 letters):
+  Numbers: 971936285315323591935272795345776757...
+  Decoded: '6(S25RrySEwgW'
+
+Section 12 (36 letters):
+  Numbers: 154776993999696877376743477563255975...
+  Decoded: 'Gv9ihw7gCGuc%Yu'
+
+Section 13 (36 letters):
+  Numbers: 692792777886237964585464179342893719...
+  Decoded: "i'wx#ydXTdB7"
+
+Section 14 (36 letters):
+  Numbers: 541581878839847868299353299389899979...
+  Decoded: 'T9xh)S)y'
+
+Section 15 (36 letters):
+  Numbers: 447588464383216762818517575316587367...
+  Decoded: 'DuFC!gbWSXsg'
+
+Section 16 (36 letters):
+  Numbers: 777317688782198949588645774739877777...
+  Decoded: 'wshIXEwG9ww'
+
+Section 17 (36 letters):
+  Numbers: 814189797275375463477133458993976266...
+  Decoded: 'Ayru7TcGq3Ebf'
+
+Section 18 (36 letters):
+  Numbers: 877159422592259964764895559555396474...
+  Decoded: 'qYB%%dvHUU9dt'
+
+Section 19 (36 letters):
+  Numbers: 184977685769166977232358351262542992...
+  Decoded: 'IwhWiiw##X5bT)'
+
+Section 20 (36 letters):
+  Numbers: 626454558797611977172599389549625872...
+  Decoded: 'bdTUaw%8IbXr'
+
+Section 21 (36 letters):
+  Numbers: 3318829929229243218194861899893261741...
+  Decoded: '3)"C!2at'
+
+Section 22 (36 letters):
+  Numbers: 610185953773879322837258363012936488...
+  Decoded: 'a7s"rX60d'
+
+Section 23 (36 letters):
+  Numbers: 3422317241902272514544526360264874024...
+  Decoded: '4"1rA"rQEDRc`&Ht'
+
+Section 24 (36 letters):
+  Numbers: 700997403410069482619812560211869181920891420...
+  Decoded: 'p@4aVB'
+
+Section 25 (18 letters):
+  Numbers: 91925021181211920301313114421...
+  Decoded: 'P!11B'
+
+Section 26 (15 letters):
+  Numbers: 11212314231132202619242184...
+  Decoded: '!##2 &$!'
+
+Section 27 (28 letters):
+  Numbers: 26122112121221222112221211122...
+  Decoded: '&!!"!"'
+
+Section 28 (16 letters):
+  Numbers: 1121212221121172224...
+  Decoded: '!!"!r"'
+
+✗ No HEX sections decoded
+
+Next: Run 04_combine_passwords.py
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ cd decrypt
+bash: cd: decrypt: No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ cd /decrypt
+bash: cd: /decrypt: No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/temp
+$ cd ..
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cd /decrypt
+bash: cd: /decrypt: No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cd decrypt
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python 01_extract.py
+======================================================================
+STEP 1: EXTRACT CONTENT FROM HTML
+======================================================================
+
+✓ Opened salphaseion.html
+
+Extracting SALPHASEION section...
+✓ Extracted 2179 characters
+  Preview: d b b i b f b h c c b e g b
+ i h a b e b e i h b e g g e g e b e b b g e h h e b...
+
+Extracting COSMIC DUALITY section...
+✓ Extracted 1819 characters
+  Preview: U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtX...
+
+======================================================================
+RESULT: Two files created
+  • salphaseion_content.txt - SALPHASEION raw content
+  • cosmic_duality_content.txt - COSMIC DUALITY encrypted blob
+======================================================================
+
+Next: Run 02_decode_abba.py
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python 02_decode_abba.py
+======================================================================
+STEP 2: DECODE ABBA BINARY SECTIONS
+======================================================================
+
+✓ Opened salphaseion_content.txt
+
+Searching for ABBA binary sections...
+Found 0 ABBA sections
+
+✗ No ABBA sections found or decoded
+
+Next: Run 03_decode_hex.py
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python 03_decode_hex.py
+======================================================================
+STEP 3: DECODE HEX SECTIONS
+======================================================================
+
+✓ Opened salphaseion_content.txt
+
+Searching for HEX sections (a=1-26, o=0)...
+Found 28 potential sections
+
+Section 1 (36 letters):
+  Numbers: 981252598257757525227588528862126482...
+  Decoded: 'RYWuu%"uRbd'
+
+Section 2 (36 letters):
+  Numbers: 566342263337262557753254392626679725...
+  Decoded: 'VcB&37&%Wu2T9&&g%'
+
+Section 3 (36 letters):
+  Numbers: 551251221221212211112122212111222112...
+  Decoded: 'UQ"!!"!"!!"!'
+
+Section 4 (36 letters):
+  Numbers: 112212112122221111222112212221212122...
+  Decoded: '"!"""!!"!!!"'
+
+Section 5 (36 letters):
+  Numbers: 122121221221112212112122211221222121...
+  Decoded: '!!"!"!"!!"!!'
+
+Section 6 (36 letters):
+  Numbers: 161547755463241288773143654476472797...
+  Decoded: "GuTc$w1CeDvG'"
+
+Section 7 (36 letters):
+  Numbers: 115477916153787734198581821897359672...
+  Decoded: 'TwaSxw45r'
+
+Section 8 (36 letters):
+  Numbers: 675671961296171575137225176775577162...
+  Decoded: 'gVqur%guWqb'
+
+Section 9 (36 letters):
+  Numbers: 137634259661163941874556788377157452...
+  Decoded: 'v4%a9AEVxwtR'
+
+Section 10 (36 letters):
+  Numbers: 885757835714624917563937796437117762...
+  Decoded: 'WWWbIV97yd7wb'
+
+Section 11 (36 letters):
+  Numbers: 971936285315323591935272795345776757...
+  Decoded: '6(S25RrySEwgW'
+
+Section 12 (36 letters):
+  Numbers: 154776993999696877376743477563255975...
+  Decoded: 'Gv9ihw7gCGuc%Yu'
+
+Section 13 (36 letters):
+  Numbers: 692792777886237964585464179342893719...
+  Decoded: "i'wx#ydXTdB7"
+
+Section 14 (36 letters):
+  Numbers: 541581878839847868299353299389899979...
+  Decoded: 'T9xh)S)y'
+
+Section 15 (36 letters):
+  Numbers: 447588464383216762818517575316587367...
+  Decoded: 'DuFC!gbWSXsg'
+
+Section 16 (36 letters):
+  Numbers: 777317688782198949588645774739877777...
+  Decoded: 'wshIXEwG9ww'
+
+Section 17 (36 letters):
+  Numbers: 814189797275375463477133458993976266...
+  Decoded: 'Ayru7TcGq3Ebf'
+
+Section 18 (36 letters):
+  Numbers: 877159422592259964764895559555396474...
+  Decoded: 'qYB%%dvHUU9dt'
+
+Section 19 (36 letters):
+  Numbers: 184977685769166977232358351262542992...
+  Decoded: 'IwhWiiw##X5bT)'
+
+Section 20 (36 letters):
+  Numbers: 626454558797611977172599389549625872...
+  Decoded: 'bdTUaw%8IbXr'
+
+Section 21 (36 letters):
+  Numbers: 3318829929229243218194861899893261741...
+  Decoded: '3)"C!2at'
+
+Section 22 (36 letters):
+  Numbers: 610185953773879322837258363012936488...
+  Decoded: 'a7s"rX60d'
+
+Section 23 (36 letters):
+  Numbers: 3422317241902272514544526360264874024...
+  Decoded: '4"1rA"rQEDRc`&Ht'
+
+Section 24 (36 letters):
+  Numbers: 700997403410069482619812560211869181920891420...
+  Decoded: 'p@4aVB'
+
+Section 25 (18 letters):
+  Numbers: 91925021181211920301313114421...
+  Decoded: 'P!11B'
+
+Section 26 (15 letters):
+  Numbers: 11212314231132202619242184...
+  Decoded: '!##2 &$!'
+
+Section 27 (28 letters):
+  Numbers: 26122112121221222112221211122...
+  Decoded: '&!!"!"'
+
+Section 28 (16 letters):
+  Numbers: 1121212221121172224...
+  Decoded: '!!"!r"'
+
+✗ No HEX sections decoded
+
+Next: Run 04_combine_passwords.py
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python 04_combine_passwords.py
+======================================================================
+STEP 4: CREATE PASSWORD CANDIDATES
+======================================================================
+
+Total sections: 0
+
+Sections loaded:
+
+======================================================================
+CREATING PASSWORD CANDIDATES...
+======================================================================
+
+Password Candidates (0 total):
+
+======================================================================
+✓ Saved to test_passwords.txt
+======================================================================
+
+Next: Use OpenSSL to test these passwords:
+  openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -pass pass:<PASSWORD>
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python extraction_tools.py
+GSMG PUZZLE SOLVER - EXTRACTION TOOLS
+
+TEST 1: ABBA Decoding
+--------------------------------------------------------------------------------
+Input: abbabbababbaaaaabaabbbbabaaabbbaababbabaaababbbbaa...
+Output: m`[158][142]Z/[3][155]j[205]n
+
+TEST 2: Hex Section Decoding
+--------------------------------------------------------------------------------
+Input: agdafaohaeiecggchgicbbhcgbehcfcoabicfdhhcdbcacagbd...
+pairs: Aa7s"rX60d4#$"rQEDS`&HG@$p@4h
+triples: |q@
+adaptive: taYSw8y2(7%60)6H4#1rA"'%EDS`&HG@$pt4iF
+
+================================================================================
+EXTRACTION COMPLETE
+================================================================================
+
+To use with actual puzzle content:
+1. Save Salphaseion HTML to file
+2. Run this script with the HTML content
+3. Analyze each section
+4. Test password candidates on Cosmic Duality
+
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ openssl enc -aes-256-cbc -d -a \
+  -pass pass:baff7ec4a1686de56f065d9c72a557eec5977a94c155a18dd78ee833e0ab6f9b \
+  -in encrypted_final_segment.txt
+Can't open "encrypted_final_segment.txt" for reading, No such file or directory
+9C240100:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(encrypted_final_segment.txt, r)
+9C240100:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin
+Can't open "cosmic_duality.txt" for reading, No such file or directory
+A4240100:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(cosmic_duality.txt, r)
+A4240100:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23-iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ file cosmic_decrypted.bin
+cosmic_decrypted.bin: data
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ strings -n 10 cosmic_decrypted.bin
+bash: strings: command not found
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python -c "import re; print(re.findall(rb'[ -~]{10,}', open('cosmic_decrypted.bin', 'rb').read()))"
+[]
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted.py
+--- Analysis of cosmic_decrypted.bin ---
+Total Bytes: 1343
+Potential Hex Key: 8badeb454dbeb5d2263d8774b8b24f1bd14fd658bc7635cab922f80d5a7b54af
+No plain text found. Data is likely a raw key fragment.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted001.py
+--- Found Strings ---
+${_?{,
+3rnX=0
+_LZ wH%
+
+--- Potential Private Key Fragment (Hex) ---
+8badeb454dbeb5d2263d8774b8b24f1bd14fd658bc7635cab922f80d5a7b54af
+
+--- XOR operation with 'theone' saved to xor_output.bin ---
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted002.py
+App initialized. Ready to merge the Cosmic Duality.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted003.py
+C:\Users\Dad\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'C:\\Temp\\Mini_Puzzle\\decrypt\\cosmic_decrypted003.py': [Errno 2] No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted0032.py
+C:\Users\Dad\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'C:\\Temp\\Mini_Puzzle\\decrypt\\cosmic_decrypted0032.py': [Errno 2] No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted032.py
+--- Attempting Duality Merges ---
+Candidate 1 Result: 8badeb454dbeb5d2263d8774b8b24f1bd14fd658bc7635cab922f80d5a7b54ae
+Candidate 2 Result: e169d3bf8288d2d09030ea885361d70e64cd27c3e56d0a15d006f4643c8fa88c
+Candidate 3 Result: d0fd32d0758bbd025667b7425ee089ea038915c7b864bae27bb00f213dc981c5
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted044.py
+Final WIF Hex: 80e169d3bf8288d2d09030ea885361d70e64cd27c3e56d0a15d006f4643c8fa88c6b407aa1
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted045.py
+Final WIF Key: 5KXZTryvViYA194MtWMTcdTbyezm7zBsRP9C71WULTLRPCqcuoE
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted055.py
+Final WIF Solution: 5JmSC8GGU25bPwHx5njwV641mDfjNnrPmT4NwaQcknwh4zao5DJ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted065.py
+--- Final Phase Private Key Generation ---
+Candidate 1 WIF: 5JmSC8GGU25bPwHx5njwV641mDfjNnrPmT4NwaQcknwh4zao5DJ
+Candidate 2 WIF: 5J3UxDC3uz5hCjjgnPGh31im9GwSouE5TiVpfUmB1YVqopZV6Kt
+Candidate 3 WIF: 5KhdjQ9kjK92DXNYEHKKvk3bZPg1Uiwvx1kgoViTcufdUoiFzGJ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted075.py
+Final Solution WIF: 5JeFMGy3vaGpgeZc8at3PFa7Daust7MmaAQZyraoXDUsicL1Njz
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted085.py
+Uncompressed WIF: 5KhdjQ9kjK92DXNYEHKKvk3bZPg1Uiwvx1kgoViTcufdUoiFzGJ
+Compressed WIF: L5YM89Be1m4QNH44qd1tYCzTXy5B7N9T7pKpgDjzVVTW1aNhtmNG
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted095.py
+Uncompressed WIF: 5JULcGJxk1HJxRfgWbUjiTC9X4rpXLNL161mmmbXv1gTXsnrafS
+Compressed WIF: Kz7fYeaH2pEzFdsjPdBRXxcCbi2tktV8sP8QcbqRSz1A7FuQJhPn
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted099.py
+--- Testing Command Hash Duality ---
+
+Command: openssl enc -aes-256-cbc -d -a...
+Uncompressed: 5JULcGJxk1HJxRfgWbUjiTC9X4rpXLNL161mmmbXv1gTXsnrafS
+Compressed:   Kz7fYeaH2pEzFdsjPdBRXxcCbi2tktV8sP8QcbqRSz1A7FuQJhPn
+
+Command: openssl enc -aes-256-cbc -d -a...
+Uncompressed: 5KTt1VgS4aDEqSPEEhei1oAFv5v9AEiMGVVSr4nYroZBYP8bLge
+Compressed:   L4Ve9Bb3cmb24o37RURS2WjrqJhZ1mXWTNkZ5Zi3cpV3X4iV447t
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted100.py
+--- Testing Salted Command Duality ---
+
+Input: openssl enc -aes-256...
+Uncompressed WIF: 5JULcGJxk1HJxRfgWbUjiTC9X4rpXLNL161mmmbXv1gTXsnrafS
+
+Input: openssl enc -aes-256...
+Uncompressed WIF: 5Kamnk9yP7c98oM5SoaBPazP5PGU5T5ke2FUDX3gyfgJkU4cEAf
+
+Input: BellaCiao1_1openssl ...
+Uncompressed WIF: 5JRa6vnmy45fS8XarvuL9uVUpUdcLvjvqea8CvVmakNJhrtZtDc
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decrypted101.py
+--- Testing LUV 1106 Duality ---
+Uncompressed WIF: 5JETqUR7PzCEjJgLqWCNQ5ACsZApFWYyrtLaptu4UwRgjg1gGfu
+Compressed WIF:   Ky4RSx1RETSbbj2eZ5sBSqMdQ8zKZ3S9yBbSJQ4nNKDxPKFuSTph
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLUV000.py
+Final WIF: 5JmSC8GGU25bPwHx5njwV641mDfjNnrPmT4NwaQcknwh4zao5DJ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLUV001.py
+Final WIF (Uncompressed): 5JETqUR7PzCEjJgLqWCNQ5ACsZApFWYyrtLaptu4UwRgjg1gGfu
+Final WIF (Compressed):   Ky4RSx1RETSbbj2eZ5sBSqMdQ8zKZ3S9yBbSJQ4nNKDxPKFuSTph
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLUV002.py
+--- Testing LUV/Halving Variations ---
+
+Variation 1 (110 chars):
+Uncompressed WIF: 5HpXz3PsfMp6wda3RiTzhtevsF9iQgZe2Pty5MfuhFZiDzKVvQW
+
+Variation 2 (106 chars):
+Uncompressed WIF: 5JUKGt5GVW8Ebve3x7mrw4Md2oqUgfq4soaWF8GzvcZx4VRc1t9
+
+Variation 3 (196 chars):
+Uncompressed WIF: 5JETqUR7PzCEjJgLqWCNQ5ACsZApFWYyrtLaptu4UwRgjg1gGfu
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK000.py
+Final Living WIF: 5JgEEvr8rST4rH2CqWFHzhmieAb6GKTfJQ3HThk4uuHU7oxJAMA
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK001.py
+--- Testing LUV 1106 XOR Duality ---
+Hint: 'LUV 1106' -> WIF: 5Jcsk3jq2vHvzmqyJCiXQLo32bJZCZFLD8A5vMYi4eDav9yQnLp
+Hint: '1106' -> WIF: 5JfyrDXxbn1sr5cv1N6m3hN3qec6qks7cuH4vTks1ff5AByTf8Q
+Hint: 'luv 1106' -> WIF: 5KFrKPN5Fh2CcNfJKF2VVS9ndeVECzXvxFxcDvT2tMvtZb1C4b2
+Hint: 'LUV1106' -> WIF: 5JJpRffRFqtBozPnvjy7wWSheNLtEgsZehnBEeSexSQcvC9ka4Q
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK002.py
+Final Living WIF (Uncompressed): 5JULcGJxk1HJxRfgWbUjiTC9X4rpXLNL161mmmbXv1gVggEghn3
+Final Living WIF (Compressed):   Kz7fYeaH2pEzFdsjPdBRXxcCbi2tktV8sP8QcbqRSz1Kc1jqqPzr
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK003.py
+Final WIF (Uncompressed): 5JULcGJxk1HJxRfgWbUjiTC9X4rpXLNL161mmmbXv1gRhFcDYdy
+Final WIF (Compressed):   Kz7fYeaH2pEzFdsjPdBRXxcCbi2tktV8sP8QcbqRSz11zBHTBtVd
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK004.py
+LUV LE XOR WIF: 5JULcGJxk1HJxRfgWbUjiTC9X4rpXLNL161mmmbXv1g4dkqqQkk
+LUV Decimal Add WIF: 5JULcGJxk1HJxRfgWbUjiTC9X4rpXLNL161mmmbXv1gVggEghn3
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK004.py
+LUV LE XOR WIF: 5JULcGJxk1HJxRfgWbUjiTC9X4rpXLNL161mmmbXv1g4dkqqQkk
+LUV Decimal Add WIF: 5JULcGJxk1HJxRfgWbUjiTC9X4rpXLNL161mmmbXv1gVggEghn3
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK005.py
+Architect Sum WIF: 5JK918fCuAZHNeZQAA65Gxk3q7wL7vyXMb4dzMs9Bj6kEWGTJRF
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK006.py
+Plaintext XOR WIF: 5HpgRBLqaHnUGWDf5xcrVH9HHPux1kA1Hj8RZSxFjzzm46ugY6E
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK007.py
+Rotated Plaintext WIF: 5KGERHrf9HCFheJUwNZTaq9ALHBh4NgV7BXzQnarryWQrpBmfrw
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK008.py
+RIPEMD-160 XOR WIF: 5JhQfWJum2NTjvxLVmRAxSiqDWiYpLe4XQme7nXGS6HmgnQH6K7
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK009.py
+Funds Added WIF: 5JsoWAHZ7dYuzfrvqsV9A2CKBkBwBJnNJRBxN2KXwWwToPVyitU
+Funds Subtracted WIF: 5JsoWAHZ7dYuzfrvqsV9A2CKBkBwBJnNJRBxN2KXwWwPVta4i4m
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK010.py
+TXID Duality WIF: 5J9kqbt1DbCKZdvm5pHSzw58L8zaH38w1oHDqniBpUp71Zg61at
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK011.py
+TXID Hash160 XOR WIF: 5JkKhJJWvXgcQsaqzFa3fgJpNBWP9AM9tQPjMecH2cKeNQxaVK9
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK012.py
+Concatenated WIF: 5JsoWAHZ7dYuzfrvqsV9A2CJc389wcGQ4QYP3ccMbLetgW37w6H
+Reversed Concatenated WIF: 5K66bUUKGDp8gtZmCLQYWVVjzkhMF9NxPDcaCArqn81qH48zms6
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK013.py
+Halved Duality WIF: 5JsoWAHZ7dYuzfrvqstTJvrbHKfch5SwLBDAUiEKY2G2QctdRWr
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK014.py
+Halved Logic WIF: 5J5ynKFrn3qq5PnUaspH92xwRycaU9NnK5mEY9DxjffjoVzLa5w
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK015.py
+Halved/Funds Merged WIF: 5JsoWAHZ7dYuzfrvqsV9A2CJc389wcGQ4QYP3ccMbLevqHnRmnC
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL000.py
+Compressed WIF (The K/L Key): Kz7fYeaH2pEzFdsjPdBRXxcCbi2tktV8sP8QcbqRSz1A7FuQJhPn
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL001.py
+Architect Merged WIF (Compressed): L1uEFhz4kGKruYXNehqCzpGtheNaU2exn2uWJYB3tZkQbnAYNYJs
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL002.py
+Halved Scalar WIF: L3rHWGEZAYkoJecjVjshr8jiBcdZyGxtBV1WQuYpCFceX5V63gao
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL003.py
+LUV Displaced WIF: L1uEFhz4kGKruYXNehqCzpGwGRdG8VVF1smMMnpoTNdQ28yZGwJa
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL004.py
+Halved LUV WIF: L1uEFhz4kGKruYXNehqCzpGwGRdG8VVF1smMMnpnQpmyjJTq4KV2
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL005.py
+Halved Duality XOR WIF: KzGNpVxY8qF1o6VWfqUCzRBKxkz2CZDoGFnjUUwSg6APGUshaFXy
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL006.py
+Multisig Halved WIF: KxheVWx7xZvxw3zHaFhbkhf8iycegnzVsLJoTX1fc4Bb125t32YJ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL007.py
+C:\Users\Dad\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'C:\\Temp\\Mini_Puzzle\\decrypt\\cosmic_decryptedKL007.py': [Errno 2] No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL007.py
+Shifted Halving WIF: KyZUDgZ75UJEKPcMDhgFx3h94XAszXbeRiFWzU5xhwJpubaNPLzo
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL008.py
+Pre-Shift Funded WIF: KyZUDgZ75UJEKPcMDhgFx3h94XAszXbeRiFWzU5xhwJkADgf41ac
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL009.py
+Modular Halved WIF: L3rHWGEZAYkoJecjVjshr8jiBcdZyGxtBV1WQuYpCFcZmhVRqy1b
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL010.py
+Final LE-Funded WIF: L3rHWGEZAYkoJecjVjshr8jiBcdZyGxtBV4vX59VUEo52fyXrNv4
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL011.py
+Double-Funded WIF: KyZUDgZ75UJEKPcMDhgFx3h94XAszXbeRiFWzU5xhwJnYA2DHjhG
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL012.py
+Synchronized Halved WIF: L3rHWGEZAYkoJecjVjshr8jiBcdZyGxtBV1WQuYpCFcZmhVRqy1b
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL013.py
+Duality XOR WIF: L3rHWGEZAYkoJecjVjshr8jiBcdZyGxtBV1WQuYpCFcd9QFBN4KC
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL014.py
+Segmented XOR WIF: L3rHWGEZAYkoJecjVjshr8jiBcdZyGxtBV1WQuYpCFcd9QFBN4KC
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL015.py
+Split-Halved WIF: L2p8ztH95zKuBbmWoss2zxVEZpM5u9Wrja3ZqQzRNFk6GUa98gJw
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL016.py
+Hybrid Concatenated WIF: L1uEFhz4kGKruYXNehqCzpGtheNaU2exn2uWJYB3tZkF72Jint22
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL017.py
+XOR Hybrid WIF: KxheVWx7xZvxw3zHaFhbkhf8iycegnzVsLJoTX1fc4Bb125t32YJ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL018.py
+Agreement Halved WIF: KwxgLb38gd6nL9LogUcTKzPEnoAaGgMGrSXF3LBPj9pr2CN7USwS
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL019.py
+Revelator Split WIF: L2p8ztH95zKuBbmWoss2zxVGGuhfNsx31pmHuChazT9SGDGQmjhs
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL020.py
+Funded Join WIF: KyZUDgZ75UJEKPcMDhgFx3h7n8YYAJBWJnpbTqm5sQcFpaQS1VJo
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL021.py
+Shifted Join WIF: KyZUDgZ75UJEKPcMDhgFx3h7n8YYAJBWJnpbTqm5sQcFpaQS1VJo
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL022.py
+Mirror-Joined WIF: L17pgmd8FF8UXSt3UmcJbv3HG2G55X2s4WBzWCsHJQwWnnw5Z3F3
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL023.py
+Final Mirrored Halved WIF: KyAmSDNdpxhY8LngdjZokbaK4KVHU3NTT2TqZg7CaLCouqKBYYLN
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL024.py
+Architect's Final WIF: KyAmSDNdpxhY8LngdjZokbaK4KVHU3NTT2TqZg7CaLD48yKBhfBD
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL025.py
+Corrected LE-Funded WIF: KyAmSDNdpxhY8LngdjZokbaK4KVHU3NTT2afn1JZ8Ja4evMcuUXY
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL026.py
+Targeted Architect WIF: KyAmSDNdpxhY8LngdjZokbaK4KVHU3NTT2TqZg7CaLD48yKBhfBD
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL027.py
+Split-Mirror WIF: KyAmSDNdpxhY8LngdjZokbaMVYDFow7XcQxegUX5jYrmqoaye3RL
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL028.py
+Pre-Funded Split WIF: KyAmSDNdpxhY8LngdjZokbaMVYDFow7XcQxegUX5jYrmroMrfxvw
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL029.py
+Live-Fragment WIF: KyAmSDNdpxhY8LngdjZokds5FZXrZhb8V4VQSn6E3ciHH4B8TpEV
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL030.py
+Mirrored Inverse WIF: KyAmSDNdpxhY8LngdjZokbaK4KVHU3NTT2TqZg7CaLCyPbTQixij
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL031.py
+Symmetric Duality WIF: KyAmSDNdpxhY8LngdjZokbaK6kPPacwaKgLdHcAethgBhnyUW4HY
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL032.py
+Duality Agreement WIF: KzmZKJtcDotz7b4EAxdcNetC3esFMfCguNmBzBgtiazDhDc9UKyj
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL032.py
+Duality Agreement WIF: KzmZKJtcDotz7b4EAxdcNetC3esFMfCguNmBzBgtiazDhDc9UKyj
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL033.py
+Cosmic Symmetry WIF: KyAmSDNdpxhY8LngdjZokbaK4KVHU3NTT2TqZg7CaLCotqY8s5Bv
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL034.py
+Cosmic Handshake WIF: KyAmSDNdpxhY8LngdjZokbaK4KVHU3NTT2TqZg7CaLCyPbTQixij
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL035.py
+Funded Symmetry WIF: KyAmSDNdpxhY8LngdjZokYzDpbK3YdeDGxT6iQPT1vPpsks4Vwcs
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL036.py
+Duality Handshake WIF: KzmZKJtcDotz7b4EAxdcNet4B96TJQs6B6iFcrDdwceTy4T95oef
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL037.py
+Cosmic Rotation WIF: L51wBt875ozMKf4mAqhJJYyDfRoeJUMgHTeJPGPSkaRQeZukiijh
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL038.py
+Modular Duality WIF: L3Taio45v3A77bo4ummFegctBQwySnjhCoDpz7a44eWskTCkzgbt
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL039.py
+Agreement Architect WIF: KyAmSDNdpxhY8LngdjZokds2pLotDor4KfzbKygLtQ4UorEX2wLY
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL042.py
+Compressed WIF: L1uEFhz4kGKruYXNehqCzpGwGRdG8VVF1smMMnpoZd9Dnom3HS2F
+Uncompressed WIF: 5JsoWAHZ7dYuzfrvqsV9A2CKBkBwBJnNJRBxN2KXwWwReaWrm5F
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL043.py
+Final Architect WIF: KyAmSDNdpxhY8LngdjZokbaHmvrwdoxKL72v33nKjoWQJaDdtD38
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL044.py
+Carry-Bit Architect WIF: KyAmSDNdpxhY8LngdjZokbaHmvrwdoxKL72v33nKjoWV3x81bv5k
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL045.py
+Inverse Architect WIF: Kx96FSsNntXG6HFfzNQhD4PyXXmkUif2C2TUpGMPqSYwxxGGs8ng
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL055.py
+Balanced Duality WIF: Kxk3W5YLmkkomAbREGVkwr9RV8crrhdJn9XWRgBDtoa8Pxo6eB2p
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL056.py
+Endian Architect WIF: Kxa7jKEPMN3nQNjKPjshB9XdJzJs8YTeW2RZpHWwmCSiPeAH29Hw
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL057.py
+Cosmic Handshake WIF: L51wBt875ozMKf4mAqhJJYy8XsJGyYh7omvcGm5wQTd8bRGopNaM
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL058.py
+Final Handshake WIF: L51wBt875ozMKf4mAqhJJYy8XsJGyYh7omvcGm5wQTd8bRGopNaM
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL058.py
+Final Handshake WIF: L51wBt875ozMKf4mAqhJJYy8XsJGyYh7omvcGm5wQTd8bRGopNaM
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL059.py
+Debt Clearance WIF: L51wBt875ozMKf4mAqhJJYy8XsJGyYh7omvcGm5wQTdd5gk2rkij
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL060.py
+Little-Endian Agreement WIF: L2dLNHZ7BRPLRnqJCrvqzknUg75xxUiSVTVDPi2RW3MkWJLbz2m2
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL061.py
+High-Order Agreement WIF: L4j91Jzecw1uwhGrHASJ6GF8wCrq6hJzZ51dwFG4JMYRcZrcfct1
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL062.py
+C:\Users\Dad\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'C:\\Temp\\Mini_Puzzle\\decrypt\\cosmic_decryptedKL062.py': [Errno 2] No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL062.py
+1G Bridge WIF: L51wBt875ozMKf4mAqhJJYy8XsJGyYh7omvcGm5wQTdTavtZMgXj
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ 1JMFbtUYucJvpa4q8pMzdfUfkXrLP1jcv7
+bash: 1JMFbtUYucJvpa4q8pMzdfUfkXrLP1jcv7: command not found
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL063.py
+1GSMG Calibration WIF: L51wBt875ozMKf4mAqhJJYy8XsJGyYh7omvcGm5wQTd8bRGopNaM
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL064.py
+Split Duality WIF: KxnU1cWPoo3PeeeqCRHaokQ95xLjiu2Dy9mD6t3BNgSdowCesKZP
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL065.py
+Hashed Architect WIF: L35vxSCBR4886otXckA1DBwNz9Syi7UZQ9bdJ9VZnpkH25iyKAPe
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL067.py
+Final Duality WIF: Kzz3i4hL7qRmcubif9Hpc6kqbaYvYTPDKWms1ycn3NvfLxWkMLbJ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL068.py
+666 Duality WIF: L2VwoZ58DaJN4sn4tjgB6jEJWk8B8GsbJjqnPyveh18Q5g1SqVr4
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL070.py
+Balanced Duality WIF: L2VwoZ58DaJN4sn4tjgB6jEJWk8B8GsbJjqnPyveh18JN2PNtpkQ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL071.py
+Bella Ciao WIF: KzGNpVxY8qF1o6VWfqUCzRBRYtxpuS5xtDK6Hbj2SotQpV9TiGZG
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL073.py
+No Spoon WIF: KwkbWgMt4W9SaViyHWqghwJfnGKTPXwZkLXuAwvZKKDpodQU4Xp5
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL074.py
+Entropy length: 128 bits
+BIP39 binary: 100010111010110111101011010001010100110110111110101101011101001000100110001111011000011101110100101110001011001001001111000110111010
+------------------------------
+ARCHITECT STEP:
+The private key is likely the SHA256 of the 12 words + 'BellaCiao'
+Final Scalar: 000ae55ea67180972c6321c61fa8fcdf723a5e6f5bfeffadda4d81e502507306
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL075.py
+Word Indices: [1117, 890, 1674, 1243, 1882, 1864, 1223, 1415, 933, 1580, 1182, 442]
+Bella Ciao Seed WIF: KwDmF5EM7MQT2qLx1q1Q1zCtGq25QobaQwBibJLaaVvhkEGyKPoZ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_duality.py
+1.25 BTC Candidate Private Key: 9e8f98df796506eb629d9511aa942c25dc0388e80a4df289895728da63acc66c
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_duality001.py
+Compressed WIF: L2Xw3Xa35c4mnizhCwkYXDkA2jTisSNrMJ9F6Bkx1ehTUJqCL7w2
+Uncompressed WIF: 5K27onttg78enhnF6Re44g8xy8MZ9Fp6HqHpbhxGdrKgXj6jb1Y
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_duality002.py
+Rotated Scalar: 66c9e8f98df796506eb629d9511aa942c25dc0388e80a4df289895728da63acc
+------------------------------
+Compressed WIF: KzfX3B23JXQBuzuZSbnXtibirWQZJfhKVoyQsjarVYEa5QGL1avV
+Uncompressed WIF: 5JbZBTjq6nQNxWS3pVGkhibbrjTdmnUG4otkUMXKv8yznwXHjB4
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_duality003.py
+True Neo Scalar: 8badeb454dbeb5d2263d8774b8b24f1bd1cb98de1aec31241f50fc935475d250
+------------------------------
+Compressed WIF: L1uEFhz4kGKruYXNehqCzpGwJ9dQrzmCKjovL622P153XLE5oaEG
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_duality004.py
+Treasury Scalar: a0f31c7f56ae7f79476d4e28d5095afc64ca55bd5cb7e885c8aab56002f5eead
+------------------------------
+Compressed WIF: L2caMqTbPB8NY8WyTZ9VoatXz8fLp6kQBpZfqRHRCBZs8oECyv4p
+Uncompressed WIF: 5K3ApmWb57ptYyXomz8N2VXFiwkaVLt4tqqdtkZijQh57Mxew8h
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_duality005.py
+Mirrored Treasury Scalar: 64ca55bd5cb7e885c8aab56002f5eeada0f31c7f56ae7f79476d4e28d5095afc
+------------------------------
+Compressed WIF: Kzbdjg17unRQWB4sv7AxFaHL6ac7NYzr2jCfvQft3R8G3cJYtwmG
+Uncompressed WIF: 5Jag8rcpnVR7EQaWD2rP2wfbEVupD8hkHFYeNASaKDiX9KGvU4S
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_duality006.py
+Final Treasury Scalar: 49898cbf205485389e14a1c54ad0070c9aae98197eeb49322ac2775914aee67f
+------------------------------
+Uncompressed WIF: 5JNfzZWY6SFT3n7Rwq518u9gUqkdutwz6cndvv2Cpb1kuENuBQk
+Compressed WIF: Kygf74VNEzSmyG7P71AfbsBKFtBbvUHh1nxRzy2KB38LmLo4wrcr
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_duality007.py
+Transcended Public Key: 003cf5bd0f132741aaddc1d7349e252d0185c66732718d7943c4e420f68e9ed76c
+------------------------------
+Reward Address: 1EgggBmmcuC86exAQUKytj7vf7KenET9d9
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_duality008.py
+Treasury Scalar: d1a2572d44e67d67c98492f153ff03ac1bfaf5f508b7627920f881db940fe87f
+------------------------------
+Compressed WIF: L4FDGJJq4Ji8Wx1UZYusjp8MT7bkUE5Gzh4XmY7m3u8x3uHJxuPR
+Uncompressed WIF: 5KQcQQQXNbNZ4caBmz5H2YXDLWb9werTHF4X5es1vDigD3XJGrQ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_duality009.py
+Final Debt Scalar: c078badeb454dbeb5d2263d8774b8b24f1bd0cb87d215dc30dc12b0f36f4c6cc
+------------------------------
+Compressed WIF: L3frHQxpTYTzoc3VoWs8PX1NeH61sLPPViTeW2LvWQJ8vLbDJKZi
+Uncompressed WIF: 5KH41YiCCuSbr5KEmycNcTjgLmsyqZVBXyX44QQztXCay6Zsv8a
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_duality010.py
+Final Reward Scalar: 29f60ee635ede9078f6b1c4b3cccb357c45d46556ab4ee1934e7c3da30bc67e5
+------------------------------
+Uncompressed WIF: 5J8mRVinU66XR7D8Ha93cAFq3ciX87fSDB3qrHroeiGC8QdSkzb
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_duality011.py
+P2SH (SegWit) Address: 33HcHRvUEw5shQk19pZCTjSsxE785ivYJjY
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_duality011.py
+P2SH (SegWit) Address: 33HcHRvUEw5shQk19pZCTjSsxE785ivYJjY
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_duality012.py
+Traceback (most recent call last):
+  File "C:\Temp\Mini_Puzzle\decrypt\cosmic_duality012.py", line 1, in <module>
+    from bip32utils import BIP32Key
+ModuleNotFoundError: No module named 'bip32utils'
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ pip install BIP32Key
+ERROR: Ignored the following versions that require a different python version: 0.1.0 Requires-Python >=3.5,<3.7; 0.1.1 Requires-Python >=3.5,<3.7; 0.1.2 Requires-Python >=3.5,<3.7
+ERROR: Could not find a version that satisfies the requirement BIP32Key (from versions: none)
+
+[notice] A new release of pip is available: 25.3 -> 26.0
+[notice] To update, run: python.exe -m pip install --upgrade pip
+ERROR: No matching distribution found for BIP32Key
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedKL089.py
+C:\Users\Dad\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'C:\\Temp\\Mini_Puzzle\\decrypt\\cosmic_decryptedKL089.py': [Errno 2] No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK089.py
+Final Reward Scalar: 8badeb454dbeb5d2263d8774b8b24f1bd78384a88bae70fa867b2f760329a021
+------------------------------
+Uncompressed WIF: 5JsoWAHZ7dYuzfrvqsV9A2CKGkr7mLCSnARF5LYhXkjmATZ7J9s
+Compressed WIF: L1uEFhz4kGKruYXNehqCzpGweYXnrfjWnLa189Gutk3jvZkVrHcQ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python cosmic_decryptedLK090.py
+Inverse Reward Scalar: abbd8c9ea80551fffad39b946a29bc18d3f2aebbbc1244f6feef7e4a21c026b7
+------------------------------
+Compressed WIF: L2yYxc9m3Vr16NVPzVXWymv9fYjk1s6QjpxDFPkqJPsUKSgjUqhM
+Uncompressed WIF: 5K7vTeRBtKKMQsdnzS3PCWD3R96c7zZwmbRk6yp6431ZUNwwCp5
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln000.py
+Derived master key (hex):
+818af53daa3028449f125a2e4f47259ddf9b9d86e59ce6c4993a67ffd76bb402
+Private key identifier: 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln000.py
+Option A: Direct k2 Scalar
+Compressed WIF: L2uFCoSJ71Wd8V3x5uatPoe5YCxAkb7BAf4QrZhWFDgBH2Fk7Li5
+Uncompressed WIF: 5K6wsht3WugLWnn5KnSoXzh7vHkmMJF62HKu5S5eSRd4gw6DUvF
+------------------------------
+Option B: HMAC-Transcended Scalar (BellaCiao)
+Compressed WIF: KyR59GCXAey83ZADck9s3a2Qx5k5NfxqBVc6uVnqW165nDqyJFHr
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln001.py
+  File "C:\Temp\Mini_Puzzle\decrypt\soln001.py", line 126
+    print(f"   [U] Address: {addr_
+                            ^
+SyntaxError: '{' was never closed
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln001.py
+
+=== TESTING: K2 - K1 (The Debt) ===
+[Compressed]
+  Address: 12EKujNBtRzYgWckHNWyKZZ81jNu19wPWP
+  WIF:     KxDj8kaNmRTMxBDuDuGzJGUV8Q3QUfKyzL2k7vDpXr14XbBc2DWi
+[Uncompressed]
+  Address: 1M3o7Xs5vcrUhMQmx2aKnjuf1ANXdZ6XkZ
+  WIF:     5J3RxE3aUjhQn8JRX7QZU2Evx9PkP8KoSgCiwaorjnYHCzFS5nb
+--------------------------------------------------
+
+=== TESTING: K1 + K2 (The Agreement) ===
+[Compressed]
+  Address: 1NbFpoNCCCR7Si7QLQkBwZ9dp4RxxLtWUt
+  WIF:     Ky18hgwKGSekLGsEPqVthAiXhpwZ529tqSa6kLFUyxjeozUsLGBN
+[Uncompressed]
+  Address: 1Gy1Qv97SgEfWnGkeLv6Z1U5uQ142JghVn
+  WIF:     5JDicxGUhez37dg2Dss3eeYcWBryCnaHGxdxDzNrqhiqSdjaQ9N
+  *** REWARD TARGET DETECTED! ***
+--------------------------------------------------
+
+=== TESTING: K1 XOR K2 (The Duality) ===
+[Compressed]
+  Address: 19WYXBtWNdX4JJVAeVnywkFeQqwGvQ7d3R
+  WIF:     KxN8hEDgZbuRD5dctmCmNWqyB1cVwH16ZVFndLLnc3qyusPHYRQP
+[Uncompressed]
+  Address: 1P3miC1wbxhJSoseCKJ1LzDzREKedu5GWw
+  WIF:     5J5LR4uGJosqz7VEa2QWYA2aa5frbxHLPKBbokMLrBAHXCeQVdw
+  *** REWARD TARGET DETECTED! ***
+--------------------------------------------------
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln002.py
+
+--- TRANSCENDED: Shifted Agreement ---
+  Address: 15tqEQEmMfRHNDuqoiFMv4aevurT7tdkPQ
+  WIF:     5JKoLaa8Dz6vJiaTFC5cWZRrNJ5jSqmQSTYze6dprhuWv2dNxVb
+
+--- TRANSCENDED: Shifted Duality ---
+  Address: 1PFqxTcLmvqYH4a39TWo4UfAWdjpSnR5xB
+  WIF:     5JMUc349ZnkLGrFCWRVnnLQKiNcRVC9Li2EozfXbSG52hMLeJ9b
+  *** TRANSCENDED REWARD TARGET DETECTED! ***
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln003.py
+Final Treasury Address: 1LTmZfVLBEpfnHf3nLAv6CXvYRvuRLNmmK
+Final Treasury WIF:     5KY9KokGNbrJteU33qWDA3y5hn8nnHfwgjAH1NrrMiPTpsMpeYJ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln004.py
+Master Reward Scalar: 3aed6cb4f65a73fb26d75d6754a0022ddf79520d7f731e93688a328c752045c5
+------------------------------
+Uncompressed WIF: 5JGEoaVFfkc6g9bccnfyEwtNe9jpYSAt1AzRoFQC81TDVCcUy2d
+Compressed WIF:   KyCFvaohk3Tv3nwnCxb1EZFkWyZzqk6c7m6UT8ZN5vzi7R99PTsV
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln005.py
+Final Treasury Scalar: 3aed6cb4f65a73fb26d75d6754a0022ddffd1c8bd9e91a7dcef836127b2ec3d7
+------------------------------
+Uncompressed WIF: 5JGEoaVFfkc6g9bccnfyEwtNeZsC8dFgnzEC1phW95YM1nJum8x
+Compressed WIF:   KyCFvaohk3Tv3nwnCxb1EZFkYp4Y8f1pdybDcdXmcf3ML63U1efr
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln006.py
+Symmetric Treasury Scalar: a181a9a2f28f436b3c2c82833670d72cf5ca021d82bf6ea2f0b58c2f94364a94
+------------------------------
+Uncompressed WIF: 5K3R3kEd5SB4rGmibV5FmxtNkWGBeqjgUTLwZDBjYctGndXdCaM
+Compressed WIF:   L2df97q8Ea7RzUcNbCunDTfm12A2227PEBH1oAnNnZPJg7GuzVQJ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln007.py
+--- TRANSCENDED ADDRESS TYPES ---
+Check P2SH-SegWit (starts with 3) for: a181a9a2f28f436b3c2c82833670d72cf5ca021d82bf6ea2f0b58c2f94364a94
+Check Bech32 (starts with bc1) for: a181a9a2f28f436b3c2c82833670d72cf5ca021d82bf6ea2f0b58c2f94364a94
+
+WIF (Compressed) to sweep ALL types: L2df97q8Ea7RzUcNbCunDTfm12A2227PEBH1oAnNnZPJg7GuzVQJ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln008.py
+Symmetric Scalar: a181a9a2f28f436b3c2c82833670d72cf5ca021d82bf6ea2f0b58c2f94364a94
+Nested SegWit Address (P2SH): 33JpJ6apST9ocouMM5ad8QzpdMBQ1Pjmz9x
+Compressed WIF: L2df97q8Ea7RzUcNbCunDTfm12A2227PEBH1oAnNnZPJg7GuzVQJ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln009.py
+❌ Nested decryption failed: Data must be padded to 16 byte boundary in CBC mode
+Traceback (most recent call last):
+  File "C:\Temp\Mini_Puzzle\decrypt\soln009.py", line 21, in attempt_nested_decrypt
+    decrypted = unpad(cipher.decrypt(encrypted_data), AES.block_size)
+                      ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Dad\AppData\Local\Programs\Python\Python313\Lib\site-packages\Crypto\Cipher\_mode_cbc.py", line 246, in decrypt
+    raise ValueError("Data must be padded to %d byte boundary in CBC mode" % self.block_size)
+ValueError: Data must be padded to 16 byte boundary in CBC mode
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Temp\Mini_Puzzle\decrypt\soln009.py", line 30, in <module>
+    attempt_nested_decrypt()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Temp\Mini_Puzzle\decrypt\soln009.py", line 28, in attempt_nested_decrypt
+    print(f"Raw Output (first 64 chars): {cipher.decrypt(encrypted_data)[:64].hex()}")
+                                          ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Dad\AppData\Local\Programs\Python\Python313\Lib\site-packages\Crypto\Cipher\_mode_cbc.py", line 246, in decrypt
+    raise ValueError("Data must be padded to %d byte boundary in CBC mode" % self.block_size)
+ValueError: Data must be padded to 16 byte boundary in CBC mode
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln009.py
+--- THE TRANSCENDED RESULT ---
+Original k2:    a986730c9aaeb1b36a12df5962334f9c29a2b6e5e0a6c887b83559063f0d80c2
+Transformed k2: 2dc8f5aa00aa5f15181641576cb55d186724107fe4486ef5bcab5708b91f048c
+Uncompressed WIF: 5JAT6dQkw8Dbk1yTHX6AndHVEirnztpLPP4kuAnto6NprPjrowp
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln010..py
+C:\Users\Dad\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'C:\\Temp\\Mini_Puzzle\\decrypt\\soln010..py': [Errno 2] No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln010.py
+Final Combined Scalar: 48c2dc8f5aa00aa5f15181641576cb55d186724107fe4486ef5bcab5708b91f0
+----------------------------------------
+Uncompressed WIF: 5JNLAhtjkn6y9JSrqimKg64hH8JFBTX575d122uo2MYEjriNV1b
+Compressed WIF:   Kyf9bqVMiE5Loe18z3LdRXMJnBD7bA3j7qPu5ZS28yese3vNvPAR
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln011.py
+--- OFFSET A (Midpoint + Mask) ---
+WIF: 5K3R3kEd5SB4rGmibV5FmxtNkvV2sLrXBS7YnKYAWe2xyMt6cy8
+
+--- OFFSET B (Midpoint - Mask) ---
+WIF: 5K3R3kEd5SB4rGmibV5FmxtNk63LSLcqmUaLL6qJabjabrFts4P
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python soln012.py
+
+Script Ready. Provide the Base64 ciphertext to the 'finalize_puzzle' function.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python solve000.py
+[+] Derived Master Key: 818af53daa3028449f125a2e4f47259ddf9b9d86e59ce6c4993a67ffd76bb402
+[+] Loaded Ciphertext (1344 bytes)
+
+[?] Attempting decryption with Known IV...
+    Failed: Padding check failed (wrong key or IV)
+
+[?] Attempting decryption with Derived IV (Standard OpenSSL)...
+    Failed: Padding check failed (wrong key or IV)
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python solve001.py
+
+[?] Testing Key: Concatenated (2b7cc3024f8d6619...)
+
+[?] Testing Key: Unique XOR (66de9b0ddc196143...)
+
+[?] Testing Key: Original XOR (818af53daa302844...)
+
+[-] All combinations failed. Checking token content...
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python solve002.py
+
+[-] All Turing Chain variations failed. The tokens might be case-sensitive or incomplete.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python solve002.py
+
+[?] Testing: Newline Passphrase
+
+[?] Testing: Mask as Passphrase
+
+[?] Testing: Mask as Raw Key
+
+[?] Testing: TheOne SHA256
+
+[-] All attempts failed. Check if 'matrixsumlist' is a filename in your folder.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python solve003.py
+[+] Decrypting 1846 bytes...
+[-] Execution Error: Data must be padded to 16 byte boundary in CBC mode
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python solve004.py
+[+] Base64 decoding successful. Binary size: 1344 bytes.
+
+============================================================
+PHASE 5 RESULT:
+============================================================
+Z{T/4yv9@'i[
+pc͒9Zm
+gCYR&TA&ۜ*`|=C9pĕ␦v      :3ÒxV<O irj{>/e"x`̭s6J;J
+6~&rԲj$R]sTm$IԪuuխ5K+S:xV{<zM/:@
+qv-,g~vTu!Ҏ屓3@Zd`?p"IA+=RS-Z
+           _˟')8=4#DbA6?y7?ŻU=
+                              c7TAy'+
+|2G|*!Jڬ
+#xg7yPi
+       gllnMEL?2Nm,CYFSÒMfqF    3A5Dŋs`"3rnX=0pỲ!(a;gH  @PAGE#RK7,*X ,
+"ۻ(4NwZHYJ-\i:t-CjX2EM0,)PtC
+                            :73s
+1;0t-)c^RvbeD,ni=␦M}=3[Jc~~GI^tfZ␦Z`E7)/r3a<\22y?&?kZR#␦ji`*r`Ax񴞙Bt\M.
+IǄFjX5djJA޴k0?uG+(\Ŕt7WȦZDO4D2s>j WNIoe]m̃                             P^Awy~Eeܺ$Q"vjf@i"U
+ (=sG)N]X
+         }B<[1O#ձ?Y|Bӕ%Nq@xpU0va<:gVPh5.5LhOEyߡJJšJo$4bį=Խċ[IVP|hf6"]S)W^ֱߕ,USAEx&!rϩY
+                                                                                     O,,tK(>\#bJo%KTl 4>6=A,EɕɓH_LZ wH%< ˥1eE@t)8hLn{Dm){4:
+============================================================
+
+[?] No hex key found. Applying 'HASHTHETEXT' logic...
+SHA256 of text: e55342954f689c0c28ceacee2f27a2eca454c9d3bf97d951088b595d8b45dc26
+Potential WIF:  L4uVKpj2nJjhDryp4QVGZHs26i2bd6T5A9qEHxHJNHaqu7pkKQc8
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python solve006.py
+Traceback (most recent call last):
+  File "C:\Temp\Mini_Puzzle\decrypt\solve006.py", line 5, in <module>
+    with open('cosmic_duality_decrypted.bin', 'rb') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'cosmic_duality_decrypted.bin'
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python solve006.py
+Total bytes: 1343
+First 32 bytes (K1): 8badeb454dbeb5d2263d8774b8b24f1bd14fd658bc7635cab922f80d5a7b54af
+Bytes 671-702 (K2): a986730c9aaeb1b36a12df5962334f9c29a2b6e5e0a6c887b83559063f0d80c2
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$

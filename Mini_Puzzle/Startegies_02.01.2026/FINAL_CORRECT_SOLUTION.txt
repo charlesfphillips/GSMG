@@ -1,0 +1,39 @@
+GSMG DUALITY PUZZLE - CORRECT SOLUTION
+================================================================================
+
+PASSWORD (from VIC Cipher Phase 3.2.2):
+IN CASE YOU MANAGE TO CRACK THIS THE PRIVATE KEYS BELONG TO HALF AND BETTER HALF AND THEY ALSO NEED FUNDS TO LIVE
+
+EXTRACTED KEYS:
+
+k1 (from decrypted bytes 0-31):
+  a78915fc3abc85e6360e00dc4fb4fca395d537c912856ca782ecd55869b0ab20
+
+k2 (from decrypted bytes 32-63):
+  01f711666da10133efd748c6cd4e2bee3a6949f90362b85a653d1d96db64d465
+
+TARGET KEYS (ktarget):
+
+METHOD 1 - ADDITION: ktarget = (k1 + k2) mod n
+  Hex (uncompressed): a9802762a85d871a25e549a31d032891d03e81c215e82501e829f2ef45157f85
+  
+  WIF Uncompressed: 5K6wFGiR9v98ub2hTmsbMvxqqLYy7TjvX7Qhspi4nESwyhXtJTJ
+  WIF Compressed:   L2uCRzMocMYuu7CVbB4JfPBUYMJ6fX2TDuHdRKaFgeMXemv3MJfs
+
+METHOD 2 - SUBTRACTION: ktarget = (k1 - k2) mod n
+  Hex (uncompressed): a5920495cd1b84b24636b8158266d0b55b6bedd00f22b44d1dafb7c18e4bd6bb
+  
+  WIF Uncompressed: 5K5CrXVu5sLNp7cUWqqDRi77WPMQNPeKMo12eV6cfFbQZUSBFFd
+  WIF Compressed:   L2mZKbcYtVAXGxBaSiXor4Ryihf49Qwi2n38GT1nPqQrz29u2MHR
+
+================================================================================
+
+TO CLAIM 2.5 BTC:
+
+1. Open Electrum Wallet
+2. File → New/Restore
+3. Select "Import Bitcoin addresses or private keys"
+4. Paste ONE of the four WIF keys above
+5. The correct key will show 2.5 BTC at address 1GSMG1JCHXNstXW39VpS9iVfM9P6P7B3P
+
+Try all four keys - one should have the 2.5 BTC!

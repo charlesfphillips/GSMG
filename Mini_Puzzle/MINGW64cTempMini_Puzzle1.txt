@@ -1,0 +1,799 @@
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Generate the SHA-512 of the decoded phrase
+PASS=$(echo -n "theseedisplanted" | openssl dgst -sha512 | sed 's/.*= //')
+
+# Decrypt using that hash with the 2018 legacy MD5 digest
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$PASS
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+C4880000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Capture the output even if it looks like garbage
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out puzzle_output.bin -pass pass:matrixsumlist
+
+# Use the 'file' command to see what it actually is
+file puzzle_output.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+94EF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+puzzle_output.bin: data
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:62
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+C4CF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -nopad -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:theseedisplanted
+# If that finishes, check the file:
+cat answer_3_2.txt
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+□□=□'□□□□p□#Y□5□v□□□□H□%□□N□fS□.□□□N□□!ǅ \□□eR6□5□5□5□□j□3U^}ik^-u?<□nc□gPB□ſ□7)□□~□{T□□□□A□כNW□□□,□□□□□□6□□□□□y)ي:□B□□□w2□=sց=□□;□□fH□^□□-□fgp□Ǎ5f□[□y□□□w□□Z□K□□B□□□␦□z□ o□
+                                                     □U, □□jxW□□□}□=□WG?Ң□□□*□62□□XmhZ□$H□t□□?;x□□!□
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:6369616f2042656c6c61
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+0è▐▓¼lj╪)]K█YÜêúσΦ≡≥~-üGzNbE╞│î╡Φ&▐·+å-█XFä┼
+                                            Xuù┌Eò£zl╧═m╣▓sτ┼.ñew┤±I┘S%ⁿ╛)hA╙%╬Sª&'YìÆM`É²¿ÄΦP╘≥«=√é8ⁿ⌡¥#▒º╡∩á&5ⁿ""≡çéì╕N╬]CàE
+èi╝2╝╬Iª╕⌠-_ik┴╖╝╕¥D«┤┴₧╜Æ29J┴r&H&9cδJ┌&4z&3öºë₧╖╖2╒S«bad decrypt
+5CF60000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -pass pass:"ciao Bella"
+FLc
+   ╞0
+     ╔▒½ÇPü╖Σ°╒B≡┌EºÑ╟J╟T■ïWæ╬?Ob]½8▀4l╤╝α]Pùn
+g╛æ√█%╦-▌ÑMJf°ÆvûAÄ╬d╣␦%Sh₧Ñï√Y>ª╚dⁿ∙)±ï─f{i)V(┐╜εü\╪¼
+                                                      U₧û`+╔₧Σ.`¢/ö╞W² ╚≥¡DΘê{F}käví÷; hZñ├▐^ü─ⁿR|9␦Σ£j0╔P╕ªδ␦g)πV∩ÉÅyäφbad decrypt
+58D70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"ciao Bella"
+bad decrypt
+205A0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -pass pass:c7e2cf4ce65af5b29ae2e0aadef1fe4a624a2aef1f591393c8ca7b87b3c1d145
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+F0AF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -pass pass:6369616f2042656c6c61
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+90F80000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -nosalt -in cosmic_duality_real.txt -out final_step.txt -pass pass:"ciao Bella"
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+30FC0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ file answer_3_2.txt
+answer_3_2.txt: data
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"ciao Bella"
+bad decrypt
+DCA90000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Exactly as seen in the transaction
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"Turing Complete."
+
+# Lowercase version (common in puzzle scripts)
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"turing complete"
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+E8FA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+38E60000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -pass pass:6369616f2042656c6c61
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+80D00000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Try SHA-256 (the default for newer OpenSSL 1.1.0+)
+openssl enc -d -aes-256-cbc -a -md sha256 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"ciao Bella"
+
+# Try SHA-1 (common in older puzzles)
+openssl enc -d -aes-256-cbc -a -md sha1 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"ciao Bella"
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+D8F30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+E8D60000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -out test1.txt -pass pass:theseedisplanted
+
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out test2.txt -pass pass:THESEEDISPLANTED
+
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out test3.txt -pass pass:"The Seed Is Planted"
+
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out test4.txt -pass pass:"the seed is planted"
+bad decrypt
+38460000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+78D10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+B8E10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+DCA90000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ dir /s
+dir: cannot access '/s': No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+Traceback (most recent call last):
+  File "C:\Temp\Mini_Puzzle\target_solver.py", line 39, in <module>
+    k1_int = int(k1_hex, 16)
+ValueError: invalid literal for int() with base 16: 'REPLACE_WITH_K1_HEX'
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+Final Hex Key: 76f3a06f1e4e45918e30d4e2d65ff79151daa45b36bd88ae6a4d63fd8deb2794
+Derived Address: 1QJNVPLf1arh3T3QVZ7Vx9nqtZgjewNbSh
+Target Address:  1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+XOR Method: 17XpeuUttsDPCBQ4V9b6uxfmU4Wx4zG1A
+Hash String Method: 1B8Pih7Xwy7wLoxw3fUVnsJpGgohB8UbQV
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+Traceback (most recent call last):
+  File "C:\Temp\Mini_Puzzle\target_solver.py", line 18, in <module>
+    k_variant_1 = (k1_int + k2_int + string_int) % n
+                                                   ^
+NameError: name 'n' is not defined
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+Addition + String Offset: 1Jt1nHSMHCM9Gf4rD1PFcYpVs38XvJwGi6
+XOR + String Mask: 12VEeLX3bBxCsRq7DWkKej367nEjw3VZik
+Addition + String Hash: 1MvXqQi5QHM9PKBLVsU8FEDbNbry5kMqBc
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+Subtraction Method: 1MEqXCSPvEJg2EY9Ghit6o5qAkwfvk9vmw
+Concatenated Hash Method: 1HYK9HyNoRdVhFpTosaLMBTBiQxKUTbQeq
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+(K1 ^ K2) + Offset: 1AUQKKkzXxdJd6ohRHhkNcaaHBQG823DNf
+(K1 + K2) ^ Offset: 1CVNZiDKU5tCbyjHwjiy27Gtt2QTCwRGYC
+Reverse K1 + K2 + Offset: 1H1F1NKL68NpPSW9RaR9fagL9RgZsuKxAQ
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+Salted Hash: 12ZAvRSkhDnnzKs7WyBjFEfZDWGefpd3vj
+Sum-XOR-String: 1CVNZiDKU5tCbyjHwjiy27Gtt2QTCwRGYC
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+XOR-Hash-String: 1DmDK3AkQsgdqusJtWAH7SwGvfaFnUQAoK
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ wc -c answer_3_2.txt
+272 answer_3_2.txt
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ wc -c answer_3_2.txt
+272 answer_3_2.txt
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+Traceback (most recent call last):
+  File "C:\Temp\Mini_Puzzle\target_solver.py", line 27, in <module>
+    print(f"Derived Address: {private_key_to_address(k_hex)}")
+                              ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'private_key_to_address' is not defined
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ wc -c answer3_2.txt
+1219 answer3_2.txt
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+--- RESULTS ---
+Derived Address: 15D4AcpwzvvBgf43wgd3g2ghEKGamYFGkr
+Target Address:  1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe
+XOR Variation:   1JT52q4FVgnZzUL5bMFzJtty6cy2wL44pe
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+Derived: 1HU8792n8hde3qR8rZwm4ZZb7ZrcUV6cy3
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ import hashlib
+import ecdsa
+import base58
+
+def private_key_to_address(priv_hex):
+    priv_bytes = bytes.fromhex(priv_hex)
+    sk = ecdsa.SigningKey.from_string(priv_bytes, curve=ecdsa.SECP256k1)
+    vk = sk.verifying_key
+    public_key_bytes = vk.to_string()
+    prefix = b'\x02' if public_key_bytes[63] % 2 == 0 else b'\x03'
+    compressed_pubkey = prefix + public_key_bytes[:32]
+    sha = hashlib.sha256(compressed_pubkey).digest()
+    h = hashlib.new('ripemd160')
+    h.update(sha)
+    network_byte = b'\x00' + h.digest()
+    checksum = hashlib.sha256(hashlib.sha256(network_byte).digest()).digest()[:4]
+    return base58.b58encode(network_byte + checksum).decode('utf-8')
+
+n = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEBAAEDCE6AF48A03BBFD25E8CD0364141
+k1_hex = "a78915fc3abc85e6360e00dc4fb4fca395d537c912856ca782ecd55869b0ab20"
+k2_hex = "cf6a8a72e391bfab5822d40686aafaec76b44978d380bc42a732ed31f470b964"
+
+with open("answer3_2.txt", "rb") as f:
+    k3_binary = f.read()
+
+# Logic 1: The "Turing Complete" Duality (Sum of all three + Command Hash)
+# We use the hint string itself as the final salt
+command_salt = "ourfirsthintisyourlastcommand"
+salt_int = int(hashlib.sha256(command_salt.encode()).hexdigest(), 16)
+    print(f"!!! MATCH FOUND! FINAL HEX: {k_final_hex}")
+bash: import: command not found
+bash: import: command not found
+bash: import: command not found
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+bash: vk: command not found
+bash: syntax error near unexpected token `('
+bash: prefix: command not found
+bash: compressed_pubkey: command not found
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `sha'
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+bash: n: command not found
+bash: k1_hex: command not found
+bash: k2_hex: command not found
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+bash: command_salt: command not found
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+bash: target_address: command not found
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `f"Derived with Salt: {derived_addr}"'
+    print(f"print(f"Derived with Salt: {derived_addr}")! MATCH FOUND! FINAL HEX: {k_final_hex}")
+bash: syntax error near unexpected token `f"print(f"Derived'
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+Derived with Salt: 1NLeiMXd7qR3wiw4vodBpE3Udcc2BJ9oUy
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ grep -aoE '[0-9a-f]{64}' answer3_2.txt
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ grep -aoE '[0-9a-f]{64}' answer3_2.txt
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+Dual File Hash Result: 1DJrnc1ZrsgvHLmz8xA7C5VTUioCdXRNuC
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python target_solver.py
+HMAC-Hint Method: 1GKDug56iAV1Mnzg9hkHGCrQPz9jF4A1hq
+Raw Byte Addition: 1JBe56m5X5vxJr1UU4EY4Ka3pwArQNUywP
+Triple XOR: 1Fg64nEvXxpsK6L6uZLWtDmqej3Kf2NCHM
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ import hashlib
+impython target_solver.py
+  python target_solver.py
+XOR Data Duality: 114tkXSRHpzXJdpA3cpKwsQXhxS5J8b63X
+Direct Hint Hash: 1KrmxxaUQaPWRqi6pdxbLphPrEyn6fpbzo
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -in encrypted.bin -out answer3_2.txt -pass pass:matrixsumlist
+Can't open "encrypted.bin" for reading, No such file or directory
+3CF20000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(encrypted.bin, rb)
+3CF20000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -in U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G -out answer3_2.txt -pass pass:matrixsumlist
+Can't open "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe" for reading, No such file or directory
+E4120000:error:80000003:system library:BIO_new_file:No such process:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe, rb)
+E4120000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+bash: dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi: No such file or directory
+bash: c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D: command not found
+bash: SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+: command not found
+bash: IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh: No such file or directory
+bash: 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6: command not found
+bash: BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko: command not found
+bash: k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+: No such file or directory
+bash: vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb: command not found
+bash: UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj: No such file or directory
+bash: Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh: No such file or directory
+bash: HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900: command not found
+bash: 6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ: command not found
+bash: LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn: No such file or directory
+bash: O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/: No such file or directory
+bash: AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P: No such file or directory
+bash: ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx: command not found
+bash: bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u: command not found
+bash: MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj: No such file or directory
+bash: KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD: No such file or directory
+bash: ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ: command not found
+bash: 1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl: No such file or directory
+bash: sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER: No such file or directory
+bash: qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR: No such file or directory
+bash: b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ: command not found
+bash: kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs: No such file or directory
+bash: 3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4: command not found
+bash: mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G: No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR= -out answer3_2.txt -pass pass:matrixsumlist
+bash: U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe: No such file or directory
+bash: dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi: No such file or directory
+bash: c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D: command not found
+bash: SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+: command not found
+bash: IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh: No such file or directory
+bash: 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6: command not found
+bash: -out: command not found
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -in encrypted.bin -out answer3_2.txt -pass pass:matrixsumlist
+Can't open "encrypted.bin" for reading, No such file or directory
+7C3B0000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(encrypted.bin, rb)
+7C3B0000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -in U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR=
+ -out answer3_2.txt -pass pass:matrixsumlist
+Can't open "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe" for reading, No such file or directory
+F4500000:error:80000003:system library:BIO_new_file:No such process:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe, rb)
+F4500000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+bash: dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi: No such file or directory
+bash: c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D: command not found
+bash: SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+: command not found
+bash: IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh: No such file or directory
+bash: 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6: command not found
+bash: -out: command not found
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -in cosmic_duality_real.txt -out answer3_2.txt -pass pass:matrixsumlist
+bad magic number
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -in cosmic_duality_content.txt -out answer3_2.txt -pass pass:matrixsumlist
+bad magic number
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md md5 -nopad -in cosmic_duality_real.txt -pass pass:fans -out decrypted_output.bin$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -pass pass:"Ciao Bella"
+enc: Extra (unknown) options: "aes-256-cbc" "openssl"
+enc: Use -help for summary.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -pass pass:"Ciao Bella"
+bash: 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6$: command not found
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -pass pass:"Ciao Bella" -out decrypted.txt
+bad decrypt
+404D0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality.txt -pass pass:matrixsumlist
+Can't open "cosmic_duality.txt" for reading, No such file or directory
+30460000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(cosmic_duality.txt, r)
+30460000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+sLVE?L.Ä«æ╠ⁿΣx$H%Sìσ?╞⌠NHÄÑNnY%óm╝τσ#PHñ1ù≡çÉτ╚^╚\,√Θ▐
+                                                      ╓╥òX8╒▄ÿ╙L£jh:J┴ªT┤i∩òKKóp%;3╦▀|
+∩6ï╕·4#$i-2⌡fδT╠U1╨
+                   ┘╫⌐■Sª.\╬╧NEAf
+╔ä▌}─▒ëödÑ█>çΦ¡É⌡░,bad decrypt   Ω)ö╦I╡[_┤í└á╓î÷Ñç┤²α½öG}∙▐tH≡▌┐xñ!YBp┘s∞Ç
+C4A00000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ [200~# Try with different MD5 variant
+bash: [200~#: command not found
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+b╪]$&Ä-A╨╣⌡h»,Ñ╟¬W*RAê; ─┌B╧╔┴█<Y∙zÇδ
+æow╩⌐JiΣä╘/±    ╤▒ä÷l.>╞^╨∞,/ë␦7æqPT╒F╦$≤≤WÆ#╠¼▒tY␦É7∙τ
+íÆB·ÿ░╪ⁿQY?kΓT}+Æ┬ì▄▒I-ÿ■HA⌠(üOÆÖN°t?╖■>·≡lp₧Bh4î╨}MτeûE╚▐␦┤Φ│µ─V;ån
+├╒hδT⌠x▄∞┌└Ñ╣Ió ?Φy>
+                    <u»}¢ùº;2C;íÉ╔┤ⁿçrvbad decrypt
+A4670000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Try with SHA256
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md sha256 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+sLVE?L.Ä«æ╠ⁿΣx$H%Sìσ?╞⌠NHÄÑNnY%óm╝τσ#PHñ1ù≡çÉτ╚^╚\,√Θ▐
+                                                      ╓╥òX8╒▄ÿ╙L£jh:J┴ªT┤i∩òKKóp%;3╦▀|
+∩6ï╕·4#$i-2⌡fδT╠U1╨
+                   ┘╫⌐■Sª.\╬╧NEAf
+╔ä▌}─▒ëödÑ█>çΦ¡É⌡░,bad decrypt   Ω)ö╦I╡[_┤í└á╓î÷Ñç┤²α½öG}∙▐tH≡▌┐xñ!YBp┘s∞Ç
+78FD0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Try with SHA1
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md sha1 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+JτÇ²èÇ~σ{1╖╟ÑxφKh╗5º}░å#)╤▐╔╥òu±$─⌐:mΓ║à─⌡SbfΩ¬≈WÄ<j.b▄Yïì G╔2┤²Ö┘╠HkÉ╞▄ÿ²╫░d+lU╨Üx :8të█c╠b├ö¬]3)U¥ú╗╧φτ9&ì±r,[X[Xp*ÖÉ£∩£|╘╥␦hδ∞¼M9*[ ;tµà╗n┌sìK?╓º█zp)¥╔▓s0?╒ÿ£j¥∩┤v ┘tü}╒_σçâⁿPuÇ ╣²E≥Rmß␦(╧█╩>°¿ü{└Ö #¡
+                                                                       W<WënFniGñh│ƒ┌δe╡╩>,l┼bad decrypt
+ECAB0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Try with -nopad
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -nopad
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+sLVE?L.Ä«æ╠ⁿΣx$H%Sìσ?╞⌠NHÄÑNnY%óm╝τσ#PHñ1ù≡çÉτ╚^╚\,√Θ▐
+                                                      ╓╥òX8╒▄ÿ╙L£jh:J┴ªT┤i∩òKKóp%;3╦▀|
+∩6ï╕·4#$i-2⌡fδT╠U1╨
+                   ┘╫⌐■Sª.\╬╧NEAf
+╔ä▌}─▒ëödÑ█>çΦ¡É⌡░,              Ω)ö╦I╡[_┤í└á╓î÷Ñç┤²α½öG}∙▐tH≡▌┐xñ!YBp┘s∞Ç
+8¿╢ls╟╙yvαD╚┼
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Try with -nosalt
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -nosalt~openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -nosalt -nopad
+
+openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -nosalt -nopad > decrypted.bin
+enc: Multiple cipher or unknown options: -aes-256-cbc and -nosalt~openssl
+enc: Use -help for summary.
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ ls -lah decrypted.bin
+-rw-r--r-- 1 Dad 197121 288 Feb  1 08:51 decrypted.bin
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ file decrypted.bin
+Then:
+bashstrings decrypted.bin
+Or try to display it:
+bashcat decrypted.bin
+decrypted.bin: data
+bash: Then:: command not found
+bash: bashstrings: command not found
+bash: Or: command not found
+bash: bashcat: command not found
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ file decrypted.bin
+decrypted.bin: data
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ strings decrypted.bin
+bash: strings: command not found
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cat decrypted.bin
+-p:□Ia(□/□7K`nWU{□C□□W׏u□嚫q1□n□□y□:□O□□□Q□□Q□
+TY`□J□□Dz□bgTg□□□I□     i□□ݝ□OX□□□?
+                                   {□□.9□<□!t□78;□□□□□
+8□□k□□HQ□ISK□□\□W2□□□Z□□□□□
+                           □h□
+'@e□dta□□□□□v□□□-?□□□?□□□□O□□6□□s□□□<□□YRL]□□□T□□□□@□GM□□□)□n□□□<q□□□;L(□h□A
+                                                                            -□□□□~r
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"entermmatrixsumlist" -nopad -nosalt > decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrix sum list enter" -nopad -nosalt > decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrix sum list enter" -nopad -nosalt > decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cat decrypted.bin
+□□□□□|<*□+f□H□□>□□□0□□W□^□□□/y□:o□۲j*EеK[B%□O□97        □□□□□9□u
+                                                                T□
+                                                                  □g□□9□j□□~□m'□□<4□□□  0□I□+Ą□P□□)□X
+                                                                                                     o□□ְc%□=□□□□□□□□□□□'□R~6v□□□□□□□□□s□W□□|□□,r<Q□j□□□]□i□□
+                        w□:□?0D,\□□□□L□o□□s□j□Pz%□□?Adr□□m@□m□T:#Lasg6□dM□
+□O□+ǘ□□ʢ□□r□ƻ□7□[□□՞□!n□□□□□|lsN□#□
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cat decrypted.bin
+)□Q□Ih;k]F□□□□>□C□□7C□v□ޯȃ□g□□□!□;□%□□B□□□>*□□□G□O~&□□□;ɺ□Y□□"O□2h5□I□□□%(□□ap□□4□t:□□.e□□□S□□&□;K□U␦p□2□□□□□□l_آLT□n*□□□□□%%74□□pvh□□□□□G□□□崢c□□@D□c□□C*␦□□□(>␦□□ɱ□Eu□□d□Ⱦ`□□□4kdlo(GL□gU□□□□\□□3#a□&Z□□□KS□%□K_□□□□□W□□X[□k□□N[!f0□□R□Ǆ|□□□□ԡ=□'□□□□0□□.□□
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrix sum list enter" -nopad -nosalt > decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cat decrypted.bin
+□□□□□|<*□+f□H□□>□□□0□□W□^□□□/y□:o□۲j*EеK[B%□O□97        □□□□□9□u
+                                                                T□
+                                                                  □g□□9□j□□~□m'□□<4□□□  0□I□+Ą□P□□)□X
+                                                                                                     o□□ְc%□=□□□□□□□□□□□'□R~6v□□□□□□□□□s□W□□|□□,r<Q□j□□□]□i□□
+                        w□:□?0D,\□□□□L□o□□s□j□Pz%□□?Adr□□m@□m□T:#Lasg6□dM□
+□O□+ǘ□□ʢ□□r□ƻ□7□[□□՞□!n□□□□□|lsN□#□
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"firsthint" -nopad -nosalt > decrypted.bin && cat decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+□□w□i□?□
+□□m□b□9□□F}~□}□□ߜ□&W□□□□9iQ]□j□˺@□□B    □Z0]□_□□□Â□@□O□□□`□0□□□□□
+           □□□□□□
+
+□i8?□□□□ޝ□□
+a□ +3□□□R□.□ft!
+}□P2□Rx□□d□|H(□□□□Wn&Ϻ□x□"p□pڐL□ZtM□□x□□□=~j)□?4        □R□□5□1NWJ□Ym,탩□<H□□8!□□□□□□[□□□t□"␦□  □□5□□6wU□□v
+
+                                                                                                           □s□□Vcc2□□V)$□□□j□□Њ
+^□d□□h□□D□S?
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"lasthint" -nopad -nosalt > decrypted.bin && cat decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+(2□□(8□□v□+□□S□□[r□<□□쑜J`□3␦p□□o□BrỤٚ□□□=M9v□□=□□n□□ˈM□□□)dF؅□o□□)e□<□□6h@□
+□}9z□□S□2rV□□E
+□□□68□IJNY"x□Wq□o+9s;ĝ□□+□IEv=Jv9□z8□□□□M□S□□□t□□wYq0□W□□n□□K□4q□□'w□□o
+c□-□ڸ□V□□□-□~r□□□□^QX□□p_K□□□□□□␦□□g□n□□{z@3□25□□□□:□7□□G□□□□<n□
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"entermatrixsumlist" -nopad -nosalt > decrypted.bin && cat decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+□□Q">sQ□7B□E□D0□□□î□nz□□N]-□□䛦[□□□□q□YA□[I□9□□^N□ؚ□!\□sl□?□G□□5b□;□□]Z?□3□nc?□□□□□□□□□i/□t□?□X□q>□□□pΏ□%□c;□□□□4fj□[□.="□□□d□□a□
+     tp□□,M"
+c□|A□4=O□S8□ApVٳ□□l□□□u~:□Z□□B□OuPٱ□kW□□□TqL□=-□□□□PA□gj□K□□□Bl□□h□□□yc
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md md5 -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin&& cat decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+5□□□~b□?a*
+□MlBකk
+□□0□□E□`)□□xG@R□nlk□□□:#j□7□□□□□□_r-y?
+   d□□X□□□k□@1□;̑cN
+                  □□□□□s\␦l□rz□(□□dI□□□3□□□□6:%f□□□L+□M□>Xlf□˨A□□□X□□□□□□`□□□Ⱦ□a □U□Q□כJm□□S□□□Ȋ□_□□□□□□
+□sL□□A□□d□□□□ک□□5□ॢ&□W□□□D□□[□Y□□□□□!□□R□Dg□e□1□□□       □□_A□□□
+                                                               □        □G□□ׇ
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md sha256 -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin && cat decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+)□Q□Ih;k]F□□□□>□C□□7C□v□ޯȃ□g□□□!□;□%□□B□□□>*□□□G□O~&□□□;ɺ□Y□□"O□2h5□I□□□%(□□ap□□4□t:□□.e□□□S□□&□;K□U␦p□2□□□□□□l_آLT□n*□□□□□%%74□□pvh□□□□□G□□□崢c□□@D□c□□C*␦□□□(>␦□□ɱ□Eu□□d□Ⱦ`□□□4kdlo(GL□gU□□□□\□□3#a□&Z□□□KS□%□K_□□□□□W□□X[□k□□N[!f0□□R□Ǆ|□□□□ԡ=□'□□□□0□□.□□
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md sha256 -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md sha256 -in cosmic_duality_real.txt -pass pass:"gsmg.io/theseedisplanted" > decrypted.bin && file decrypted.bin && head -c 100 decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+10F70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cat decrypted.bin
+□PRK□A□9□□`j□`□□F9□G□6~□□□%m□□F□□□c□□l_□x□u□□□□□qv□8□ݾ~□□□□□4}
+Ƴ□                            ع□Lk□6Y□□□□,□□□P□=Mr□\
+-□□X□C□ZJ□□□□M□&□Y□□,5␦G□Z`□
+□□J             #x2□□□㢯□.□□j□+ЗAd□□□□□I□F□vA□□□G□[<□□□
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md sha1 -in cosmic_duality_real.txt -pass pass:"theseedisplanted" > decrypted.bin && file decrypted.bin && head -c 100 decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+7C7E0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cat decrypted.bin
+□□ݓ<y□6+□□ZUT□ZC&
+(՘T□Kl"□□□□>-□□□+g`□□□□□g*□8|֊□i[□4□□"□k□□□□j□tk+□□N□r}□□SRߒR□#@□
+ݳ□□5□□□□LӠ□□□E߭□U□□                            □□3Q□□j□<z□3c)!G□□^!JU□□aӽ□□□ߤ圩.□□□□□□□a□5□{E□□□+l□□□□}^Tʎa□□%□□x□@Ie□&□□□□
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"enter" > decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+60CE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cat decrypted.bin
+п□,□□□□□□J□Tp□□□mw□}□ڌ□□□K□□ĕ□□G*□␦□□y□-zg□.□□ٱ
+□□{_□$□□"I□□Witdp<□□□□□□e□Z□□□*u□&9ɇ*□q□□□□□P□W□␦□d@□DYi□□C□□□.□□Z␦□f□□EM□B=□v□□□;□Q□□]□x□
+           □J□□□□□
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"entermatrixsumlist" > decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+7C990000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cat decrypted.bin | head -c 200
+r□□Ż□□□□□□-';□̕□ck%>0R□-I□□□=?7W5□i□□
+                                    □□:□□□ԓ□□@□
+□:,z□)□□□�□{*{□□Q2□□□hab□E̛□/□aԶ□□□nzq□j□□%□)q□3□□t&�□□Y□□If□8□□□□□#□wW□
+                                                                       9□рN□□□□ }O□□□>Y:ݏ□□TN"□□M□z□oӝ□"□
+□Ϲ0e□□I2□
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:250f37726d6862939f723edc4f993fde9d33c6004aab4f2203d9ee489d61ce4c > decrypted.bin && cat decrypted.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+64D40000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cat decrypted.bin | head -c 200
+晒□-□_□□□q□□W□□L!
+                 J□□K
+                     T0□□v□□□□□□(l/□□k□□
+                                        L□ۮ□Z□□#□/)□□□␦&T*□□□:۬□e␦□□□$□N□~g□□l□)□□;چ□Uz~□ɋ□$□W□C□□#□□□□□p□□ff□l □S□<˩□□4v□]-□□q□Q□□R□NR□̟□□□9□3D□eH□(/y□□□s□□□□□iD□%□□□□□z
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:keyhole -nopad > final_test.bin && file final_test.bin && head -c 200 final_test.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+final_test.bin: DOS executable (COM), start instruction 0x8c8b7834 a21a4a36
+□□x4□␦J6□□□6 I□z[|ȭ~□□mqv□□<l4Z□GIR□□e~□□t□o□□˓$6□□□Iu<□P,□2Y□|□J□□֊□v□□ □□□□□l□□"□x□[]8!k□□-□□□k4]>□@□□□`□)□□P□□/□□ □□o□eh)&□+ðo□V$□M:Ѩ□Bʱ□□□□□□
+             □oJ□/□@□H9□□؝□Fߍ□□□A□ƅAD□t□
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cat decrypted.bin | head -c 200
+晒□-□_□□□q□□W□□L!
+                 J□□K
+                     T0□□v□□□□□□(l/□□k□□
+                                        L□ۮ□Z□□#□/)□□□␦&T*□□□:۬□e␦□□□$□N□~g□□l□)□□;چ□Uz~□ɋ□$□W□C□□#□□□□□p□□ff□l □S□<˩□□4v□]-□□q□Q□□R□NR□̟□□□9□3D□eH□(/y□□□s□□□□□iD□%□□□□□z
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a \
+  -in cosmic_duality.txt \
+  -pass pass:baff7ec4a1686de56f065d9c72a557eec5977a94c155a18dd78ee833e0ab6f9b
+Can't open "cosmic_duality.txt" for reading, No such file or directory
+0CF90000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(cosmic_duality.txt, r)
+0CF90000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a   -in cosmic_duality_real.txt   -pass pass:baff7ec4a1686de56f065d9c72a557eec5977a94c155a18
+dd78ee833e0ab6f9b
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+#Σm(╫í  ôz╞8╬ß+:ôßebB_
+╥╒+∩\"/r∩┤±9▌â  bE1iLgMW╕7,5»α;)æk.»ù≡UqYîÖZδzÆ⌠5¥▀δ∞⌐╠
+                                                       ëòß═¡,É≥Ufy█▒jxóT╤╦W≈▓»┼YP┐Φ«£╖m4─ªnd░I╗# |╠0±e≈µ╤±╙╛NåÇ└üüh6∞d÷B▌╘N₧■▌I@║P^Γ¡)kö╬▓·φêds╘≤"╔╒t¬½í£Q⌐ß␦±V∙¬b═k┤╛m@¬┴¬s7αqüî√[│@S>}au7╤ R8{µ$·u=δ^ƒ3«╜@xbad decrypt
+94380000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a \
+  -pass pass:baff7ec4a1686de56f065d9c72a557eec5977a94c155a18dd78ee833e0ab6f9b \
+  -in encrypted_final_segment.txt
+Can't open "encrypted_final_segment.txt" for reading, No such file or directory
+1CCE0000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(encrypted_final_segment.txt, r)
+1CCE0000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$

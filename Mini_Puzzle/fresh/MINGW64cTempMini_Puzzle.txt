@@ -1,0 +1,715 @@
+
+Dad@DESKTOP-LAB MINGW64 ~
+$ cd  /c/Temp/Mini_Puzzle
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ grep -rnw . -e "openssl" -e "pbkdf2" -e "aes-256" --include=\*.{txt,sh,py,bat,log}
+./04_combine_passwords.py:82:print("  openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -pass pass:<PASSWORD>")
+./Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force/matrix_decrypt.sh:22:    if openssl enc -aes-256-cbc -d -in "$FILE" -pass pass:"$PASS" -md sha256 -out "dec_legacy.bin" 2>/dev/null; then
+./Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force/matrix_decrypt.sh:31:    if openssl enc -aes-256-cbc -d -pbkdf2 -in "$FILE" -pass pass:"$PASS" -md sha256 -out "dec_pbkdf2.bin" 2>/dev/null; then
+./decrypt/04_combine_passwords.py:82:print("  openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -pass pass:<PASSWORD>")
+./decrypt/bf_scan.py:174:    print(f"openssl enc -aes-256-cbc -d -a -in cosmic_raw.bin -out decrypted_{pwd}.bin -pass pass:'{pwd}' -md sha256")
+./decrypt/bf_scan.py:198:  openssl enc -aes-256-cbc -d -a -in cosmic_raw.bin ^
+./decrypt/cosmic_decrypted095.py:22:last_command = "openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin"
+./decrypt/cosmic_decrypted099.py:22:    "openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin",
+./decrypt/cosmic_decrypted099.py:23:    "openssl enc -aes-256-cbc -d -a -in cosmic_duality.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin"
+./decrypt/cosmic_decrypted100.py:21:base_cmd = "openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin"
+./decrypt/cosmic_decrypted101.py:21:cmd = "openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin"
+./decrypt/cosmic_decryptedKL000.py:26:cmd = "openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin"
+./decrypt/cosmic_decryptedLK002.py:22:cmd = "openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin"
+./decrypt/cosmic_decryptedLK003.py:21:cmd = "openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin"
+./decrypt/cosmic_decryptedLK004.py:21:cmd = "openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin"
+./decrypt/cosmic_decryptedLK006.py:23:cmd_plaintext = "openssl enc -aes-256-cbc -d -a "
+./decrypt/cosmic_decryptedLK007.py:22:cmd_plaintext = "openssl enc -aes-256-cbc -d -a "
+./decrypt/cosmic_decryptedLK008.py:22:cmd = "openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin"
+./decrypt/cosmic_decryptedLK013.py:22:cmd = "openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin"
+./decrypt/cosmic_decryptedLK014.py:25:cmd = "openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin"
+./decrypt/cosmic_decryptedLUV001.py:22:cmd_string = "openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin1106"
+./decrypt/cosmic_decryptedLUV002.py:21:cmd = "openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin"
+./decrypt/decrypt.py:9:# Read the encrypted file (same one you would pass to openssl -in)
+./decrypt/extraction_tools.py:179:            # We can't actually decrypt without openssl, but we can provide the command
+./decrypt/extraction_tools.py:182:            print(f"    openssl enc -aes-256-cbc -d -a -pass pass:'{variant}'")
+./decrypt/first_try/FINAL_MASTER_GUIDE.txt:83:  openssl enc -aes-256-cbc -d -a \
+./decrypt/first_try/QUICK_REFERENCE.txt:93:    openssl enc -aes-256-cbc -d -a -pass pass:"$password"
+./decrypt/matrix_decrypt.sh:22:    if openssl enc -aes-256-cbc -d -in "$FILE" -pass pass:"$PASS" -md sha256 -out "dec_legacy.bin" 2>/dev/null; then
+./decrypt/matrix_decrypt.sh:31:    if openssl enc -aes-256-cbc -d -pbkdf2 -in "$FILE" -pass pass:"$PASS" -md sha256 -out "dec_pbkdf2.bin" 2>/dev/null; then
+./decrypt/MINGW64cMAsterKeyVerified.txt:48:openssl enc -aes-256-cbc -d -in cosmic_raw.bin -out duality.dec \
+./decrypt/MINGW64cMAsterKeyVerified.txt:58:openssl enc -aes-256-cbc -d -in cosmic_raw.bin -out duality.dec \
+./decrypt/password_test.sh:28:    openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt \
+./decrypt/password_test.sh:65:    openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt \
+./decrypt/password_test.sh:93:echo "Still no match. Try running with -pbkdf2:"
+./decrypt/password_test.sh:96:echo "  openssl enc -aes-256-cbc -d -a -pbkdf2 -in cosmic_duality_content.txt -pass pass:\"\$pwd\" -out test_\$pwd.bin"
+./decrypt/Phase3.txt:144:  openssl enc -aes-256-cbc -d -a -in cosmic_duality.txt \
+./decrypt.py:9:# Read the encrypted file (same one you would pass to openssl -in)
+./extraction_tools.py:179:            # We can't actually decrypt without openssl, but we can provide the command
+./extraction_tools.py:182:            print(f"    openssl enc -aes-256-cbc -d -a -pass pass:'{variant}'")
+./fresh/04_combine_passwords.py:82:print("  openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -pass pass:<PASSWORD>")
+./fresh/decrypt.py:9:# Read the encrypted file (same one you would pass to openssl -in)
+./fresh/extraction_tools.py:179:            # We can't actually decrypt without openssl, but we can provide the command
+./fresh/extraction_tools.py:182:            print(f"    openssl enc -aes-256-cbc -d -a -pass pass:'{variant}'")
+./MINGW64cTempMini_Puzzle.txt:3:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:5:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:27:149A0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:30:$ openssl enc -aes-256-cbc -d -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:32:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:47:F4E00000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:50:$ openssl enc -aes-256-cbc -d -a -md sha256 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:52:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:74:CC060000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:77:$ openssl enc -aes-256-cbc -d -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:82:$ openssl enc -aes-256-cbc -d -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:92:$ openssl enc -aes-256-cbc -d -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:94:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:109:149A0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:112:$ openssl enc -aes-256-cbc -d -a -md md5 -nopad -in cosmic_duality_real.txt -pass pass:matrixsumlist -out decrypted_output.bin
+./MINGW64cTempMini_Puzzle.txt:114:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:117:$ openssl enc -aes-256-cbc -d -a -md md5 -nopad -in cosmic_duality_real.txt -pass pass:fans -out decrypted_output.bin
+./MINGW64cTempMini_Puzzle.txt:119:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:122:$ $ openssl enc -aes-256-cbc -d -md md5 -in cosmic_duality_real.txt -pass pass:fans
+./MINGW64cTempMini_Puzzle.txt:126:$ openssl enc -aes-256-cbc -d -a -md md5 -nopad -in cosmic_duality_real.txt -pass pass:matrixsumlist -out decrypted_output.bin
+./MINGW64cTempMini_Puzzle.txt:128:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:131:$ openssl enc -aes-256-cbc -d -a -md md5 -nopad -in cosmic_duality_real.txt -pass pass:fans -out decrypted_output.bin
+./MINGW64cTempMini_Puzzle.txt:133:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:136:$ echo "[PASTE_COSMIC_DUALITY_TEXT_HERE]" | openssl enc -aes-256-cbc -d -a -pass pass:89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+./MINGW64cTempMini_Puzzle.txt:167:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc-d -a -pass pass:89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+./MINGW64cTempMini_Puzzle.txt:169:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:186:74E10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:216:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc-d -a -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:218:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:240:30B10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:270:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc-d -a -pass pass:lastwordsbeforearchichoice
+./MINGW64cTempMini_Puzzle.txt:272:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:285:3CDB0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:288:$ 61;4;6;7;14;21;22;23;24;28;32;42;52cecho "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+ IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6 BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+ vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900 6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/ AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ 1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs 3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4 mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -md md5 -pass pass:lastwordsbeforearchichoice
+./MINGW64cTempMini_Puzzle.txt:305:$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+ IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6 BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+ vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900 6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/ AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ 1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs 3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4 mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -md md5 -pass pass:lastwordsbeforearchichoice
+./MINGW64cTempMini_Puzzle.txt:309:$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+ IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6 BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+ vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900 6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/ AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ 1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs 3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4 mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | tr -d '[:space:]' | openssl enc -aes-256-cbc -d -a -md md5 -pass pass:lastwordsbeforearchichoice
+./MINGW64cTempMini_Puzzle.txt:313:$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+ IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6 BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+ vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900 6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/ AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ 1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs 3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4 mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | tr -d '[:space:]' | openssl enc -aes-256-cbc -d -a -md md5 -pass pass:lastwordsbeforearchichoice
+./MINGW64cTempMini_Puzzle.txt:317:$ openssl enc -d -aes-256-cbc -a \
+./MINGW64cTempMini_Puzzle.txt:322:78E30000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(cosmic_duality.enc, r)
+./MINGW64cTempMini_Puzzle.txt:323:78E30000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle.txt:326:$ openssl enc -d -aes-256-cbc -a -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:331:| openssl enc -d -aes-256-cbc -a \
+./MINGW64cTempMini_Puzzle.txt:334:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:337:00C50000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:340:$ openssl enc -d -aes-256-cbc -a -pass pass:89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+./MINGW64cTempMini_Puzzle.txt:345:| openssl enc -d -aes-256-cbc -a \
+./MINGW64cTempMini_Puzzle.txt:348:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:350:70C00000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:372:| openssl enc -d -aes-256-cbc -a \
+./MINGW64cTempMini_Puzzle.txt:374:enc: Extra (unknown) options: "aes-256-cbc" "and"
+./MINGW64cTempMini_Puzzle.txt:396:MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs' | openssl enc -d -aes-256-cbc -a   -pass pass:matrixsumlistandenter
+./MINGW64cTempMini_Puzzle.txt:398:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:407:D4D60000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon.c:443:
+./MINGW64cTempMini_Puzzle.txt:428:MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs' | openssl enc -d -aes-256-cbc -a   -pass pass:matrixsumlistenter
+./MINGW64cTempMini_Puzzle.txt:430:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:451:90530000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon.c:443:
+./MINGW64cTempMini_Puzzle.txt:455:| openssl enc -d -aes-256-cbc -a \
+./MINGW64cTempMini_Puzzle.txt:458:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:460:50DF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:464:| openssl enc -d -aes-256-cbc -a -md md5 \
+./MINGW64cTempMini_Puzzle.txt:467:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:469:98CE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:473:| openssl enc -d -aes-256-cbc -a -md md5 \
+./MINGW64cTempMini_Puzzle.txt:476:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:478:B8D80000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:482:| openssl enc -d -aes-256-cbc -a -md md5 \
+./MINGW64cTempMini_Puzzle.txt:485:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:487:ECBA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:491:| openssl enc -d -aes-256-cbc -a -md md5 \
+./MINGW64cTempMini_Puzzle.txt:494:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:496:28BF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:499:$ echo "U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z" | openssl enc -d -aes-256-cbc -a -md md5 -pass pass:89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+./MINGW64cTempMini_Puzzle.txt:501:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:503:BCDF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:506:$ echo "U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z" | openssl enc -d -aes-256-cbc -a -pass pass:89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+./MINGW64cTempMini_Puzzle.txt:508:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:511:74D80000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:514:$ echo "U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z" | openssl enc -d -aes-256-cbc -a -pass pass:shabefanstoo
+./MINGW64cTempMini_Puzzle.txt:516:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:518:94AA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:548:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc-d -a -pass pass:89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+./MINGW64cTempMini_Puzzle.txt:550:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:567:1C8C0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:597:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc-d -a -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:599:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:621:8C9F0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:651:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc-d -a -pass pass:matrixsumlist1310
+./MINGW64cTempMini_Puzzle.txt:653:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:670:5C470000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:700:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc-d -a -pass pass:matrixsumlist13
+./MINGW64cTempMini_Puzzle.txt:702:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:721:38550000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:751:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc-d -a -pass pass:matrixsumlist10
+./MINGW64cTempMini_Puzzle.txt:753:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:764:B4DA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:797:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc-d -a -pass pass:matrixsumlist0x0d
+./MINGW64cTempMini_Puzzle.txt:799:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:819:90D30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:849:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc-d -a -pass pass:matrixsumlistENTER
+./MINGW64cTempMini_Puzzle.txt:851:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:869:88DB0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:899:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc-d -a -pass pass:matrixsumlist(ENTER)
+./MINGW64cTempMini_Puzzle.txt:930:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc-d -a -pass pass:matrixsumlist[ENTER]
+./MINGW64cTempMini_Puzzle.txt:932:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:948:FCDD0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:978:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc-d -a -pass pass:matrixsumlist&[ENTER]
+./MINGW64cTempMini_Puzzle.txt:982:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1004:C8DE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1032:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1062:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist&enter
+./MINGW64cTempMini_Puzzle.txt:1066:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1088:E08B0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1116:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1203:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:GSMGIO5BTCPUZZLECHALLENGE1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe
+./MINGW64cTempMini_Puzzle.txt:1205:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1220:A0CD0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1253:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+./MINGW64cTempMini_Puzzle.txt:1255:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1279:A4D40000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1282:$ openssl enc -aes-256-cbc -d -a -in phase3.txt -pass pass:1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c481c77d2ec30d5
+./MINGW64cTempMini_Puzzle.txt:1284:80B50000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(phase3.txt, r)
+./MINGW64cTempMini_Puzzle.txt:1285:80B50000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle.txt:1315:mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass::1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c481c77d2ec3
+./MINGW64cTempMini_Puzzle.txt:1317:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1338:50380000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1341:$ openssl enc -aes-256-cbc -d -a -in salphaseion_real.txt -pass pass:1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c4
+./MINGW64cTempMini_Puzzle.txt:1346:$ " | openssl enc -aes-256-cbc -d -a -pass pass::1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c481c77d2ec3
+./MINGW64cTempMini_Puzzle.txt:1350:$ openssl enc -aes-256-cbc -d -a -in -pass pass:1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c481c77d2ec30d5
+./MINGW64cTempMini_Puzzle.txt:1351:enc: Extra (unknown) options: "aes-256-cbc" "pass:1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c481c77d2ec30d5"
+./MINGW64cTempMini_Puzzle.txt:1356:openssl enc -d -aes-256-cbc -base64 -pbkdf2 -iter 100000 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+./MINGW64cTempMini_Puzzle.txt:1358:# Try with the short phrase (if pbkdf2 fails, try without it for older versions)
+./MINGW64cTempMini_Puzzle.txt:1359:openssl enc -d -aes-256-cbc -base64 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1372:ECBA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1374:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1396:2CD70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1407:vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVk" | openssl enc -aes-256-cbc -d -a -pass pass::1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c481c77d2ec3
+./MINGW64cTempMini_Puzzle.txt:1409:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1413:1CC30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1416:$ openssl enc -d -aes-256-cbc -pbkdf2 -iter 100000 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+./MINGW64cTempMini_Puzzle.txt:1420:$ openssl enc -d -aes-256-cbc -pbkdf2 -iter 100000 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1424:$ openssl enc -d -aes-256-cbc -a -pbkdf2 -iter 100000 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+./MINGW64cTempMini_Puzzle.txt:1437:88E90000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1440:$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+./MINGW64cTempMini_Puzzle.txt:1442:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1466:C0880000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1469:$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1471:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1493:F4DA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1496:$ openssl enc -d -aes-256-cbc -a -pbkdf2 -iter 100000 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1509:BCDF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1512:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1514:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1529:A8710000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1532:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1534:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1549:80F20000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1552:$ openssl enc -d -aes-256-cbc -a -pbkdf2 -iter 100000 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1565:DCAE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1568:$ openssl enc -d -aes-256-cbc -a -pbkdf2 -in cosmic_duality_real.txt -pass pass:THE_LONG_HASH_STRING_HERE
+./MINGW64cTempMini_Puzzle.txt:1585:C8920000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1588:$ echo -n "matrixsumlist" | openssl dgst -sha512
+./MINGW64cTempMini_Puzzle.txt:1592:$ openssl enc -d -aes-256-cbc -a -pbkdf2 -in cosmic_duality_real.txt -pass pass:34a8118df51c74b471709b9cd2c49c51ef6ab549ab5ec4c6fa036048003527adf57718997d7fe523d4e13dd92408d7faee08930d04ab21050c5b826075d3d59b
+./MINGW64cTempMini_Puzzle.txt:1614:18AF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1617:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1619:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1634:F4DB0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1638:PASS=$(echo -n "matrixsumlist" | openssl dgst -sha512 | sed 's/.*= //')
+./MINGW64cTempMini_Puzzle.txt:1639:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:$PASS
+./MINGW64cTempMini_Puzzle.txt:1641:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1660:B8D20000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:112:
+./MINGW64cTempMini_Puzzle.txt:1663:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlis
+./MINGW64cTempMini_Puzzle.txt:1665:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1686:10960000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1689:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+./MINGW64cTempMini_Puzzle.txt:1691:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1714:E0BE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1718:HASH=$(echo -n "matrixsumlist" | openssl dgst -sha512 | sed 's/.*= //')
+./MINGW64cTempMini_Puzzle.txt:1721:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:$HASH
+./MINGW64cTempMini_Puzzle.txt:1723:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1742:08D10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:112:
+./MINGW64cTempMini_Puzzle.txt:1746:HASH_LONG=$(echo -n "theflowerblossomsthroughwhatseemstobeaconcretesurface" | openssl dgst -sha512 | sed 's/.*= //')
+./MINGW64cTempMini_Puzzle.txt:1749:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:$HASH_LONG
+./MINGW64cTempMini_Puzzle.txt:1751:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1767:40F30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1771:HASH=$(echo -n "theflowerblossomsthroughwhatseemstobeaconcretesurface" | openssl dgst -sha512 | sed 's/.*= //')
+./MINGW64cTempMini_Puzzle.txt:1774:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:$HASH
+./MINGW64cTempMini_Puzzle.txt:1777:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1793:E0F20000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1796:$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+./MINGW64cTempMini_Puzzle.txt:1816:44320000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1819:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+./MINGW64cTempMini_Puzzle.txt:1821:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1844:90B90000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1847:$ openssl enc -d -aes-256-cbc -a -md sha256 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+./MINGW64cTempMini_Puzzle.txt:1849:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1873:0CD40000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1876:$ openssl enc -d -aes-256-cbc -a -pbkdf2 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+./MINGW64cTempMini_Puzzle.txt:1889:ACE70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1892:$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_content.txt -out answer_3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1894:4CE70000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(cosmic_duality_content.txt, r)
+./MINGW64cTempMini_Puzzle.txt:1895:4CE70000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle.txt:1898:$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1900:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1902:84850000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1916:$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1918:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1920:74E40000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final blocklength:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon.c:443:
+./MINGW64cTempMini_Puzzle.txt:1934:$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1936:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1938:30B30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1941:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1943:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1945:F88C0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1949:PASS_HASH=$(echo -n "matrixsumlist" | openssl dgst -sha256 | sed 's/.*= //')
+./MINGW64cTempMini_Puzzle.txt:1952:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$PASS_HASH
+./MINGW64cTempMini_Puzzle.txt:1954:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1956:94B50000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1960:PASS_HASH512=$(echo -n "matrixsumlist" | openssl dgst -sha512 | sed 's/.*= //')
+./MINGW64cTempMini_Puzzle.txt:1963:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$PASS_HASH512
+./MINGW64cTempMini_Puzzle.txt:1965:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1967:BC9E0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1970:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1972:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1974:D4DE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1977:$ openssl enc -d -aes-256-cbc -a -md sha256 -in cosmic_duality_real.txt -out answer_3_2.txt-pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1979:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1981:5CE10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1987:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_clean.txt -out answer_3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1991:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:1993:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:1995:44F10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:1998:$ openssl enc -d -aes-256-cbc -a -md md5 -nosalt -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:2000:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2002:1CD90000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2005:$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:2007:3C560000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2010:$ openssl enc -d -aes-256-cbc -a -md sha512 -in cosmic_duality_real.txt -out answer_3_2.txt-pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:2012:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2014:ECD70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2017:$ openssl enc -d -aes-256-cbc -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -passpass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:2022:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass file:pass.txt
+./MINGW64cTempMini_Puzzle.txt:2024:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2026:903C0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2029:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+./MINGW64cTempMini_Puzzle.txt:2031:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2033:80EA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:112:
+./MINGW64cTempMini_Puzzle.txt:2036:$ openssl enc -d -aes-256-cbc -a -md sha256 -in cosmic_duality_real.txt -out answer_3_2.txt-pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:2038:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2040:38A70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2043:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:theseedisplanted
+./MINGW64cTempMini_Puzzle.txt:2045:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2047:24460000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2050:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlisttheseedisplanted
+./MINGW64cTempMini_Puzzle.txt:2052:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2054:60920000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2058:SEED_HASH=$(echo -n "theseedisplanted" | openssl dgst -sha512 | sed 's/.*= //')
+./MINGW64cTempMini_Puzzle.txt:2061:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$SEED_HASH
+./MINGW64cTempMini_Puzzle.txt:2063:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2065:D0F10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2069:FINAL_PASS=$(echo -n "theseedisplanted" | openssl dgst -sha256 | sed 's/.*= //')
+./MINGW64cTempMini_Puzzle.txt:2072:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$FINAL_PASS
+./MINGW64cTempMini_Puzzle.txt:2074:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2076:40F00000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2080:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlisttheseedisplanted
+./MINGW64cTempMini_Puzzle.txt:2082:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2084:88CE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2087:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:98
+./MINGW64cTempMini_Puzzle.txt:2089:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2091:10DA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2094:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:ninetyeight
+./MINGW64cTempMini_Puzzle.txt:2096:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2098:C8740000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2101:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:98
+./MINGW64cTempMini_Puzzle.txt:2103:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2105:1CC60000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2109:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:98theseedisplanted
+./MINGW64cTempMini_Puzzle.txt:2112:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:"98 enter"
+./MINGW64cTempMini_Puzzle.txt:2114:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2116:1CBC0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2118:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2120:78E50000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2123:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:1701
+./MINGW64cTempMini_Puzzle.txt:2125:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2127:7C5C0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2130:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:2440
+./MINGW64cTempMini_Puzzle.txt:2132:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2134:94A60000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2137:$ openssl enc -d -aes-256-cbc -a -md sha1 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:2139:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2141:64BA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2145:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:103,115,109,103,46,105,111,47,116,104,101,115,101,101,100,105,115,112,108,97,110,116,101,100
+./MINGW64cTempMini_Puzzle.txt:2150:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:277
+./MINGW64cTempMini_Puzzle.txt:2152:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2154:38B80000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2156:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2158:48880000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2162:SHORT_HASH=$(echo -n "theseedisplanted" | openssl dgst -sha512 | sed 's/.*= //' | cut -c1-16)
+./MINGW64cTempMini_Puzzle.txt:2165:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$SHORT_HASH
+./MINGW64cTempMini_Puzzle.txt:2167:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2169:5CF20000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2172:$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -out check_file.bin
+./MINGW64cTempMini_Puzzle.txt:2176:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2178:E4E70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2182:$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -out check_file.bin
+./MINGW64cTempMini_Puzzle.txt:2186:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2188:E0E70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2193:PASS=$(echo -n "theseedisplanted" | openssl dgst -sha512 | sed 's/.*= //')
+./MINGW64cTempMini_Puzzle.txt:2196:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$PASS
+./MINGW64cTempMini_Puzzle.txt:2198:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2200:4CA50000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2204:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out puzzle_output.bin -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle.txt:2209:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2211:80D00000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2215:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:62
+./MINGW64cTempMini_Puzzle.txt:2217:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2219:58F20000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2222:$ openssl enc -d -aes-256-cbc -a -md md5 -nopad -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:theseedisplanted
+./MINGW64cTempMini_Puzzle.txt:2226:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2235:Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzleopenssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_answer.txt -pass pass:1701
+./MINGW64cTempMini_Puzzle.txt:2239:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_answer.txt -pass pass:1701
+./MINGW64cTempMini_Puzzle.txt:2241:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2243:44B90000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2247:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:"matrixsumlist theseedisplanted"
+./MINGW64cTempMini_Puzzle.txt:2250:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:"matrixsumlist:theseedisplanted"
+./MINGW64cTempMini_Puzzle.txt:2252:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2254:48E80000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2256:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2258:84940000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:112:
+./MINGW64cTempMini_Puzzle.txt:2261:$ openssl enc -d -aes-256-cbc -a -md sha256 -iter 1 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:theseedisplanted
+./MINGW64cTempMini_Puzzle.txt:2263:E8650000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2266:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:444
+./MINGW64cTempMini_Puzzle.txt:2268:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2270:80A30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2273:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:1686
+./MINGW64cTempMini_Puzzle.txt:2275:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2277:D8830000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2281:HINT_PASS=$(echo -n "matrixsumlist" | openssl dgst -sha256 | sed 's/.*= //')
+./MINGW64cTempMini_Puzzle.txt:2284:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$HINT_PASS
+./MINGW64cTempMini_Puzzle.txt:2286:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2288:74B50000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2291:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:98
+./MINGW64cTempMini_Puzzle.txt:2293:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2295:2CF30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2298:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:1701
+./MINGW64cTempMini_Puzzle.txt:2300:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2302:5C7D0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2306:echo -n "theseedisplanted" | openssl dgst -sha256 -binary > key.bin
+./MINGW64cTempMini_Puzzle.txt:2307:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass file:key.bin
+./MINGW64cTempMini_Puzzle.txt:2309:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2311:A8530000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle.txt:2314:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:948
+./MINGW64cTempMini_Puzzle.txt:2316:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle.txt:2318:08E80000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:4:PASS=$(echo -n "theseedisplanted" | openssl dgst -sha512 | sed 's/.*= //')
+./MINGW64cTempMini_Puzzle000.txt:7:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$PASS
+./MINGW64cTempMini_Puzzle000.txt:9:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:11:C4880000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:15:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out puzzle_output.bin -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle000.txt:20:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:22:94EF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:26:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:62
+./MINGW64cTempMini_Puzzle000.txt:28:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:30:C4CF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:33:$ openssl enc -d -aes-256-cbc -a -md md5 -nopad -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:theseedisplanted
+./MINGW64cTempMini_Puzzle000.txt:37:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:41:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:6369616f2042656c6c61
+./MINGW64cTempMini_Puzzle000.txt:43:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:47:5CF60000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:50:$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -pass pass:"ciao Bella"
+./MINGW64cTempMini_Puzzle000.txt:56:58D70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:59:$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"ciao Bella"
+./MINGW64cTempMini_Puzzle000.txt:61:205A0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:64:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -pass pass:c7e2cf4ce65af5b29ae2e0aadef1fe4a624a2aef1f591393c8ca7b87b3c1d145
+./MINGW64cTempMini_Puzzle000.txt:66:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:68:F0AF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:74:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -pass pass:6369616f2042656c6c61
+./MINGW64cTempMini_Puzzle000.txt:76:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:78:90F80000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:81:$ openssl enc -d -aes-256-cbc -a -nosalt -in cosmic_duality_real.txt -out final_step.txt -pass pass:"ciao Bella"
+./MINGW64cTempMini_Puzzle000.txt:83:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:85:30FC0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:92:$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"ciao Bella"
+./MINGW64cTempMini_Puzzle000.txt:94:DCA90000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:98:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"Turing Complete."
+./MINGW64cTempMini_Puzzle000.txt:101:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"turing complete"
+./MINGW64cTempMini_Puzzle000.txt:103:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:105:E8FA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:107:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:109:38E60000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:112:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -pass pass:6369616f2042656c6c61
+./MINGW64cTempMini_Puzzle000.txt:114:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:116:80D00000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:120:openssl enc -d -aes-256-cbc -a -md sha256 -in cosmic_duality_real.txt -out final_step.txt-pass pass:"ciao Bella"
+./MINGW64cTempMini_Puzzle000.txt:123:openssl enc -d -aes-256-cbc -a -md sha1 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"ciao Bella"
+./MINGW64cTempMini_Puzzle000.txt:125:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:127:D8F30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:129:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:131:E8D60000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:134:$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -out test1.txt -pass pass:theseedisplanted
+./MINGW64cTempMini_Puzzle000.txt:136:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out test2.txt -pass pass:THESEEDISPLANTED
+./MINGW64cTempMini_Puzzle000.txt:138:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out test3.txt -pass pass:"The Seed Is Planted"
+./MINGW64cTempMini_Puzzle000.txt:140:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out test4.txt -pass pass:"the seed is planted"
+./MINGW64cTempMini_Puzzle000.txt:142:38460000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:144:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:146:78D10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:148:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:150:B8E10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:152:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:154:DCA90000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:339:$ openssl enc -d -aes-256-cbc -in encrypted.bin -out answer3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle000.txt:341:3CF20000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(encrypted.bin, rb)
+./MINGW64cTempMini_Puzzle000.txt:342:3CF20000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle000.txt:345:$ openssl enc -d -aes-256-cbc -in U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+./MINGW64cTempMini_Puzzle000.txt:374:E4120000:error:80000003:system library:BIO_new_file:No such process:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe, rb)
+./MINGW64cTempMini_Puzzle000.txt:375:E4120000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle000.txt:421:$ openssl enc -d -aes-256-cbc -in encrypted.bin -out answer3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle000.txt:423:7C3B0000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(encrypted.bin, rb)
+./MINGW64cTempMini_Puzzle000.txt:424:7C3B0000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle000.txt:427:$ openssl enc -d -aes-256-cbc -in U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+./MINGW64cTempMini_Puzzle000.txt:436:F4500000:error:80000003:system library:BIO_new_file:No such process:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe, rb)
+./MINGW64cTempMini_Puzzle000.txt:437:F4500000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle000.txt:446:$ openssl enc -d -aes-256-cbc -in cosmic_duality_real.txt -out answer3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle000.txt:450:$ openssl enc -d -aes-256-cbc -in cosmic_duality_content.txt -out answer3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle000.txt:454:$ openssl enc -aes-256-cbc -d -a -md md5 -nopad -in cosmic_duality_real.txt -pass pass:fans -out decrypted_output.bin$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -pass pass:"Ciao Bella"
+./MINGW64cTempMini_Puzzle000.txt:455:enc: Extra (unknown) options: "aes-256-cbc" "openssl"
+./MINGW64cTempMini_Puzzle000.txt:459:$ 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -pass pass:"Ciao Bella"
+./MINGW64cTempMini_Puzzle000.txt:463:$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -pass pass:"Ciao Bella" -out decrypted.txt
+./MINGW64cTempMini_Puzzle000.txt:465:404D0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:468:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle000.txt:470:30460000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(cosmic_duality.txt, r)
+./MINGW64cTempMini_Puzzle000.txt:471:30460000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle000.txt:474:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle000.txt:476:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:482:C4A00000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:489:$ openssl enc -aes-256-cbc -d -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle000.txt:491:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:497:A4670000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:506:$ openssl enc -aes-256-cbc -d -a -md sha256 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle000.txt:508:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:514:78FD0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:523:$ openssl enc -aes-256-cbc -d -a -md sha1 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle000.txt:525:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:528:ECAB0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:537:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -nopad
+./MINGW64cTempMini_Puzzle000.txt:539:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:553:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -nosalt~openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -nosalt -nopad
+./MINGW64cTempMini_Puzzle000.txt:555:openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -nosalt -nopad > decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:556:enc: Multiple cipher or unknown options: -aes-256-cbc and -nosalt~openssl
+./MINGW64cTempMini_Puzzle000.txt:559:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:595:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:597:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:600:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"entermmatrixsumlist" -nopad -nosalt > decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:602:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:605:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrix sum list enter" -nopad -nosalt > decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:607:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:610:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrix sum list enter" -nopad -nosalt > decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:612:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:624:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:626:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:632:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrix sum list enter" -nopad -nosalt > decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:634:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:646:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"firsthint" -nopad -nosalt > decrypted.bin && cat decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:648:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:660:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"lasthint" -nopad-nosalt > decrypted.bin && cat decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:662:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:668:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"entermatrixsumlist" -nopad -nosalt > decrypted.bin && cat decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:670:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:675:$ openssl enc -aes-256-cbc -d -a -md md5 -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin&& cat decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:677:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:686:$ openssl enc -aes-256-cbc -d -a -md sha256 -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin && cat decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:688:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:691:$ openssl enc -aes-256-cbc -d -a -md sha256 -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:693:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:696:$ openssl enc -aes-256-cbc -d -a -md sha256 -in cosmic_duality_real.txt -pass pass:"gsmg.io/theseedisplanted" > decrypted.bin && file decrypted.bin && head -c 100 decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:698:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:700:10F70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:709:$ openssl enc -aes-256-cbc -d -a -md sha1 -in cosmic_duality_real.txt -pass pass:"theseedisplanted" > decrypted.bin && file decrypted.bin && head -c 100 decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:711:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:713:7C7E0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:721:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"enter" > decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:723:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:725:60CE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:733:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"entermatrixsumlist" > decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:735:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:737:7C990000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:747:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:250f37726d6862939f723edc4f993fde9d33c6004aab4f2203d9ee489d61ce4c > decrypted.bin && cat decrypted.bin
+./MINGW64cTempMini_Puzzle000.txt:749:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:751:64D40000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:760:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:keyhole -nopad > final_test.bin && file final_test.bin && head -c 200 final_test.bin
+./MINGW64cTempMini_Puzzle000.txt:762:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:773:$ openssl enc -aes-256-cbc -d -a \
+./MINGW64cTempMini_Puzzle000.txt:777:0CF90000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(cosmic_duality.txt, r)
+./MINGW64cTempMini_Puzzle000.txt:778:0CF90000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle000.txt:781:$ openssl enc -aes-256-cbc -d -a   -in cosmic_duality_real.txt   -pass pass:baff7ec4a1686de56f065d9c72a557eec5977a94c155a18
+./MINGW64cTempMini_Puzzle000.txt:784:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle000.txt:788:94380000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle000.txt:791:$ openssl enc -aes-256-cbc -d -a \
+./MINGW64cTempMini_Puzzle000.txt:795:1CCE0000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(encrypted_final_segment.txt, r)
+./MINGW64cTempMini_Puzzle000.txt:796:1CCE0000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle1.txt:4:PASS=$(echo -n "theseedisplanted" | openssl dgst -sha512 | sed 's/.*= //')
+./MINGW64cTempMini_Puzzle1.txt:7:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$PASS
+./MINGW64cTempMini_Puzzle1.txt:9:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:11:C4880000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:15:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out puzzle_output.bin -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle1.txt:20:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:22:94EF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:26:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:62
+./MINGW64cTempMini_Puzzle1.txt:28:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:30:C4CF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:33:$ openssl enc -d -aes-256-cbc -a -md md5 -nopad -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:theseedisplanted
+./MINGW64cTempMini_Puzzle1.txt:37:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:41:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:6369616f2042656c6c61
+./MINGW64cTempMini_Puzzle1.txt:43:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:47:5CF60000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:50:$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -pass pass:"ciao Bella"
+./MINGW64cTempMini_Puzzle1.txt:56:58D70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:59:$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"ciao Bella"
+./MINGW64cTempMini_Puzzle1.txt:61:205A0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:64:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -pass pass:c7e2cf4ce65af5b29ae2e0aadef1fe4a624a2aef1f591393c8ca7b87b3c1d145
+./MINGW64cTempMini_Puzzle1.txt:66:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:68:F0AF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:74:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -pass pass:6369616f2042656c6c61
+./MINGW64cTempMini_Puzzle1.txt:76:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:78:90F80000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:81:$ openssl enc -d -aes-256-cbc -a -nosalt -in cosmic_duality_real.txt -out final_step.txt -pass pass:"ciao Bella"
+./MINGW64cTempMini_Puzzle1.txt:83:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:85:30FC0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:92:$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"ciao Bella"
+./MINGW64cTempMini_Puzzle1.txt:94:DCA90000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:98:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -passpass:"Turing Complete."
+./MINGW64cTempMini_Puzzle1.txt:101:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"turing complete"
+./MINGW64cTempMini_Puzzle1.txt:103:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:105:E8FA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:107:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:109:38E60000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:112:$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_step.txt -pass pass:6369616f2042656c6c61
+./MINGW64cTempMini_Puzzle1.txt:114:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:116:80D00000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:120:openssl enc -d -aes-256-cbc -a -md sha256 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"ciao Bella"
+./MINGW64cTempMini_Puzzle1.txt:123:openssl enc -d -aes-256-cbc -a -md sha1 -in cosmic_duality_real.txt -out final_step.txt -pass pass:"ciao Bella"
+./MINGW64cTempMini_Puzzle1.txt:125:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:127:D8F30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:129:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:131:E8D60000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:134:$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -out test1.txt -pass pass:theseedisplanted
+./MINGW64cTempMini_Puzzle1.txt:136:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out test2.txt -pass pass:THESEEDISPLANTED
+./MINGW64cTempMini_Puzzle1.txt:138:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out test3.txt -pass pass:"The Seed Is Planted"
+./MINGW64cTempMini_Puzzle1.txt:140:openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out test4.txt -pass pass:"the seed is planted"
+./MINGW64cTempMini_Puzzle1.txt:142:38460000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:144:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:146:78D10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:148:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:150:B8E10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:152:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:154:DCA90000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:339:$ openssl enc -d -aes-256-cbc -in encrypted.bin -out answer3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle1.txt:341:3CF20000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(encrypted.bin, rb)
+./MINGW64cTempMini_Puzzle1.txt:342:3CF20000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle1.txt:345:$ openssl enc -d -aes-256-cbc -in U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+./MINGW64cTempMini_Puzzle1.txt:374:E4120000:error:80000003:system library:BIO_new_file:No such process:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe, rb)
+./MINGW64cTempMini_Puzzle1.txt:375:E4120000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle1.txt:421:$ openssl enc -d -aes-256-cbc -in encrypted.bin -out answer3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle1.txt:423:7C3B0000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(encrypted.bin, rb)
+./MINGW64cTempMini_Puzzle1.txt:424:7C3B0000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle1.txt:427:$ openssl enc -d -aes-256-cbc -in U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+./MINGW64cTempMini_Puzzle1.txt:436:F4500000:error:80000003:system library:BIO_new_file:No such process:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe, rb)
+./MINGW64cTempMini_Puzzle1.txt:437:F4500000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle1.txt:446:$ openssl enc -d -aes-256-cbc -in cosmic_duality_real.txt -out answer3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle1.txt:450:$ openssl enc -d -aes-256-cbc -in cosmic_duality_content.txt -out answer3_2.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle1.txt:454:$ openssl enc -aes-256-cbc -d -a -md md5 -nopad -in cosmic_duality_real.txt -pass pass:fans-out decrypted_output.bin$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -pass pass:"Ciao Bella"
+./MINGW64cTempMini_Puzzle1.txt:455:enc: Extra (unknown) options: "aes-256-cbc" "openssl"
+./MINGW64cTempMini_Puzzle1.txt:459:$ 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -pass pass:"Ciao Bella"
+./MINGW64cTempMini_Puzzle1.txt:463:$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1105 -in cosmic_duality_real.txt -pass pass:"Ciao Bella" -out decrypted.txt
+./MINGW64cTempMini_Puzzle1.txt:465:404D0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:468:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle1.txt:470:30460000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(cosmic_duality.txt, r)
+./MINGW64cTempMini_Puzzle1.txt:471:30460000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle1.txt:474:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle1.txt:476:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:482:C4A00000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:489:$ openssl enc -aes-256-cbc -d -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle1.txt:491:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:497:A4670000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:506:$ openssl enc -aes-256-cbc -d -a -md sha256 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle1.txt:508:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:514:78FD0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:523:$ openssl enc -aes-256-cbc -d -a -md sha1 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+./MINGW64cTempMini_Puzzle1.txt:525:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:528:ECAB0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:537:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -nopad
+./MINGW64cTempMini_Puzzle1.txt:539:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:553:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -nosalt~openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -nosalt -nopad
+./MINGW64cTempMini_Puzzle1.txt:555:openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -nosalt-nopad > decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:556:enc: Multiple cipher or unknown options: -aes-256-cbc and -nosalt~openssl
+./MINGW64cTempMini_Puzzle1.txt:559:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:595:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:597:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:600:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"entermmatrixsumlist" -nopad -nosalt > decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:602:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:605:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrix sum list enter" -nopad -nosalt > decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:607:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:610:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrix sum list enter" -nopad -nosalt > decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:612:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:624:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:626:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:632:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"matrix sum list enter" -nopad -nosalt > decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:634:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:646:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"firsthint" -nopad -nosalt > decrypted.bin && cat decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:648:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:660:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"lasthint" -nopad -nosalt > decrypted.bin && cat decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:662:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:668:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"entermatrixsumlist" -nopad -nosalt > decrypted.bin && cat decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:670:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:675:$ openssl enc -aes-256-cbc -d -a -md md5 -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin&& cat decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:677:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:686:$ openssl enc -aes-256-cbc -d -a -md sha256 -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin && cat decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:688:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:691:$ openssl enc -aes-256-cbc -d -a -md sha256 -in cosmic_duality_real.txt -pass pass:"matrixsumlistenter" -nopad -nosalt > decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:693:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:696:$ openssl enc -aes-256-cbc -d -a -md sha256 -in cosmic_duality_real.txt -pass pass:"gsmg.io/theseedisplanted" > decrypted.bin && file decrypted.bin && head -c 100 decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:698:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:700:10F70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:709:$ openssl enc -aes-256-cbc -d -a -md sha1 -in cosmic_duality_real.txt -pass pass:"theseedisplanted" > decrypted.bin && file decrypted.bin && head -c 100 decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:711:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:713:7C7E0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:721:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"enter" > decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:723:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:725:60CE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:733:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:"entermatrixsumlist" > decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:735:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:737:7C990000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:747:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:250f37726d6862939f723edc4f993fde9d33c6004aab4f2203d9ee489d61ce4c > decrypted.bin && cat decrypted.bin
+./MINGW64cTempMini_Puzzle1.txt:749:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:751:64D40000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:760:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:keyhole -nopad > final_test.bin && file final_test.bin && head -c 200 final_test.bin
+./MINGW64cTempMini_Puzzle1.txt:762:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:773:$ openssl enc -aes-256-cbc -d -a \
+./MINGW64cTempMini_Puzzle1.txt:777:0CF90000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(cosmic_duality.txt, r)
+./MINGW64cTempMini_Puzzle1.txt:778:0CF90000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzle1.txt:781:$ openssl enc -aes-256-cbc -d -a   -in cosmic_duality_real.txt   -pass pass:baff7ec4a1686de56f065d9c72a557eec5977a94c155a18
+./MINGW64cTempMini_Puzzle1.txt:784:Using -iter or -pbkdf2 would be better.
+./MINGW64cTempMini_Puzzle1.txt:788:94380000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+./MINGW64cTempMini_Puzzle1.txt:791:$ openssl enc -aes-256-cbc -d -a \
+./MINGW64cTempMini_Puzzle1.txt:795:1CCE0000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(encrypted_final_segment.txt, r)
+./MINGW64cTempMini_Puzzle1.txt:796:1CCE0000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzledecrypt001.txt:513:  openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -pass pass:<PASSWORD>
+./MINGW64cTempMini_Puzzledecrypt001.txt:543:$ openssl enc -aes-256-cbc -d -a \
+./MINGW64cTempMini_Puzzledecrypt001.txt:547:9C240100:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(encrypted_final_segment.txt, r)
+./MINGW64cTempMini_Puzzledecrypt001.txt:548:9C240100:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzledecrypt001.txt:551:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 -iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin
+./MINGW64cTempMini_Puzzledecrypt001.txt:553:A4240100:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(cosmic_duality.txt, r)
+./MINGW64cTempMini_Puzzledecrypt001.txt:554:A4240100:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+./MINGW64cTempMini_Puzzledecrypt001.txt:557:$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23-iv c6ff2e39d98843bc3c26b8a33a15b5c9 -out cosmic_decrypted.bin
+./MINGW64cTempMini_Puzzledecrypt001.txt:646:Command: openssl enc -aes-256-cbc -d -a...
+./MINGW64cTempMini_Puzzledecrypt001.txt:650:Command: openssl enc -aes-256-cbc -d -a...
+./MINGW64cTempMini_Puzzledecrypt001.txt:658:Input: openssl enc -aes-256...
+./MINGW64cTempMini_Puzzledecrypt001.txt:661:Input: openssl enc -aes-256...
+./Phase3.txt:144:  openssl enc -aes-256-cbc -d -a -in cosmic_duality.txt \
+./temp/04_combine_passwords.py:82:print("  openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -pass pass:<PASSWORD>")
+./temp/decrypt.py:9:# Read the encrypted file (same one you would pass to openssl -in)
+./temp/extraction_tools.py:179:            # We can't actually decrypt without openssl, but we can provide the command
+./temp/extraction_tools.py:182:            print(f"    openssl enc -aes-256-cbc -d -a -pass pass:'{variant}'")
+./WINDOWS_QUICK_START.txt:102:  openssl enc -aes-256-cbc -d -a -in cosmic_duality_content.txt -pass pass:YOURPASSWORD
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$

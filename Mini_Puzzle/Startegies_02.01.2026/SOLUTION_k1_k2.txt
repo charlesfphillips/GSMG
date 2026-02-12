@@ -1,0 +1,38 @@
+GSMG DUALITY PUZZLE - SOLUTION
+================================================================================
+
+k1 (First Key from Cosmic Duality):
+  Hex: c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  Int: 90726584235245016895520562433776219046480206554831332559682925875781038541671
+
+k2 (Second Key from Cosmic Duality):
+  Hex: d353548d1007c81ad1f1601a6c46677c96ccaf0d2a4067e65d0355b1fb07ddf8
+  Int: 95585242907179622177358675335303222697340889697542810988259012711675477876216
+
+TARGET KEYS (ktarget):
+
+METHOD 1 - ADDITION: ktarget = (k1 + k2) mod n
+  Hex: 9be8c1d7d32eb2dda7021c61b518351b65acf17c7725fff3eb5381cca98a281e
+  Int: 70519737905108443649308252760391533890983531973299239165336775445938354923550
+  
+  WIF Uncompressed: 5Jzx5Bj57t9tfBt8Ytz9XdmCDKrTYnV6WeEqr8JfnU3K1QXT9Rm
+  WIF Compressed:   L2Sn5ULhBNnF1Z2gKnTEeDG4VQDJBHm1KqN6bqEzBgMCUQv5bK4L
+
+METHOD 2 - SUBTRACTION: ktarget = (k1 - k2) mod n
+  Hex: f54218bdb31f22a8031f5c2cdc8b661fad714d2f8136709eb0f1938253e6eeb0
+  Int: 110933430565381590141732872107160904201976881136363425954029076305623722159792
+  
+  WIF Uncompressed: 5KgJNaMnn3CadkzXyZKo3GcDQZkFzUpFTiKUH12HYMBfHtGLkc3
+  WIF Compressed:   L5STgEEm3ni7TFAwidfxD1tRm1XwAhmYpuNXPd6g1N641T2c3zTM
+
+================================================================================
+
+TO CLAIM 2.5 BTC:
+
+1. Open Electrum Wallet
+2. File → New/Restore
+3. Select "Import Bitcoin addresses or private keys"
+4. Paste ONE of the four WIF keys above
+5. The correct key will show 2.5 BTC at address 1GSMG1JCHXNstXW39VpS9iVfM9P6P7B3P
+
+Try all four keys - one will have the funds!

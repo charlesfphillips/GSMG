@@ -1,0 +1,24 @@
+GSMG DUALITY PUZZLE SETUP
+================================================================================
+
+k1 (from Cosmic Duality decryption):
+  Hex: c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+  Int: 90726584235245016895520562433776219046480206554831332559682925875781038541671
+
+Generated Address from k1:
+  Uncompressed: 1G9aYahcbEocLJJsCBidzMQRHSaqSydE4D
+  Compressed: 1MB85Hfk6ajryvx5EyqH2P1WvecyPE3uok
+
+Target Address (with 2.5 BTC):
+  1GSMG1JCHXNstXW39VpS9iVfM9P6P7B3P
+
+To Find k2:
+  1. Check blockchain for 1111 satoshi dust transaction sent to one of the addresses above
+  2. Extract the private key that SENT the dust
+  3. That's k2!
+
+Final Calculation:
+  Method A: ktarget = (k1 + k2) mod 0xfffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364141
+  Method B: ktarget = (k1 - k2) mod n
+  
+Then convert ktarget to WIF and import to Electrum!

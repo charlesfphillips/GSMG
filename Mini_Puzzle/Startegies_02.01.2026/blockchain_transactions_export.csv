@@ -1,0 +1,23 @@
+Transaction #,Date/Time,TXID,From Address,To Address,Amount (BTC),Fee (Satoshis),Fee (BTC),Transaction Type
+1,1/25/2026 06:16:54,965b-740d,1GKRTErnthjsdXT9XbGTqKQQFYwbRbuGGd,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00000546,908,0.00000908,Dust Transfer
+1,1/25/2026 06:16:54,965b-740d,1GKRTErnthjsdXT9XbGTqKQQFYwbRbuGGd,17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa,0.00000546,908,0.00000908,Dust Transfer
+2,1/25/2026 03:10:18,436d-13c2,bc1qj03l9ucwwgd4nmlvhz42qhgnpspru60whlqngl,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00001126,564,0.00000564,Dust Transfer
+2,1/25/2026 03:10:18,436d-13c2,bc1qj03l9ucwwgd4nmlvhz42qhgnpspru60whlqngl,bc1qj03l9ucwwgd4nmlvhz42qhgnpspru60whlqngl,0.00021767,564,0.00000564,Change Return
+3,1/23/2026 02:29:17,6694-9f50,18BpBB1YA8UwBpgkdx7JGsNqKvV9JhEQ1DgtKH,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00002526,1000,0.00001000,Dust Transfer
+4,1/23/2026 02:28:47,bd9d-5e30,1H8hfqBiCfm8YBDdQzM4PrEd3sFfeD5sG,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00002526,1000,0.00001000,Dust Transfer
+5,1/21/2026 09:44:16,b5b2-9ca7,144FrTsHdnC4uZdtKsU9xqoKY63C6C63C6,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00000546,452,0.00000452,Dust Transfer
+6,1/20/2026 15:39:10,3168-8cd1,bc1qj03l9ucwwgd4nmlvhz42qhgnpspru60whlqngl,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00000546,730,0.00000730,Dust Transfer
+7,1/15/2026 12:32:55,8561-5796,bc1qj03l9ucwwgd4nmlvhz42qhgnpspru60whlqngl,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00000546,480,0.00000480,Dust Transfer
+8,12/31/2025 15:09:48,15e9-df6d,bc1qym0hmrz8hzwg5wl7g4v07kq8lvj8ywhyws0h,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00002026,256,0.00000256,Dust Transfer
+9,12/30/2025 10:26:26,66ee-f9ee,1Pi3UYP5THDKgYarFCZRPpVZKLW5zSZ9q,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00000864,4200,0.00004200,Dust Transfer
+10,12/23/2025 16:59:31,42c3-df0a,bc1qp9nfszzauu7nulvul9u9hqm7rv0h2p0f88nv,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00000666,335,0.00000335,Dust Transfer
+11,12/06/2025 11:32:56,4e68-17f5,12putUDNkEg7r9Z6CfPZCyYzKAV1dJJy2h,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00002680,400,0.00000400,Dust Transfer
+12,10/16/2025 15:24:06,079f-3d15,1HGWsfaoEDKvvvT8Fkpbcmxyd9eJ3r4P5s,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00001203,1100,0.00001100,Dust Transfer
+13,9/11/2025 17:12:54,dcc6-d407,1LSgoTnrzzzzzzzzzzzzzzzzzzzzzzzzzzz,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00001000,552,0.00000552,Dust Transfer
+14,9/10/2025 16:29:39,99c5-1a48,12oS4mJjzzzzzzzzzzzzzzzzzzzzzzzzzzz,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00002380,1100,0.00001100,Dust Transfer
+15,9/08/2025 21:04:09,3775-69ac,bc1qgzyf9hzzzzzzzzzzzzzzzzzzzzzzzzzzz,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00001070,19100,0.00019100,Dust Transfer
+16,9/04/2025 10:33:13,ca63-8a85,bc1qsfw3hzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00010000,378,0.00000378,Dust Transfer
+17,8/31/2025 04:14:07,cf2a-8005,16cUacfHzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00000800,500,0.00000500,Dust Transfer
+18,8/26/2025 15:46:13,c7e2-d145,1GSMGLLUV2zzzzzzzzzzzzzzzzzzzzzzzzz,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00000546,1400,0.00001400,Dust Transfer
+19,8/14/2025 19:32:04,34da-1517,1KeYp8u3zzzzzzzzzzzzzzzzzzzzzzzzzzz,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00000546,1300,0.00001300,Dust Transfer
+20,8/11/2025 02:47:53,6c1c-a4dc,bc1q30q3zzzzzzzzzzzzzzzzzzzzzzzzzzz,1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe,0.00000700,144,0.00000144,Dust Transfer

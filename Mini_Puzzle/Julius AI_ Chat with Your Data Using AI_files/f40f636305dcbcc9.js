@@ -1,0 +1,5 @@
+;!function(){try { var e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof global?global:"undefined"!=typeof window?window:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]="b02997d1-c7e2-8f48-e29d-63683cb76108")}catch(e){}}();
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,493840,e=>{"use strict";var t=e.i(843476),r=e.i(618566);function s(){return(0,r.useSearchParams)().get("error")?(0,t.jsx)("div",{className:"h-screen w-full flex items-center justify-center",children:(0,t.jsx)("span",{children:"Authentication failed. Please try again or contact support."})}):null}e.s(["default",()=>s])}]);
+
+//# debugId=b02997d1-c7e2-8f48-e29d-63683cb76108
+//# sourceMappingURL=6f57d5354decb69e.js.map

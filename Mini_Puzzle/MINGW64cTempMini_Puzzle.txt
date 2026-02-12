@@ -1,0 +1,2321 @@
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in cosmic_duality_real.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+sLVE?L.Ä«æ╠ⁿΣx$H%Sìσ?╞⌠NHÄÑNnY%óm╝τσ#PHñ1ù≡çÉτ╚^╚\,√Θ▐
+                                                      ╓╥òX8╒▄ÿ╙L£jh:J┴ªT┤i∩òKKóp%;3╦▀|
+∩6ï╕·4#$i-2⌡fδT╠U1╨
+                   ┘╫⌐■Sª.\╬╧NEAf
+╔ä▌}─▒ëödÑ█>çΦ¡É⌡░,              Ω)ö╦I╡[_┤í└á╓î÷Ñç┤²α½öG}∙▐tH≡▌┐xñ!YBp┘s∞Ç
+8¿╢ls╟╙yvαD╚┼]S░pAZ└αú[╞`+µZd╤A∞£ ╜╙}ò║1ò╔Wxñ]æ¢å╒\ⁿ+   wÄfdσ+D%²+┤<ëº8╩┌BR╕M▐4r'╣Æ£µ╫·Σ«▐J╤K]╙L╙└╡{<ï¿,√[]8u≈ñf8┬«╖,├ σ`╘÷C,╛p╡y_\·bÅ £ä
+ßh▓8╫åVNì≥â:╧¿▌å─&\Æ]┴∞«3ò├äφ≡ê¬╧'üVσlxuÆúkT=cπ2q▐(bG^c║╖-ùAY{╟t╥─oⁿ╜3¢muà∩FR┬ZÉx¢╕?⌠╬Xì╟çâµ([▌Æ╕&▀C╡²╦x▐╓[v?ï@╠«⌠ Åf┬@4░Vn╩▐5╔%₧B*╗»╜_╟┼▄4ÄuÄpπ¼ú·ä█)E╜⌠π╧¥°DAⁿ_x≡$±e>M╦º┴≥┐▄,╧÷¿(█ÿ¬Σ!ûZîo╤îp█23i␦c;tÅ╡∞W2@*z¬ ⌠Θ
+π╫íb␦¼¥√âÜ⌠uz╨╪zOé⌠.Ç-·m█è╜ö?)3
+Öù·Σk         )mÆ;
+╞₧*æ≡␦µs╢δm·vêπφÇ╕ÆIⁿ╙c»z╦┼│îεGf▀fé¿ÉûU¢b£òES¼Ép├&*▌laJç╔␦╣╓Σi°Æí╧■
+                                                         X╝╣/╝ΦN╔âò┼╕;
+'╖T⌡ 'ñ≤░╙≥₧í2╪.╗ÿt╔
+                    ▒■P⌡╣╥▒gΦWkW~çA═&`╗0╞^AKª=çw{Æy-▌O╛òí≥á│C╪>z≡A╡Γ▒
+                                                                     i╫Fîáü╗H-XN
+;E#┴b6≡ü╕²CRë╥qqΩY┐ΓP║╚∩1+¿╬,╘╩3ú╖{?░áá┬:ⁿ@\R╜QÇσ°■iÇ⌡╔┌φ╪kσ¢¥r₧╓ÆÜ╜╒V3╖qöû╙n≥A≈C╡╢╣ΦúºC$C┘ù\░Ö■73û┤
+∩╧▄ÇÿZ+~≥=P└`╙+┤æ└      Lë╖+i{┼k╖√m{V¬φ╕πE╚o%ƒ$7ué&wm{x½▀└Ä╓SïO┐eC]
+                                                                   ╢⌐╙I■╗ö      ~╡DgΓ╫¢▌éy
+                                                                                          ≤«£±£πì≥±≤¿ß£⌐;½▐QpfiQ%8├I▐▓■ô▓#ù╫₧r╨╖·α÷═
+¼┬$èδ
+     7╔v└╜Σ╖£1ö;╧]áv╨¿å
+b╗x║x▀*KùM·G╒;╫ºUtπyq≡Hí!∩┴╔ºα)z6╤│╬ë#ΘáêÖ╤╨bad decrypt
+149A0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+b╪]$&Ä-A╨╣⌡h»,Ñ╟¬W*RAê; ─┌B╧╔┴█<Y∙zÇδ
+æow╩⌐JiΣä╘/±    ╤▒ä÷l.>╞^╨∞,/ë␦7æqPT╒F╦$≤≤WÆ#╠¼▒tY␦É7∙τ
+íÆB·ÿ░╪ⁿQY?kΓT}+Æ┬ì▄▒I-ÿ■HA⌠(üOÆÖN°t?╖■>·≡lp₧Bh4î╨}MτeûE╚▐␦┤Φ│µ─V;ån
+├╒hδT⌠x▄∞┌└Ñ╣Ió ?Φy>
+                    <u»}¢ùº;2C;íÉ╔┤ⁿçrvn⌡W¥δ$ëQOó?áN╓!i╘Æ╗zΣ%╪>X┬Å6┐du√π ╠δµ½Æ(YseÇ
+                                                                                   "≥mα▄á:KT0╔␦└╚╙ä⌐▒4≈û¢à^┼17[░Å>⌠d~▒c╕|(╡≤┤╖[Y(P╬πúl¥w7!u╪╦└{Uå╕Q║po␦Sb0╖ÜrsuDΩ_╡ε∙⌠«8hB<:ó╞sî/╢Q▓á¢█.╣       7$¢▌^A╤╒ⁿPÅ}pClìÇⁿvΣ
+$V┌ä≥QÆe1▓$Dä23b>V{ß⌐GrF'╞ßjlúö Rδ∙
+pΦn>φ¡╝^αüÖ %╗é╫{8H┴sê║S╟÷╚Y┴╨å£ìB╕gò·₧ß┘│═O^─└║&è╪^∞¬╒$≈ÿÉ▓åÉs!▀␦
+                                                                  ù╖ì▌ü╘B─5K╡ë¬ñ⌠ª╛f╦▀v┬9\i╫KÜ¿(n┴Ü°EaîΣ.'≥Y╨P∞A╘╜■LMσ╨╧àÉ>E,20µ╧║πP╥¼æΘù=╝:sCⁿCÑjW╖╛<DUR½Ñ&u√z╢╝3vF'Γe─╦ûX(y┐áò^0τΣ≡╙ΦL╠πxô╡∞g═Ad≤^êB5qÇ]aHf┘╦
+                                                                            ;D2K¬εçñ¿╤√╗ßΩW|{╝∩╣╙1
+7■0ÿ%Gδ╨c_û╖)≥╣(Nà φ\ê
+                   43¬ºRü7û╬┬ÄwÉ╢₧·ÿ╛7╙&F*:Q≡»ß9,±HC╧│ï╘P≤ó╤┼òí)3?╧÷▒╘D╕j╔û|▀>o░&εE/╫╒▒y╚\∩═╢ ═74÷cU¥╤  ╕⌡»␦╪¿KBΘ╥π∞»[r╧╝_ºü╬╡S│╡░ü├␦┌Y5-#gúüÑ░┤┐
+                         ≈B+ße·┼«╛|zÄb≈╙W6¼╚▀få╕~ⁿ│ç┌NF■kôs+¥a2Ñ1°Hk0
+·┐┤┘._░iP┤┤£¢wTτΣ;ºâ&Σ·i╞uA∩Ætmbad decrypt
+F4E00000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md sha256 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+sLVE?L.Ä«æ╠ⁿΣx$H%Sìσ?╞⌠NHÄÑNnY%óm╝τσ#PHñ1ù≡çÉτ╚^╚\,√Θ▐
+                                                      ╓╥òX8╒▄ÿ╙L£jh:J┴ªT┤i∩òKKóp%;3╦▀|
+∩6ï╕·4#$i-2⌡fδT╠U1╨
+                   ┘╫⌐■Sª.\╬╧NEAf
+╔ä▌}─▒ëödÑ█>çΦ¡É⌡░,              Ω)ö╦I╡[_┤í└á╓î÷Ñç┤²α½öG}∙▐tH≡▌┐xñ!YBp┘s∞Ç
+8¿╢ls╟╙yvαD╚┼]S░pAZ└αú[╞`+µZd╤A∞£ ╜╙}ò║1ò╔Wxñ]æ¢å╒\ⁿ+   wÄfdσ+D%²+┤<ëº8╩┌BR╕M▐4r'╣Æ£µ╫·Σ«▐J╤K]╙L╙└╡{<ï¿,√[]8u≈ñf8┬«╖,├ σ`╘÷C,╛p╡y_\·bÅ £ä
+ßh▓8╫åVNì≥â:╧¿▌å─&\Æ]┴∞«3ò├äφ≡ê¬╧'üVσlxuÆúkT=cπ2q▐(bG^c║╖-ùAY{╟t╥─oⁿ╜3¢muà∩FR┬ZÉx¢╕?⌠╬Xì╟çâµ([▌Æ╕&▀C╡²╦x▐╓[v?ï@╠«⌠ Åf┬@4░Vn╩▐5╔%₧B*╗»╜_╟┼▄4ÄuÄpπ¼ú·ä█)E╜⌠π╧¥°DAⁿ_x≡$±e>M╦º┴≥┐▄,╧÷¿(█ÿ¬Σ!ûZîo╤îp█23i␦c;tÅ╡∞W2@*z¬ ⌠Θ
+π╫íb␦¼¥√âÜ⌠uz╨╪zOé⌠.Ç-·m█è╜ö?)3
+Öù·Σk         )mÆ;
+╞₧*æ≡␦µs╢δm·vêπφÇ╕ÆIⁿ╙c»z╦┼│îεGf▀fé¿ÉûU¢b£òES¼Ép├&*▌laJç╔␦╣╓Σi°Æí╧■
+                                                         X╝╣/╝ΦN╔âò┼╕;
+'╖T⌡ 'ñ≤░╙≥₧í2╪.╗ÿt╔
+                    ▒■P⌡╣╥▒gΦWkW~çA═&`╗0╞^AKª=çw{Æy-▌O╛òí≥á│C╪>z≡A╡Γ▒
+                                                                     i╫Fîáü╗H-XN
+;E#┴b6≡ü╕²CRë╥qqΩY┐ΓP║╚∩1+¿╬,╘╩3ú╖{?░áá┬:ⁿ@\R╜QÇσ°■iÇ⌡╔┌φ╪kσ¢¥r₧╓ÆÜ╜╒V3╖qöû╙n≥A≈C╡╢╣ΦúºC$C┘ù\░Ö■73û┤
+∩╧▄ÇÿZ+~≥=P└`╙+┤æ└      Lë╖+i{┼k╖√m{V¬φ╕πE╚o%ƒ$7ué&wm{x½▀└Ä╓SïO┐eC]
+                                                                   ╢⌐╙I■╗ö      ~╡DgΓ╫¢▌éy
+                                                                                          ≤«£±£πì≥±≤¿ß£⌐;½▐QpfiQ%8├I▐▓■ô▓#ù╫₧r╨╖·α÷═
+¼┬$èδ
+     7╔v└╜Σ╖£1ö;╧]áv╨¿å
+b╗x║x▀*KùM·G╒;╫ºUtπyq≡Hí!∩┴╔ºα)z6╤│╬ë#ΘáêÖ╤╨bad decrypt
+CC060000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+bad magic number
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+bad magic number
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+bash: Dad@DESKTOP-LAB: command not found
+bash: $: command not found
+bash: bad: command not found
+bash: Dad@DESKTOP-LAB: command not found
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+b╪]$&Ä-A╨╣⌡h»,Ñ╟¬W*RAê; ─┌B╧╔┴█<Y∙zÇδ
+æow╩⌐JiΣä╘/±    ╤▒ä÷l.>╞^╨∞,/ë␦7æqPT╒F╦$≤≤WÆ#╠¼▒tY␦É7∙τ
+íÆB·ÿ░╪ⁿQY?kΓT}+Æ┬ì▄▒I-ÿ■HA⌠(üOÆÖN°t?╖■>·≡lp₧Bh4î╨}MτeûE╚▐␦┤Φ│µ─V;ån
+├╒hδT⌠x▄∞┌└Ñ╣Ió ?Φy>
+                    <u»}¢ùº;2C;íÉ╔┤ⁿçrvn⌡W¥δ$ëQOó?áN╓!i╘Æ╗zΣ%╪>X┬Å6┐du√π ╠δµ½Æ(YseÇ
+                                                                                   "≥mα▄á:KT0╔␦└╚╙ä⌐▒4≈û¢à^┼17[░Å>⌠d~▒c╕|(╡≤┤╖[Y(P╬πúl¥w7!u╪╦└{Uå╕Q║po␦Sb0╖ÜrsuDΩ_╡ε∙⌠«8hB<:ó╞sî/╢Q▓á¢█.╣       7$¢▌^A╤╒ⁿPÅ}pClìÇⁿvΣ
+$V┌ä≥QÆe1▓$Dä23b>V{ß⌐GrF'╞ßjlúö Rδ∙
+pΦn>φ¡╝^αüÖ %╗é╫{8H┴sê║S╟÷╚Y┴╨å£ìB╕gò·₧ß┘│═O^─└║&è╪^∞¬╒$≈ÿÉ▓åÉs!▀␦
+                                                                  ù╖ì▌ü╘B─5K╡ë¬ñ⌠ª╛f╦▀v┬9\i╫KÜ¿(n┴Ü°EaîΣ.'≥Y╨P∞A╘╜■LMσ╨╧àÉ>E,20µ╧║πP╥¼æΘù=╝:sCⁿCÑjW╖╛<DUR½Ñ&u√z╢╝3vF'Γe─╦ûX(y┐áò^0τΣ≡╙ΦL╠πxô╡∞g═Ad≤^êB5qÇ]aHf┘╦
+                                                                            ;D2K¬εçñ¿╤√╗ßΩW|{╝∩╣╙1
+7■0ÿ%Gδ╨c_û╖)≥╣(Nà φ\ê
+                   43¬ºRü7û╬┬ÄwÉ╢₧·ÿ╛7╙&F*:Q≡»ß9,±HC╧│ï╘P≤ó╤┼òí)3?╧÷▒╘D╕j╔û|▀>o░&εE/╫╒▒y╚\∩═╢ ═74÷cU¥╤  ╕⌡»␦╪¿KBΘ╥π∞»[r╧╝_ºü╬╡S│╡░ü├␦┌Y5-#gúüÑ░┤┐
+                         ≈B+ße·┼«╛|zÄb≈╙W6¼╚▀få╕~ⁿ│ç┌NF■kôs+¥a2Ñ1°Hk0
+·┐┤┘._░iP┤┤£¢wTτΣ;ºâ&Σ·i╞uA∩Ætmbad decrypt
+149A0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md md5 -nopad -in cosmic_duality_real.txt -pass pass:matrixsumlist -out decrypted_output.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md md5 -nopad -in cosmic_duality_real.txt -pass pass:fans -out decrypted_output.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ $ openssl enc -aes-256-cbc -d -md md5 -in cosmic_duality_real.txt -pass pass:fans
+bash: $: command not found
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md md5 -nopad -in cosmic_duality_real.txt -pass pass:matrixsumlist -out decrypted_output.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -md md5 -nopad -in cosmic_duality_real.txt -pass pass:fans -out decrypted_output.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "[PASTE_COSMIC_DUALITY_TEXT_HERE]" | openssl enc -aes-256-cbc -d -a -pass pass:89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+error reading input file
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Yá»¬╒Σàƒ{UKφzí╞n╞␦µD
+                    Io«éφ$ôd├I»▐{/÷╧Mh) »?yαΣ±p▐∩ßƒd┘?▀M¥       ╕¢4°┌Ñå╦T-⌠Ç^╨∙u╧ë╟Ñçb2╧æ,q╪└╜
+╜$q┼Míi░»┤╜╜)Ñx░h%┤┬C>F$yσ>
+                           Φµà^÷█␦äQ|áé¢▓êKFτÅ*°í
+╘v%ƒ.ZæÆT°╥X╗ê├░oJΦÇèÉ╕╬█Wkg╖"ƒiú;0nI╢┼╗░╗≤#(┬çÉá.xƒâ║Éú└«ÿ=YΣΣ',╥8T%▓Hσ▒┤Ωª╩ß ╥É╦D│0ε≡╫⌠.$â36^hOS╗╕å>║)OW%┐█c÷¡¢▌6Lτ╫╨j╕₧)╢I╖▓≈ñ¼╫?WÅJâ)╖1Jóxä}ê╜ëö╡4Fτ«p:Ñ∙¬▀t[∙#ô╓5▓₧X╠º║Γ°w${╢y
+          d@τ`╖&gQR+/[▌ùU-z■ñ}Ü▌█öH±FR╧ñ₧*ú¼╨»╛qó─J≤3xy≤fh`îS'trH┐■Z
+0ñ▐Y'
+ÖR╓Cåz╥ƒò╥3æ+⌡ßKW»║╤εIMmj½zÅ,VT╕S¡êXD"£╞╬,Σ╚
+╖'╧σ</Å'o▄╛xÑƒVbOù}╖·á£=ü½*u,r!ê¡<¬▓¢Ov}63ö~p/)µ▐$7ía5╣ó7╨─îÆî[ºÅ⌐┌█ü╝à¡╫-╞╗ug≤B&¼msgÑ|td≡ñS∙∙^
+ÿ%víê╩g¥┬-▀mß$µ½┐┤╞═:TΣüáóÜ£f╞Éxσ±3⌐pⁿÉ║¥f°x═í{7ôE¿æµ
+6,╨ò╜Y▐3q½√▒√82±uîM╡α»o~-I∩¬¡φ'▓ª+δ'H≡^º╝╗      9lTuæ°╩ß╕a░┘h═'Σ5X▓╦╜ï'Σ╞|≈Jæ∙w╥ÜdIù
+< (ådEKá┴8R╫|   -╖╝9;è8Φ▄2h╖N╦╔p╫lK╞⌡U6╠J┬                                          gºÖ╘¬ä╢{óí╔q┘Pä`╚o\qs8
+                                          »\6:/d· ╝ÅâL∙R<∞Ω
+                                                           ?iæ/┘▌Du     ┼â <ƒ0nl_ç≥┐D╛r, (⌡¼Hú(╩«■▄┴uü«╛`H╒
+)+╕yù±╙*»╘t▓║⌠H%Ω¡G·O5M▀XB⌐└F/ü»v·┐\U÷êdá╪▓6╫;.z7╛÷N┼▌*╔α╤¢EÅLA0KrK⌐╬üΩê║⌠4$a▌6\D<├║
+                                                                               ⌐∙j╛├╪Ü≡Φ╔▓¥-yFe═≡├Mï≡µ╡òT7ƒy}╜≥╔zæ─½╘G@ö─>┴åNoK╖╜4H▀e═Θ?I╨]I⌠√≡╤┴≤ Eⁿ╩ÿ└!âOIδ╦ »5ß╝è╫í┬Q4%0!2├ºεi       ªó┐█C2▌1∞▒╧·Y*δΣ╗└∙ƒz∙R╗¼≡┬mÆW[á|ⁿà▐e:Rbg8_▄>wXüαk┌√ñ╫∩Übad decrypt
+74E10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+sLVE?L.Ä«æ╠ⁿΣx$H%Sìσ?╞⌠NHÄÑNnY%óm╝τσ#PHñ1ù≡çÉτ╚^╚\,√Θ▐
+                                                      ╓╥òX8╒▄ÿ╙L£jh:J┴ªT┤i∩òKKóp%;3╦▀|
+∩6ï╕·4#$i-2⌡fδT╠U1╨
+                   ┘╫⌐■Sª.\╬╧NEAf
+╔ä▌}─▒ëödÑ█>çΦ¡É⌡░,              Ω)ö╦I╡[_┤í└á╓î÷Ñç┤²α½öG}∙▐tH≡▌┐xñ!YBp┘s∞Ç
+8¿╢ls╟╙yvαD╚┼]S░pAZ└αú[╞`+µZd╤A∞£ ╜╙}ò║1ò╔Wxñ]æ¢å╒\ⁿ+   wÄfdσ+D%²+┤<ëº8╩┌BR╕M▐4r'╣Æ£µ╫·Σ«▐J╤K]╙L╙└╡{<ï¿,√[]8u≈ñf8┬«╖,├ σ`╘÷C,╛p╡y_\·bÅ £ä
+ßh▓8╫åVNì≥â:╧¿▌å─&\Æ]┴∞«3ò├äφ≡ê¬╧'üVσlxuÆúkT=cπ2q▐(bG^c║╖-ùAY{╟t╥─oⁿ╜3¢muà∩FR┬ZÉx¢╕?⌠╬Xì╟çâµ([▌Æ╕&▀C╡²╦x▐╓[v?ï@╠«⌠ Åf┬@4░Vn╩▐5╔%₧B*╗»╜_╟┼▄4ÄuÄpπ¼ú·ä█)E╜⌠π╧¥°DAⁿ_x≡$±e>M╦º┴≥┐▄,╧÷¿(█ÿ¬Σ!ûZîo╤îp█23i␦c;tÅ╡∞W2@*z¬ ⌠Θ
+π╫íb␦¼¥√âÜ⌠uz╨╪zOé⌠.Ç-·m█è╜ö?)3
+Öù·Σk         )mÆ;
+╞₧*æ≡␦µs╢δm·vêπφÇ╕ÆIⁿ╙c»z╦┼│îεGf▀fé¿ÉûU¢b£òES¼Ép├&*▌laJç╔␦╣╓Σi°Æí╧■
+                                                         X╝╣/╝ΦN╔âò┼╕;
+'╖T⌡ 'ñ≤░╙≥₧í2╪.╗ÿt╔
+                    ▒■P⌡╣╥▒gΦWkW~çA═&`╗0╞^AKª=çw{Æy-▌O╛òí≥á│C╪>z≡A╡Γ▒
+                                                                     i╫Fîáü╗H-XN
+;E#┴b6≡ü╕²CRë╥qqΩY┐ΓP║╚∩1+¿╬,╘╩3ú╖{?░áá┬:ⁿ@\R╜QÇσ°■iÇ⌡╔┌φ╪kσ¢¥r₧╓ÆÜ╜╒V3╖qöû╙n≥A≈C╡╢╣ΦúºC$C┘ù\░Ö■73û┤
+∩╧▄ÇÿZ+~≥=P└`╙+┤æ└      Lë╖+i{┼k╖√m{V¬φ╕πE╚o%ƒ$7ué&wm{x½▀└Ä╓SïO┐eC]
+                                                                   ╢⌐╙I■╗ö      ~╡DgΓ╫¢▌éy
+                                                                                          ≤«£±£πì≥±≤¿ß£⌐;½▐QpfiQ%8├I▐▓■ô▓#ù╫₧r╨╖·α÷═
+¼┬$èδ
+     7╔v└╜Σ╖£1ö;╧]áv╨¿å
+b╗x║x▀*KùM·G╒;╫ºUtπyq≡Hí!∩┴╔ºα)z6╤│╬ë#ΘáêÖ╤╨bad decrypt
+30B10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:lastwordsbeforearchichoice
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+½HÜçsKΩ·␦ö▐6g°▒⌡╛       α╡▀█^h[âK▄∩├ΓΘ╝ü∙A      ÷arEφ²2
+#α₧╬éU
+Ç╔Ö 5é␦è^╓╫▓⌠╬≈Nàû
+                  ≈▄#&åB⌡Päæ╒"φc╡çΦ?AN¡g        Uα7æ'φi5₧╝␦ß{S¿xè▒O
+5εΦÑδδ╘∞╢l·╟╡≡▐~╠n:,pσ#[╛UY▌·╡╡buléîök_Ö
+                                        wΘª≥╧Ü5÷₧J√φ@╚ñé═Dε╓l2,>╤P┘wß-8▀h║╪╦╚╥╟ΓÆó¡▀║(±▄±│(\drÖ√3₧≡%ΘºùÅⁿ╕V'ªO¢Ñù]£╟çp_ª│7Zó╡U6R╪Ω∩╖«PRσc╕ò╟▒MSô.¿-╞▄Pí≤ºC+q─_ò┤Xú┌cñ«s
+ ≥/°LâP │₧^¿íöÜ~Z¬╫<C╫╔uWX|>╕5Qàé═▓╖J∙µ6èÇ⌐÷e≡,E±║▄=SPÄ á       AÉC₧f_w╜ÿ|╫°òW║ε╬╠_╤sì╥¼°╧Q├π$┬npπäEä╤╤~'1a°;Q╢╤╠ⁿç╫m@ôó█[jÇ/Aα╦╞┴°»y`6*▓√µiÇr]■É┌╡╢â┬,╚╦C╦╤u|v╖íΘ╦⌡ÆQεuΘ∙/·╫¥Θ┐m┤⌡ síT
+╠≥╞6▄w;á:╪┐B┬ï╬ï{!KùBçM╓╓¼sΩâ▐Uë&╧░üα▀Oé<wg9ñºα┘á╨-σ¡₧d▀ó∞éxD∩ºtÿW(Qƒª╢·,Y╙╤=r│_Lî¥u9ƒí{┴₧(└│≈@>¥Wë⌡?│█■M"qÖÿ⌐B,Ö╠├g√╚oCÇåA
+÷#M-z╬C▀f&]îVº╩½½       Φµ7:·0Iyæ%Qô▌f╚ƒ<7>'3;«!╓ΦB≥
+¼ΩçσäÖ»c╚TO%╦v┘.mK≥╒5πC8╞Z}K}e╒┬L8σ╬␦α╪Dá¥ë╠U╫╓º`÷«6ÇÉç┴ôÖτ╛-s⌠²ò╪╫
+                                                                   ═╔é4°*rkñ┘⌠£≈SW∙╩τ▓┼b:C4╓o∙≡'┘¡αF░├═(¿⌠─xrU$╗µJ√R+⌠'╛πk╢╡5a▒╢J½±ΓLw#u╥i&Y w├+╡⌠uûóƒ>]d8─åk█W┘Çëár$ré╖»]■╠kf÷ëxO^)α╟REÑºpëíJ»╜₧·─+è·5d╩┼s■ábΘƒ¿I|ää▀á▒|╘h╓"√1Qª0Ωº"èår┤9Æ␦}èPd═wâ0O╡%#«öf-,╦┼≤┤É      ■L╚╧yNsÖOêê|s<Φ╛█$δeC≈╘␦W∙ì»Ñ÷+vφ▄₧Æ _  7ZÄ¥T∞d<â╣╕é[▀╛?┴┐dí½╫╓ⁿ,╗)▐╒i2⌡£f╙ë?╨╩╫▓·┘p¿µy5ßΣît¢√ifIFε╝á/╠¿ æQ5▐ë:¿ÅÑu¼eC%╢■v²(ù╢µó╒ #~eⁿ╜╣δ]╪°Θ@á╘=í%2ì°?╩.çåa└╡K5]2R9╘~î(ë1      L╪sLR╜*
+                                                                                       QK╗&}ΩcâΦ+bad decrypt
+3CDB0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ 61;4;6;7;14;21;22;23;24;28;32;42;52cecho "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+ IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6 BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+ vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900 6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/ AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ 1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs 3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4 mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -md md5 -pass pass:lastwordsbeforearchichoice
+bash: 61: command not found
+bash: 4: command not found
+bash: 6: command not found
+bash: 7: command not found
+bash: 14: command not found
+bash: 21: command not found
+bash: 22: command not found
+bash: 23: command not found
+bash: 24: command not found
+bash: 28: command not found
+bash: 32: command not found
+bash: 42: command not found
+bash: 52cecho: command not found
+error reading input file
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+ IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6 BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+ vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900 6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/ AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ 1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs 3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4 mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -md md5 -pass pass:lastwordsbeforearchichoice
+bad magic number
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+ IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6 BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+ vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900 6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/ AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ 1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs 3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4 mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | tr -d '[:space:]' | openssl enc -aes-256-cbc -d -a -md md5 -pass pass:lastwordsbeforearchichoice
+error reading input file
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+ IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh 2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6 BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+ vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900 6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/ AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ 1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs 3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4 mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | tr -d '[:space:]' | openssl enc -aes-256-cbc -d -a -md md5 -pass pass:lastwordsbeforearchichoice
+error reading input file
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a \
+  -in cosmic_duality.enc \
+  -out cosmic_duality.txt \
+  -pass pass:matrixsumlist
+Can't open "cosmic_duality.enc" for reading, No such file or directory
+78E30000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(cosmic_duality.enc, r)
+78E30000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -pass pass:matrixsumlist
+error reading input file
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ printf '%s\n' 'U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z' \
+| openssl enc -d -aes-256-cbc -a \
+  -pass pass:89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+⌠
+±εz╝∞Ü÷Ü╝p╞bad decrypt
+00C50000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -pass pass:89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+error reading input file
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ printf '%s\n' 'U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z' \
+| openssl enc -d -aes-256-cbc -a \
+  -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+8n╣╖┘Sa;¬ú╟5~╡ù√bad decrypt
+70C00000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ printf '%s\n' 'U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs' \
+| openssl enc -d -aes-256-cbc -a \
+  -pass pass:matrixsumlist and enter
+enc: Extra (unknown) options: "aes-256-cbc" "and"
+enc: Use -help for summary.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ printf '%s\n' 'U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs' | openssl enc -d -aes-256-cbc -a   -pass pass:matrixsumlistandenter
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+êâ╙mh¬E°|±úó·┘_Z┬╡╘╚Xu)n,÷┌▄s▄cr╨|.é╛ó└ï╩╢rÿπ╖"A        )En·JE½Σl!h{Ñ{╤O#┼¡
+                  ╕éQ{lIüÆ╠Åπ╠╛ñ╬U╠
+                                   │0úæÇÉ5aì·╝π╘*ÉBNI
+                                                      :l~^¢∙ºV+╦▄ä╞5╚τeÄ░EΣï:X┘+ΦM2Ä)╝*VÉ       oε├9êf÷/π£z│┌É╞&\iV█╟Z[┤Æ&kÜ¿¼S╩ö*E∞Iδ∩/v/π¬t╤╜>╩Γ╞∞Fû▀1è0░√åê╩æé²«8VT6\├j╪╔╡X╫DH═;m┌ú╙H├ñOKΩ╖╒6Ü╥Gh:£¥╞√íΓT╘bIp,ª?
+╧▐KºóüLΣv°äÆH»▀C≥Ü°σxmw65bâ∩╫▒gn »ÅW█╬Θ_q≤░åφb9ä»>┴0_╓╔q(sw·µzÅyPù^║▐RG(C─AG ┐=ûƒ<.$⌡â╣¬]∙ª ù`╓êóó╠ⁿ~╘6δùφ'°n┬╓ûB=jΘÑε'chÿ╧⌡|m}┬Ω.?Φ`
+   /öIUy«n²ÜÑ#zÉoΣMxÿÅb╣±├^ûê%δ%=╓Æ&)≥D╥WÖâé^h!`i▌\QvT≈r.≡1╕J■G╠τu
+                                                                  ùEê8ï₧ <»6¿Φ╬╞U╒┌°PBY·°ú¡*_TcB[i≥┼µ≤▄║*Å≡2╪░╞Ö0¡vƒ╓σå"≈╞▒÷è½I╗ µµgHm╢S╜ô@có═c¬╢µî⌐î═°Æ        ûæWæ╙;\ìè╟-²∙«g5Z╗┴ñ▌2
+bad decrypt╫╡nF┴≤ìµ ┘╔,╜┌¼£W╕δ∞*Ç₧º»∙ε│
+D4D60000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon.c:443:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ printf '%s\n' 'U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs' | openssl enc -d -aes-256-cbc -a   -pass pass:matrixsumlistenter
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
++│¢@üGñΓDπ╫≡╡ áî╬QbOû▄╘KV▄┴]æö─╦)ÑS╚Vöx─α*üºhΩæ8aöv/┤Θ∩C1█▐S]
+£;w√lÅ│Σéîp╘1╢τεÖ0d»'|╝╩|ë√
+                           d╧[╘°ümcHªdε┌└n═@╢CS┼∞X|f┘√{b£≤
+                                                          6b╬2╗#²É"ñφ≥▒çæâi▒$R▀"┌╟═·Ω⌐a-zY:ú?U  -xÿèçëπ{╖╚t√U≥%╥6ä╢4rΘer▀óº[▐K■╓ÿƒπvÅK\╧@▄▒╛
+                    Ü.╖ ╦├æ#Bn/"=∩╬M£·bà¢z!¢{`ú─T]¿'!zτkj=┌╜+1╨Ü┌▀ñσñÆ╪╔
+K[vƒO▒ùεª5hbï@Ç$"Ω¿*┐°wÉ@║°┼╡√j$N╠û╬╜∙g
+                                       _ÄLæπ"DΩ╢·ßN
+Γ⌠»f)╧Ç╓═╫yc╚{╬┐`íQ┐L^¼é=Ç*╗?*PäQ¬¿dαû≈ÿçdwW Mk░Ö┌#AaÇ½âg╒╞OU≈\
+                                                               ¿½▐c.ÑGºJσDµ
+L╘t&²}s⌐╢╨■Y└╒v╗É?╒¬3┼0ª4╢πÖ¬├╢pL_ε▀╧╖ì¬V┘&gíQ╔┘≤P≡Ω─Σw∞öK╧~kê?∞Φ"╫Pd²VM,-$9╬V~⌡É╩£╫╫╝╨ΩBd#x
+                         "ñ6lkñ@▐       ªüî[S╬τ╔
+╘┼F]¥═σ╨n88C:_╜╣VZ╙╣zi─åäT╠ìÆ²b|ε¡úz-√≤╩]K¬·aW
+╝Ω9╗ε┴Ω8`╚y╦qbè=VÿYc√²dd?ïz.0 ¢≡╬F9δ▄è╟÷╢~.qÑ╠-:ú■}í╨╤:»█6G╬Ωù
+                                                         ,.
+
+ªï┌ƒí]
+      £+╢k(ù≈┤z▓δûæZ┼Φ╜v╥╙
+?ƒ┤¼1é╛Wy$((Öτ%o0│└ⁿê°╖6τ#U┐τÜXck▌<öêjq▒.
+                                         X°*│LP▌;F╜∙╖␦▌╞X
+╛|3e┬8|¿X_₧╦êƒ╡=+M∙2∙␦P@σî┐ΩQ]W␦Γgvtæ└α≥bad decrypt
+90530000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon.c:443:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ printf '%s\n' 'U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z' \
+| openssl enc -d -aes-256-cbc -a \
+  -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+8n╣╖┘Sa;¬ú╟5~╡ù√bad decrypt
+50DF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ printf '%s\n' 'U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z' \
+| openssl enc -d -aes-256-cbc -a -md md5 \
+  -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+á╪î╙e\>YÖn▒ε╫Ñbad decrypt
+98CE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ printf '%s\n' 'U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z' \
+| openssl enc -d -aes-256-cbc -a -md md5 \
+  -pass pass:lastwordsbeforearchichoice
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Q╧E¿`"Φ╧µ2x>îbad decrypt
+B8D80000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ printf '%s\n' 'U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z' \
+| openssl enc -d -aes-256-cbc -a -md md5 \
+  -pass pass:89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+í∙¿␦αZ┼pM╟▒ñΣ>èbad decrypt
+ECBA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ printf '%s\n' 'U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z' \
+| openssl enc -d -aes-256-cbc -a -md md5 \
+  -pass pass:thispassword
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+ô▌αåV┌╙╙dX1áY!Æbad decrypt
+28BF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z" | openssl enc -d -aes-256-cbc -a -md md5 -pass pass:89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+í∙¿␦αZ┼pM╟▒ñΣ>èbad decrypt
+BCDF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z" | openssl enc -d -aes-256-cbc -a -pass pass:89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+⌠
+±εz╝∞Ü÷Ü╝p╞bad decrypt
+74D80000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z" | openssl enc -d -aes-256-cbc -a -pass pass:shabefanstoo
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+ºûx╖2■┘·u┬∩Ey(bad decrypt
+94AA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+Yá»¬╒Σàƒ{UKφzí╞n╞␦µD
+                    Io«éφ$ôd├I»▐{/÷╧Mh) »?yαΣ±p▐∩ßƒd┘?▀M¥       ╕¢4°┌Ñå╦T-⌠Ç^╨∙u╧ë╟Ñçb2╧æ,q╪└╜
+╜$q┼Míi░»┤╜╜)Ñx░h%┤┬C>F$yσ>
+                           Φµà^÷█␦äQ|áé¢▓êKFτÅ*°í
+╘v%ƒ.ZæÆT°╥X╗ê├░oJΦÇèÉ╕╬█Wkg╖"ƒiú;0nI╢┼╗░╗≤#(┬çÉá.xƒâ║Éú└«ÿ=YΣΣ',╥8T%▓Hσ▒┤Ωª╩ß ╥É╦D│0ε≡╫⌠.$â36^hOS╗╕å>║)OW%┐█c÷¡¢▌6Lτ╫╨j╕₧)╢I╖▓≈ñ¼╫?WÅJâ)╖1Jóxä}ê╜ëö╡4Fτ«p:Ñ∙¬▀t[∙#ô╓5▓₧X╠º║Γ°w${╢y
+          d@τ`╖&gQR+/[▌ùU-z■ñ}Ü▌█öH±FR╧ñ₧*ú¼╨»╛qó─J≤3xy≤fh`îS'trH┐■Z
+0ñ▐Y'
+ÖR╓Cåz╥ƒò╥3æ+⌡ßKW»║╤εIMmj½zÅ,VT╕S¡êXD"£╞╬,Σ╚
+╖'╧σ</Å'o▄╛xÑƒVbOù}╖·á£=ü½*u,r!ê¡<¬▓¢Ov}63ö~p/)µ▐$7ía5╣ó7╨─îÆî[ºÅ⌐┌█ü╝à¡╫-╞╗ug≤B&¼msgÑ|td≡ñS∙∙^
+ÿ%víê╩g¥┬-▀mß$µ½┐┤╞═:TΣüáóÜ£f╞Éxσ±3⌐pⁿÉ║¥f°x═í{7ôE¿æµ
+6,╨ò╜Y▐3q½√▒√82±uîM╡α»o~-I∩¬¡φ'▓ª+δ'H≡^º╝╗      9lTuæ°╩ß╕a░┘h═'Σ5X▓╦╜ï'Σ╞|≈Jæ∙w╥ÜdIù
+< (ådEKá┴8R╫|   -╖╝9;è8Φ▄2h╖N╦╔p╫lK╞⌡U6╠J┬                                          gºÖ╘¬ä╢{óí╔q┘Pä`╚o\qs8
+                                          »\6:/d· ╝ÅâL∙R<∞Ω
+                                                           ?iæ/┘▌Du     ┼â <ƒ0nl_ç≥┐D╛r, (⌡¼Hú(╩«■▄┴uü«╛`H╒
+)+╕yù±╙*»╘t▓║⌠H%Ω¡G·O5M▀XB⌐└F/ü»v·┐\U÷êdá╪▓6╫;.z7╛÷N┼▌*╔α╤¢EÅLA0KrK⌐╬üΩê║⌠4$a▌6\D<├║
+                                                                               ⌐∙j╛├╪Ü≡Φ╔▓¥-yFe═≡├Mï≡µ╡òT7ƒy}╜≥╔zæ─½╘G@ö─>┴åNoK╖╜4H▀e═Θ?I╨]I⌠√≡╤┴≤ Eⁿ╩ÿ└!âOIδ╦ »5ß╝è╫í┬Q4%0!2├ºεi       ªó┐█C2▌1∞▒╧·Y*δΣ╗└∙ƒz∙R╗¼≡┬mÆW[á|ⁿà▐e:Rbg8_▄>wXüαk┌√ñ╫∩Übad decrypt
+1C8C0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+sLVE?L.Ä«æ╠ⁿΣx$H%Sìσ?╞⌠NHÄÑNnY%óm╝τσ#PHñ1ù≡çÉτ╚^╚\,√Θ▐
+                                                      ╓╥òX8╒▄ÿ╙L£jh:J┴ªT┤i∩òKKóp%;3╦▀|
+∩6ï╕·4#$i-2⌡fδT╠U1╨
+                   ┘╫⌐■Sª.\╬╧NEAf
+╔ä▌}─▒ëödÑ█>çΦ¡É⌡░,              Ω)ö╦I╡[_┤í└á╓î÷Ñç┤²α½öG}∙▐tH≡▌┐xñ!YBp┘s∞Ç
+8¿╢ls╟╙yvαD╚┼]S░pAZ└αú[╞`+µZd╤A∞£ ╜╙}ò║1ò╔Wxñ]æ¢å╒\ⁿ+   wÄfdσ+D%²+┤<ëº8╩┌BR╕M▐4r'╣Æ£µ╫·Σ«▐J╤K]╙L╙└╡{<ï¿,√[]8u≈ñf8┬«╖,├ σ`╘÷C,╛p╡y_\·bÅ £ä
+ßh▓8╫åVNì≥â:╧¿▌å─&\Æ]┴∞«3ò├äφ≡ê¬╧'üVσlxuÆúkT=cπ2q▐(bG^c║╖-ùAY{╟t╥─oⁿ╜3¢muà∩FR┬ZÉx¢╕?⌠╬Xì╟çâµ([▌Æ╕&▀C╡²╦x▐╓[v?ï@╠«⌠ Åf┬@4░Vn╩▐5╔%₧B*╗»╜_╟┼▄4ÄuÄpπ¼ú·ä█)E╜⌠π╧¥°DAⁿ_x≡$±e>M╦º┴≥┐▄,╧÷¿(█ÿ¬Σ!ûZîo╤îp█23i␦c;tÅ╡∞W2@*z¬ ⌠Θ
+π╫íb␦¼¥√âÜ⌠uz╨╪zOé⌠.Ç-·m█è╜ö?)3
+Öù·Σk         )mÆ;
+╞₧*æ≡␦µs╢δm·vêπφÇ╕ÆIⁿ╙c»z╦┼│îεGf▀fé¿ÉûU¢b£òES¼Ép├&*▌laJç╔␦╣╓Σi°Æí╧■
+                                                         X╝╣/╝ΦN╔âò┼╕;
+'╖T⌡ 'ñ≤░╙≥₧í2╪.╗ÿt╔
+                    ▒■P⌡╣╥▒gΦWkW~çA═&`╗0╞^AKª=çw{Æy-▌O╛òí≥á│C╪>z≡A╡Γ▒
+                                                                     i╫Fîáü╗H-XN
+;E#┴b6≡ü╕²CRë╥qqΩY┐ΓP║╚∩1+¿╬,╘╩3ú╖{?░áá┬:ⁿ@\R╜QÇσ°■iÇ⌡╔┌φ╪kσ¢¥r₧╓ÆÜ╜╒V3╖qöû╙n≥A≈C╡╢╣ΦúºC$C┘ù\░Ö■73û┤
+∩╧▄ÇÿZ+~≥=P└`╙+┤æ└      Lë╖+i{┼k╖√m{V¬φ╕πE╚o%ƒ$7ué&wm{x½▀└Ä╓SïO┐eC]
+                                                                   ╢⌐╙I■╗ö      ~╡DgΓ╫¢▌éy
+                                                                                          ≤«£±£πì≥±≤¿ß£⌐;½▐QpfiQ%8├I▐▓■ô▓#ù╫₧r╨╖·α÷═
+¼┬$èδ
+     7╔v└╜Σ╖£1ö;╧]áv╨¿å
+b╗x║x▀*KùM·G╒;╫ºUtπyq≡Hí!∩┴╔ºα)z6╤│╬ë#ΘáêÖ╤╨bad decrypt
+8C9F0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist1310
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+m┐°╠X╕/c│╫å4sMB╘ÿπK·Ü╘Éô÷╣ïô■≤+
+!╤"¥╥Åö╦æ
+         T┐3ç╡áíYw∩÷Üf*f_äæi├┼úydΣªóCaª╜∙@ÄPΣo
+R½≥yZ≤*Ä╗¢ƒu═To▐₧B╓     A╠_└cuOu▄É∞%Eÿ▀dáZ■ÉS9aµ*Ní¢ù┐M/╩╬≈E╢╬ûs≡╒ê┼CR╟n├ò²     ╝µq[JI5ÿ╞▀#I(U/╝(L÷╨R╥!α■╨╘Θéò╒r┐°"∙╞YLÑ╧ZV▌XΓ║Jïî╤:K"H▒0ù?q└l╟·mkS╩X}·AÜεô·╟▓└Æê·⌡╗lDY(╧é╦!τ=¿⌡▐╩σ╓²4≥²░╡ªmÅ■1O≡5D¼&V¼πFÿ
+  ╫f║¢αüî╙-F(=µ|▄÷à∙╨º╙B£╘▒&■£:GÖ╛D<]·≤«
+                                        ²å*í≡3l3Φ°|Z"N╜»¡╟óáÿqî╤"┴%║:NU¼ñ⌡>íÇa«█
+                                                                                W8 y
+                                                                                    @Ω█[kë░T╥N
+C≥τâ└y#½/Pαeà█╫,G╙ÉfúyOW╜.|w@dC┼V>z╦i¥ƒ┼Gâp¥ΓMî«på
+                                                  4æàv┼?95ÄGèKL0KºΦY]/í/;≥^     ÿ═7U▒.så$╡'wUY≤≥^ëü║╔LNƒû_?ÇJÜ╙ô∩jFÄùìô▀├╡╙&úÄ\┘%2¢Θ|2\ieu1q    £s«√º*<7⌡«@█l╛ë0¥äìí√╙[7├O╘C¿Y3╖\.│1╕■ÄÜ*uN⌐(┼ñjò⌐=≥δK7│≡≈≡┴¡R▒▌=█²B[elÇñë6)ö9␦╖a█[0╢=█ΘµS+╛⌡▓╙└~ªáεDIî£πÄσ▐Rë0Æ à1%σí╥+äóì<5╦¥w!Åì╦╥␦Γ {IΣ╙¿■«c╣▌mπ½æ┐XΘ╓╧ º╛D┐ïûδå%ÿ7h─>┌│≡£{çΩÇdpσ;╜º¿┴φ7gΣ├â╥≤ΩÜ$íæ;ò╝⌡▒-⌡h±■
+                                                                                                                 á∩▀Æ┼⌡4céh╨╖ë╜x|╫τaƒk$▄y"╤I╣-▀M▓␦N≡~h IÿÄNáòpÿM⌠íΘa╓α5ÿ=╡⌠j]Æ7▌╕E_
+                                               |[╓⌐JgÅ▄≤─Ö╙UÉ3dDîàôq␦22éåR╘quæ╤mie+c"
+                                                                                     88µa╝τêf╡3v>çΓòn6XX╞▐Ö5·íy▌╪ä
+                                                                                                                  8∞┐╖╨û─T3=ìñòª÷┴║╙LàT╓Æ╜Ñ2ⁿ¢╠*ûÉ⌡╩π&ey-*jR-äx╫Ä÷ûë/ACîwEPπ)NÖ␦G@V*≡╗ì
+Æ╢£îì¥z∞[╣#Aï▐#τ2╖⌠5≥ën╥=±¼!
+                            ┘║5PiPt1E╛4"ú»║É#üuδ8]ÅíLR*p╛iΓT=░τè╬       ÉM╩E$!e20┼~ÜΦè╒▒ΘXü╜¡▌)╡ú╧Æ▌¼╥0D╞%`S┘,ó∞t`0<«â<w╖£"╛oiM╝┌Ç╥ï¿₧RX╜9æ╙bad decrypt
+5C470000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist13
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+æ/≥≈<á:Ñ╠╗²┬┘égσ@╔S╜Y}áMε
+╠ï·L;╙╡ñ LÇ½o≈]ÆP>úⁿ╝ô≤på∞ü║ü¬°)Θ╚░0εZ√ΣâG4=┌Tú;÷╖!═3`$┘
++?Jbnδƒµ07[_áä│w?╣ö                                     í╢c╫┬à╫!*û9╗┬╘█T║K╛å␦
+Γ≤·ó╩zÇx1└∙╛åX>2φb÷êâ╕─╙6¿t¢~Æ▒ZïW╝╤α┐┴
+                                       zG│æ=:aw#^»P£>Z±F╨²)à└█ £║≤Ωì┐aónS∩
+                                                                          ┬é<'  ¿h╥úù╝p1½Kê!°εj5= nJ╫¬Tw╧░K*─¢z■∩h∙⌡ïD╛~φùê┌▒▐@^ΣÄzUóº╚╤x\╙╩|∙ä$p°mé╞¥xÑⁿ²ε■-¥°H¿£:>╘äƒsXO0Æ    ║ ╚gî6?ε╖fKPc╟8ÅW#á┘
+                                                                            h.¼Z╔╛å{┬J║╙U°è≡╛~£ß·╞x)'!(A£A!D╪bê$x_o¡WZ|]╨╧
+  ]ººëÜ≤'Cp4█╗▓ÿ« 2j╚═⌠ⁿ^(F0├¥╠+mzçê#
+                                     úÉ.O$`GFε≤\q₧ÜoT╪ìLyΦ╛yoR$┌│V╦ût╖£w ä╤J6║πD╬├½qΩ▓├[Oπ`ç5-┤=úOçw>ag└₧▓÷i6p░r├â¿F@╩Ñm≤<*dÆmà╪╫æΦ╫∩y^]▓ú╥o;£─╛_▐¡√Hφ░╟ƒ¡ ⌐∞Å▓9¥\F7mue┼ª,Z|╦╓M≈6┴
+                                                          │ô
+@é≡╘¼╙-'-óαíûÇ4}3öERhx│ ▐s─≥8░Ω9ü=pvó╬GªBoGf╥║\?|╨Σ {]½╤ƒWIÉ░^c<ê┬┐│£┤¬Å¥┴jåf^Æ*)δ¬=═V░¥@S^╢*Ö┘1╜v╣£█/ÇZ
+                                                                                                        F2δ[Iδ╞@3╜K␦¿î~X╒ÑAle-vëqä¡Ç<@╤╦╗M%#╙∞ÑqäfPFK)╗J=╪╓≥│3¬q1ε;A$ó√åH«IΦ¼î¼■┬▄-"├⌡╘ö├èbÇπ╙╧╪φ,æ⌐╥
+rÇ█1⌐├P$Na¢≡½
+             ▐zôó
+ⁿ┐Ép₧5╝öì■σ╞ä▓┼╖▐£d*√7\{εΘ*íI╠k▐x-kd┌ç  ⌡)▌ⁿÉ┬Ü▓«┐╫║tE╡)┤º
+                                                          ├z∙D▐3,ε¡sC║â£╦ç,f&0▄╨/âì╠Ü┌¥F╦ÉΩσΣr╠HXåq`xt\è╬÷²╥¡░A╫┬ûr(q╝p╛πô[▀╘∞ΘûhLYNµx$ΘÉΩ~╝Id▄dnU'╤`╛Ç╛╠Z┘≈+é┬╪¢mR╜╔g█&Öµ≤╤ÆjëZd3₧ ╥q²Φ?φ╦z╤S₧y┴∩╡Hî`╓ô!╧╢H∙∙ö⌠]╤δxG*╛¡C╒½≡f/%P⌠╦╓▒öa⌠ú· Fô°,(£J0.⌠╣F╛·¬║l~æ╪┐E╦¡4y▌N ├&(D¼äqdç0[ÿâ<nh«@LΓ]L₧kÉBAÜ>ï/σ4S{⌡ÇêY⌐nÿ┘₧ºà╚ k╬
+                                                                         ╘fûφP■÷B╕▒├YÅ)╖        ≥eZS!╖IäG␦x▓L⌡┬r╕c╛aτöå4╥╪Xi'0Γ╠σGΩwÖ«
+             ≤å₧╥ºbad decrypt
+38550000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist10
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+πç√⌠▄aÄªbé═Ü·(┤o<aE)^W[╢GR<Üë¼τê╜τ5╕╬└│PQ└L├%0╦╣.TC2╝U=ër╤i≥N╟=ÉzW╡
+                                                                   ┤t?└╥¥äa,n   3ºE╫K£∞xôºA¿│ⁿ£j╘╕Qα}¡╪ ┬¼A┴1ëk«W╪âÿb¥(┴¼≤ç╧:▓g!àësÑSæMá╣;╫°º
+·zic÷Eé│ÿ┼╛£Lδy├δ╧èu|µADR«j¢8Φß:ƒ╥∞Zä╥ß#á╖J`)öï"Ä╬m⌠WB_(ⁿ∙ ┼E▒Σ0(êφ├α±0K╘⌠aσ_vε%0àvÇù▒
+^⌡úûù▀Ü╗ä}8╜s<bß╘═û@ç=7.HOÑí]┌(?{ß_╢┤╛ùqmå╞,▀╩╢m╧å┼░≤]Mµ¢≡R╧▓PV2╟l┐îd╦%ô]íä[I┐≈╠}┌≥»üσ·]╪R_½╜W}£má│╝B▓«╠∩-┐/ⁿíB└â╛╚or≡≡\▀╔Cß6╢╪¼è⌠ƒ=äi:µ╢Σ└3O▀úπ7τ┌E.1╨â╜␦@∩▓<╥kæ┬╗τaαg┼␦╕ù-R£î±,╚)╣σ«⌐█k@!U3≈òg@E╬
+                                                                           tN·~│ε>₧═=<ôµ$)ó╧ÑÆⁿƒF╒¡ò`ìΦ"÷0ho╧$[·ô┤änc╒mΓ▄z=ÿ~v
+      7≈µ∞#~╬ó≡@─(Åπù═╓WÜ█■φ░q[ú╠σ?▀à╣═ü.e!⌐ë ▌₧│ⁿC3╘rp╪l∩oF∩àÅH√═x7ë≥ⁿ»σ£¿τ╨±⌡(⌡O╣÷M∞■┴A╨α■╞┤▓ R²S^æRW─╚lô¡Sµ²`▌ê∞Gà8_Caπ=≈%?∩áQ¡R┴½ë#┼]á∙¡ñ,¡Iò       ä£─a}}Ñ.╡╟`╔╙¢W½╛τ5É°éUñ"3=σ.l√áh═.(ît╟ñ║Ö∩a/╝°391V▄■f ¿àY╪vo}π├┤OT└rh ╔░▐å`cÿ'K/pΘï¥&K=h½0▓ó≥nNóüƒ½Z┼P°Fëºï«æ┬K±¢6ZqΣµï¡7␦▓û∞ªoÜÄε╢$Eτ▒q╧,
+                                                   `╡ⁿ╞edε}┬¡GΓ▄4?½╥IrHΦv9@!≥─╫scöçDCé>\+╨=┌µ╧ÖTæw½íî|èΦDφzJ`ƒûdA3═vH1ß╚W╝┌╙ò±Iá+/Vì÷.Üû.\A£6δd.iÄRéU,▀o∞ E⌐▓εF╧nCô╢îY
+                             T╗à┴≤≈v▀Æò∞Φáoσ)º╨╒ΦΣ_2╧║9t╙?ç┴yÅêòE4ÅRƒfα≈^ßÜ▌µ─⌐ΓsIJ>
+TφπTI~G₧B╣¢╬
+⌐v┤°├⌠òÇ╨RMcë*┤übad decrypt
+B4DA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist0x0d
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+â╘¬ü}␦ZΓ┼i{÷▄«îæ8▌╛ÅóÇO;AΩ8 _(ÖE╖v·
+                                   «┴ÖD╟1
+                                         GCzr»┘ä"ä.▐U⌐ì┌âHÉUâZ┤ƒö>fi╦9₧eh
+τµ═D3N¼¡φ╜.╓{φEg/╜┤Ç
+.3¼öbåQ▄h
+-"z}é║√Z|ìíT╖-∙├ß╣≡:#╒╝mÑ▓Σ∞ì%½∙I╥╦vµ╛PIm#±9p╫╖@Aε÷Lûôbr╣╪·-`▄┤▀╧QD:≥╛*K╖$┐1Ñ ┬ÆÇΘ{╨═¬≡ú*╡IMF¡o)∙_v╡TF═┘╖╕φ╔
+                                                                                                             ªÆu╢m4≤í
+;▌OLx9R=teJ+-j∞╩│^φεP
+>P╖D¥⌐f`╬ÿ-■■7R±
+∞U;N╓eâv8Kà▄⌠l£╡╣÷R""φÆ▄╬4t≈╬ô<_M7═¡ªOvúα∞⌠┤╨ô¥á╦GE V┌@}z»2íπ8■ù-ÖMKfU╓êêü┴7╝╩>P¼SÜå2╩±½K≥\╜└⌠çS)$╘σ╨╤└1ÿ=┬└╗ew≥;3(┤2╕¥2▌á┘!ò╜╟'␦─\▌8+{
+               wΣV∩─╩₧Φⁿ╞qôeº╝yz▄╤mv╔vts&vù╟├cìái▌l¡τ[µsò[─ìd½ÅÖ
+                                                                DIASZΩ)YPcªn≡S  h⌐Fwuπ╗▒ó▄ v%ïhâ2\µùM╚-FÜ|δ┌■l|T╒iù<b  ␦%?╫␦%a▓â}ö√µÖ
+ÑÜ╧≥@R┘ñφM0ú«$═╪╟πÖσ╥º»─╙░ß`,båm,░åé;┤ä∙ªADä┤NÉ4[╔è ╬
+                                                        ╘Ç
+╣ΓDHdlÿ_q▒
+ssÿ╗{óπδ■²I$εû4r┤:A╝ï█,î;R╛¡∞2ε¡#␦╡σ1∙j bGë)nöG%╫ÇÑhVH┤╛nS▄H∩<8è╩╒d≤+VJì[¿┐4(ò¼½╡abv╤&û⌡d₧╚Æ╟Åh┴á░│S┼Ü╣ áGIû▌╜▄─ΩúM;\(q╕vε╕␦Φ0Äv        VxbóüNìr┬»╖H┼89ùR8░h╒vI8m╚d┼¡AE▒∙||4≈Σ,°ly─Fn┐!p<─o(ê\ô5╒»y≤&
+                                                                             αå]uΘ≡┤nh¢xôH9╧æ╔₧uBà╟"╬
+╗Å▌Uτô²¬-¿j.M£º█╒═±≤VDê|G╝&pzF≡╚┌73Ü╦$C(|1$ü¼XBb6K█╘
+6ªÖS $│<╛âⁿ %σt%∙┤ =√B;■(YÑ°tÖì√∙°d@]┼|buÄ╦■Iü≥Tπ&j╟]èiτ&Kó╗≥␦äΘ}-^╓'m<¢└ W█QQçfz»▌bad decrypt
+90D30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlistENTER
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+g]w:═w╡└│²z⌐╘RzB¢·$┘äé╝I²bú╙╦¬╨ùï!r█Tπa+3╤_Yo¡∩⌡æm'|-╘qΣ¡
+∩%$N
+    HJ╧┘═╞ú!␦«¥▀V∩╪u╠╝╝p╚?°╩xIO2─¢▐+╥7╩√ ╦Å8hæ?·╣╣╫Ωå"  ▐T▓9·àåâÉ╠@>£+@┌┬î$║¬£Çm¡u±╗␦æPO▌┴╛½α┴{┬}δâJ┐=ñá░5ò
+                                                                                                           {köù'█æ╩ªO■ß╬╝⌠W/Fc=└φ╦│┐=JÆc╨a1␦'▀2╕{÷¬_H╫σ╦7.ån*╦nΦ¢ⁿ*_⌐╢&U~æ└┴▒/tZUuìt$LbVaæ4Ω∙÷?íxî½ n#┤▒#σug"7æ├ⁿC-±Fí«┌g`
+á8▄4ÆΓ)j╝                                           ≡╣#∙2kJ≡└╓▄╟│∙φugj╧W5èU√ê∞»^6h¼δτ+τyG\N␦¢ÑÆ
+"ib|:    Q8 ╫
+k&n¼
+
+z■²gÇ╘╢mP Ä6£Dσµ╜╓êªε£_┴≥╫f╕≤1┘SΣ÷fÿ±E╗▐úqunÉ╜ù█M_╝║>äÇì╔M╛c?GΦ≈╪╚ù@·╖α╓JGâëée╚à┤º:Åç$# @ü}Pn|Q½E╝0╬·c╠┐πJ¢■íc╡∙├ ▀╘╞3∞├vÄ╬╦÷(⌡Ç¬╢kî¥W╗V¿-ä»>1ƒó▐■P0O╩Æ ╓ÿBBC"
+ÉKäΣú=ï╨τ┼I╫4k╨ëU#w≥g┴αI7VuS╬Méêû▄╜¼u╨¥ß«╚╔aê:v─/.>τ7╠
+A"|╔"B▄└h                                             ┴7ÑTXb≤~î
+         ┌O·∙ó╣╣╢i─s ▓.>╛
+                         ª╒o╗êyü+⌡J≈╬_à-⌡Çεçg╓▀éΣ╥]nΩf2`φô┤¥=φd¥<┐6Çæ0h╗PwÄ╖hyrZ»≤╠|7AUa@␦Gç╤▄¿J&9zJ4áèπ0^öz >W`₧α▐«.ñ.┐╦δ·%╛╦─î╗≥,úy1¿Eíô▌V/4╥¿▀¢╓╩LO╬╧0o¢┘(L┴ ,oΣB~
+                                             â ═@gç⌠├]Ä▀/í≈¿C┤¡²6¿╣Ω╛.Γ╣WqìZî>₧H
+                                                                                '_mh≤═δ≥)░√t`⌠φSöÜäúεuÿ─≈╔¥rΓ≈#«[═Aë#╢µñ"=IS<╔@ε█ë²⌠av╩Öª╘å9pÇ┤ùrp.|d≥Φ┬é▀\¿τA
+s#Θu8q
+^ÄS▀╒Vj»╢1]<+╤ ûæûï¿rα┬óx-XÖ&A_æ␦q╕bad decrypt/'Ö!▐ö'┘N |≈+j
+88DB0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist(ENTER)
+bash: syntax error near unexpected token `('
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist[ENTER]
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+{æm═┐D@vá·╜╚┴╫PqÄ3½d d|1╢ rÉ½ä∞⌐╤è⌡c▌εW╛o
+␦oæZ¢33╖NS╥:kf░ñ>▀ô;un√I`à┤$⌠·£■9Ö╔O
+                                    e┼z4╤[ß∩╪K╦ü─¬¿Ip°╕1°Çí∩á╜╚jTN≥║Z≤τS╙t╕PτJδÜ╗ß╓ù¼ò░ac±±P½Mg≤p]├ rΓò│⌐Åcⁿd0½^q≤╨₧üh╩ç█^{0&Fxoe7
+╝x␦⌡?╓├Æ
+⌡φ═ú"zb«s╚Jñe¡╛-▓z┘▐í¡│'τεD;sOΩk╣½▓Ä╢⌐C
+                                       ▌à 4n½/'Kαäf╟S}√à7@"A░R²óßw╩Vd┤Eÿe─Ewª%Zäû╘░$Θ0É%P┼├╫L!7ⁿ∩≈┬kf₧█╗!L╩▓╚δÿ▓éÿZ╛ß'Çºkf]JORqΓ¿║g╫╥) x╒Kìε▌╛╩Uj╣L╓Be¡Å+╥/ú0σ²¬kA≤1«Bß╡Ik≡·(kHè}|ô√á╓ÿ·"σ`φªS]o╧┬╨)r▒*{√Elòm/├Å²Θ}.2₧h│G'K⌠PÉ│o"KVb¼"a╙AX9║▄╝ ▀&╣5⌠êF╥jò╔ñnⁿ   I=∙▐#·eeé»O%p∙f"VßjG5╜µ┤╢¼Ω
+                                           DqZ8dê^äò∞½V:4≤└ƒΩX╓ª│/␦AlV"τ╝AaC⌠╫╧0t▓≡ßéΓ┼Y>çm-Tá¢2@mA║}a^Çh²B)╖6┌ë7ïK,═▄d$æ∞Ö∞0␦π}N─é╘┤å`£␦`╠     *å■∞╩âkb∙½K;S"8≈T│oÄºû╓┴½▓╛╝╗Üêî╒╫╡RÑa═f²⌠√'Vw»Gâyα%ôç%∩⌡┬«M    6V6G╫#╝$rfOO#u≈kîc°
+                                                                                                          ╬╞¿¬_½B╘1U╦¿≈s`Ñ░*ÆAg┐╘Γ3\Cì)τ@aLª~╫▌┤D1jñ ═
+                   ÜΣD0╒└½:L╓ï╪Gⁿ╘bp≤ä=≡2hµU▓
+Nl┤r▐▒@7┌│      ≥íi F╒°_óç"çⁿôJÜvm║╩Å▄1Æ⌠╡╡╫SA£ε∩r▌ç▐É
+                                                      2▀ª■2J∞╛òδ_τ=╝Æ═  ╥ê╙¡─╜±ÿ¡╙4y╦ÇbXεÑtC≤¡╘)½ƒr-└î½▄¡⌐2␦òR5Ä╛▒læ£¬oß#)m╕▓*╥╫FíúN║kεΩ{<ûòε═╥░ôÅ╤ÇΓbá£─æΘ.╛1m#│┐å7δΣG;─ÿΦó1l█mδ^│─j]l╬j9
+                                                                  3x1LΓ·÷▌;α i9ßD3 ¼ áª╡'╣íñ≤72rÄïå√/P±Wä²■₧n/▒»Ug/Pcc≥δìgÇ÷G╗5]
+Ü"
+$∙┐║-═T╢«ΩRÖ┌!É╗g┼Oû╙╥]R»mε┬ZòªRñ\}S╪/JVUE&òƒ-ÉeΦs'Já▓å&≈ïä█┼èUp╦∙VêÆ╤┘êx4T¡2τ\τéK>Sí∞}¼cx╪ûT␦│|╕f ^%&  Θ└¿QWôQEª      î):ö-▓E┴&╗W~^bJ&|M≡─µ√▐kö╜*≡     A^°B
+▐TI┬Σäbad decrypt
+FCDD0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist&[ENTER]
+[1] 1481
+bash: [ENTER]: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+sLVE?L.Ä«æ╠ⁿΣx$H%Sìσ?╞⌠NHÄÑNnY%óm╝τσ#PHñ1ù≡çÉτ╚^╚\,√Θ▐
+                                                      ╓╥òX8╒▄ÿ╙L£jh:J┴ªT┤i∩òKKóp%;3╦▀|
+∩6ï╕·4#$i-2⌡fδT╠U1╨
+                   ┘╫⌐■Sª.\╬╧NEAf
+╔ä▌}─▒ëödÑ█>çΦ¡É⌡░,              Ω)ö╦I╡[_┤í└á╓î÷Ñç┤²α½öG}∙▐tH≡▌┐xñ!YBp┘s∞Ç
+8¿╢ls╟╙yvαD╚┼]S░pAZ└αú[╞`+µZd╤A∞£ ╜╙}ò║1ò╔Wxñ]æ¢å╒\ⁿ+   wÄfdσ+D%²+┤<ëº8╩┌BR╕M▐4r'╣Æ£µ╫·Σ«▐J╤K]╙L╙└╡{<ï¿,√[]8u≈ñf8┬«╖,├ σ`╘÷C,╛p╡y_\·bÅ £ä
+ßh▓8╫åVNì≥â:╧¿▌å─&\Æ]┴∞«3ò├äφ≡ê¬╧'üVσlxuÆúkT=cπ2q▐(bG^c║╖-ùAY{╟t╥─oⁿ╜3¢muà∩FR┬ZÉx¢╕?⌠╬Xì╟çâµ([▌Æ╕&▀C╡²╦x▐╓[v?ï@╠«⌠ Åf┬@4░Vn╩▐5╔%₧B*╗»╜_╟┼▄4ÄuÄpπ¼ú·ä█)E╜⌠π╧¥°DAⁿ_x≡$±e>M╦º┴≥┐▄,╧÷¿(█ÿ¬Σ!ûZîo╤îp█23i␦c;tÅ╡∞W2@*z¬ ⌠Θ
+π╫íb␦¼¥√âÜ⌠uz╨╪zOé⌠.Ç-·m█è╜ö?)3
+Öù·Σk         )mÆ;
+╞₧*æ≡␦µs╢δm·vêπφÇ╕ÆIⁿ╙c»z╦┼│îεGf▀fé¿ÉûU¢b£òES¼Ép├&*▌laJç╔␦╣╓Σi°Æí╧■
+                                                         X╝╣/╝ΦN╔âò┼╕;
+'╖T⌡ 'ñ≤░╙≥₧í2╪.╗ÿt╔
+                    ▒■P⌡╣╥▒gΦWkW~çA═&`╗0╞^AKª=çw{Æy-▌O╛òí≥á│C╪>z≡A╡Γ▒
+                                                                     i╫Fîáü╗H-XN
+;E#┴b6≡ü╕²CRë╥qqΩY┐ΓP║╚∩1+¿╬,╘╩3ú╖{?░áá┬:ⁿ@\R╜QÇσ°■iÇ⌡╔┌φ╪kσ¢¥r₧╓ÆÜ╜╒V3╖qöû╙n≥A≈C╡╢╣ΦúºC$C┘ù\░Ö■73û┤
+∩╧▄ÇÿZ+~≥=P└`╙+┤æ└      Lë╖+i{┼k╖√m{V¬φ╕πE╚o%ƒ$7ué&wm{x½▀└Ä╓SïO┐eC]
+                                                                   ╢⌐╙I■╗ö      ~╡DgΓ╫¢▌éy
+                                                                                          ≤«£±£πì≥±≤¿ß£⌐;½▐QpfiQ%8├I▐▓■ô▓#ù╫₧r╨╖·α÷═
+¼┬$èδ
+     7╔v└╜Σ╖£1ö;╧]áv╨¿å
+b╗x║x▀*KùM·G╒;╫ºUtπyq≡Hí!∩┴╔ºα)z6╤│╬ë#ΘáêÖ╤╨bad decrypt
+C8DE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+[1]+  Exit 1                  echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist&enter
+[1] 1487
+bash: enter: command not found
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+sLVE?L.Ä«æ╠ⁿΣx$H%Sìσ?╞⌠NHÄÑNnY%óm╝τσ#PHñ1ù≡çÉτ╚^╚\,√Θ▐
+                                                      ╓╥òX8╒▄ÿ╙L£jh:J┴ªT┤i∩òKKóp%;3╦▀|
+∩6ï╕·4#$i-2⌡fδT╠U1╨
+                   ┘╫⌐■Sª.\╬╧NEAf
+╔ä▌}─▒ëödÑ█>çΦ¡É⌡░,              Ω)ö╦I╡[_┤í└á╓î÷Ñç┤²α½öG}∙▐tH≡▌┐xñ!YBp┘s∞Ç
+8¿╢ls╟╙yvαD╚┼]S░pAZ└αú[╞`+µZd╤A∞£ ╜╙}ò║1ò╔Wxñ]æ¢å╒\ⁿ+   wÄfdσ+D%²+┤<ëº8╩┌BR╕M▐4r'╣Æ£µ╫·Σ«▐J╤K]╙L╙└╡{<ï¿,√[]8u≈ñf8┬«╖,├ σ`╘÷C,╛p╡y_\·bÅ £ä
+ßh▓8╫åVNì≥â:╧¿▌å─&\Æ]┴∞«3ò├äφ≡ê¬╧'üVσlxuÆúkT=cπ2q▐(bG^c║╖-ùAY{╟t╥─oⁿ╜3¢muà∩FR┬ZÉx¢╕?⌠╬Xì╟çâµ([▌Æ╕&▀C╡²╦x▐╓[v?ï@╠«⌠ Åf┬@4░Vn╩▐5╔%₧B*╗»╜_╟┼▄4ÄuÄpπ¼ú·ä█)E╜⌠π╧¥°DAⁿ_x≡$±e>M╦º┴≥┐▄,╧÷¿(█ÿ¬Σ!ûZîo╤îp█23i␦c;tÅ╡∞W2@*z¬ ⌠Θ
+π╫íb␦¼¥√âÜ⌠uz╨╪zOé⌠.Ç-·m█è╜ö?)3
+Öù·Σk         )mÆ;
+╞₧*æ≡␦µs╢δm·vêπφÇ╕ÆIⁿ╙c»z╦┼│îεGf▀fé¿ÉûU¢b£òES¼Ép├&*▌laJç╔␦╣╓Σi°Æí╧■
+                                                         X╝╣/╝ΦN╔âò┼╕;
+'╖T⌡ 'ñ≤░╙≥₧í2╪.╗ÿt╔
+                    ▒■P⌡╣╥▒gΦWkW~çA═&`╗0╞^AKª=çw{Æy-▌O╛òí≥á│C╪>z≡A╡Γ▒
+                                                                     i╫Fîáü╗H-XN
+;E#┴b6≡ü╕²CRë╥qqΩY┐ΓP║╚∩1+¿╬,╘╩3ú╖{?░áá┬:ⁿ@\R╜QÇσ°■iÇ⌡╔┌φ╪kσ¢¥r₧╓ÆÜ╜╒V3╖qöû╙n≥A≈C╡╢╣ΦúºC$C┘ù\░Ö■73û┤
+∩╧▄ÇÿZ+~≥=P└`╙+┤æ└      Lë╖+i{┼k╖√m{V¬φ╕πE╚o%ƒ$7ué&wm{x½▀└Ä╓SïO┐eC]
+                                                                   ╢⌐╙I■╗ö      ~╡DgΓ╫¢▌éy
+                                                                                          ≤«£±£πì≥±≤¿ß£⌐;½▐QpfiQ%8├I▐▓■ô▓#ù╫₧r╨╖·α÷═
+¼┬$èδ
+     7╔v└╜Σ╖£1ö;╧]áv╨¿å
+b╗x║x▀*KùM·G╒;╫ºUtπyq≡Hí!∩┴╔ºα)z6╤│╬ë#ΘáêÖ╤╨bad decrypt
+E08B0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+[1]+  Exit 1                  echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:matrixsumlist
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python hex_decoder.py
+SyntaxError: Non-UTF-8 code starting with '\xfe' in file C:\Temp\Mini_Puzzle\hex_decoder.py on line 1, but no encoding declared; see https://peps.python.org/pep-0263/ for details
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python hex_decoder.py
+Searching for private key to: 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe
+
+CHUNK 2:
+  WIF (Comp):   L4JVxSY1edDoUudxeMJqv3tJTzyZKMSFbZFT58Lyv3DKVKS5gdbQ
+  WIF (Uncomp): 5KRMcDam6oisQYQnESu5HYvK1E8q6yHbaCqb12fWfJGUkdPgjyt
+CHUNK 3:
+  WIF (Comp):   KyMbtV9Yo3ubFV82H19d715ZHUkUy1oe5yTtoJFiLfTvvmto8Jng
+  WIF (Uncomp): 5JJMbKcU9Aipdp9qmrstgRVDkcHebtqdVmWf1yUMEyHydJm3F2L
+CHUNK 4:
+  WIF (Comp):   L3LaASbCnvMaWZzKgF9Kmp2yJCBpgp91xx9KLuAWu29MvKUY1mFd
+  WIF (Uncomp): 5KCggkQcJCdqNeqLBhpCWBf4Es7Xk1FxVzMTp6vp6tv6eYLyTEW
+CHUNK 5:
+  WIF (Comp):   L49L18fdrwn37K42Km8k26ciyzsPCyDz3PnEyCquKok7JKBQXRED
+  WIF (Uncomp): 5KPH61qBAWBCok4QQjdC7951uLTNLvyQoJrDgU9pCWd3nfHzb8N
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python wif_decrypter.py
+C:\Users\Dad\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'C:\\Temp\\Mini_Puzzle\\wif_decrypter.py': [Errno 2] No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python wif_decrypt.py
+Traceback (most recent call last):
+  File "C:\Temp\Mini_Puzzle\wif_decrypt.py", line 37, in <module>
+    k1_int = wif_to_int(k1_wif)
+  File "C:\Temp\Mini_Puzzle\wif_decrypt.py", line 14, in wif_to_int
+    return int.from_hex(raw_key.hex())
+           ^^^^^^^^^^^^
+AttributeError: type object 'int' has no attribute 'from_hex'
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python wif_decrypt.py
+Traceback (most recent call last):
+  File "C:\Temp\Mini_Puzzle\wif_decrypt.py", line 33, in <module>
+    k1_int = wif_to_int(k1_wif)
+                        ^^^^^^
+NameError: name 'k1_wif' is not defined
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python wif_decrypt.py
+Key 1 (int): 90726584235245016895520562433776219046480206554831332559682925875781038541671
+Key 2 (int): 90726584235245016895520562433776219046480206554831332559682925875781038541671
+------------------------------
+COMBINED (Compressed):   L25tzt6QeLJcm3VXheCz9mx19c7MXw62oeUxXS4qNAMWE2SdacLw
+COMBINED (Uncompressed): 5JvDgrBjy37Fu7ugagF3XY2b23WzDSrAvcgQufJdnaPKQShC4tT
+------------------------------
+Check these keys in a wallet (like Electrum) to see if they match 1GSMG1JC...
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python wif_decrypt.py
+Target Private Key (WIF): L25tzt6QeLJcm3VXheCz9mx19c7MXw62oeUxXS4qNAMWE2SdacLw
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:GSMGIO5BTCPUZZLECHALLENGE1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+╜lj╞á∙)ε≡┌päX▌b╬)H$\VJ╓╙ìHë+µ»ßrÑÉx╘≥┴g╠h<<╜G√(M⌠£:fä░#»╬{╗µ╨ICWasêwG  ëµ╜╪b▓ⁿà╤NIε8╤«≥pêX─¿`öÑ╙G6ÖJ ╥üU±Ñd╖aφêóµB{F9ƒJ┌Z8
+  UÆ[fN╫╡à╓     è       ⌡▄┼)TδácB â
+Ö╓╝╣┼√û
+l4=L∞p* $∩╥ê╙╚⌐¼ç>░╘ûGtF0;`
+║t╓┤╦Å┘╕}1ùm┬
+             |æ8¿δXùµuM▌S¿í~y╔╢í␦íc╤Kó╩?╤╢▄áêkL8A░G½┴≥Ö─(∙°3─èεóτkE╨┐¿≡hΣ╦ⁿoX`è+ìùc␦ó╞Yó.[╙ÇpÉ@%ΦZD¢IVæJX╪
+╧⌡à╤é]■πRz;ìj∞2Φτà╛D■£æ=Ω∞êN└/ΘgWjsgá┬Ω≥H╚╢aNπ▄=╡zA╗[çöÑ∞₧Ö▄┐║«@£ç5²mö·e⌠       τ÷DΩ╧┐@Θe▄εΣ*ùÆÖZñ╞(Z6Å1åT<»└⌐½aûσ¼qOΩn.U5°╗}AÖö╔è┘+¬╜¼;ÉφΩ#≈ÄSúå╗N╤╛îg]>M½T¬Γópa¢ôN'
+┌Θ
+∙î╞φαÖ∙φè╘r╩α␦V╕û¢╕≥Q»yàM╣τ╪ù+αC£½Ü     Θ─<oí▓O₧²/tv╨≡╓Ω╪▓ßL@è 
+µ│
+  0\█á▓¬fH╨ÄÄU%╘g#éyY╝Æ≈¼.M╜'╞Æ#Ü╟5╣[⌠┐qò7
+¢~í«Nπi`╕╣╫,¿┴{DóΓ╜╤_╙Φ␦«␦ε╝ƒ╣{3║ â▒┘,␦▌╞₧»"p2∞(▒
+Ñ¿▄e∩¥≡IèWo░ä┴½x%Fqx{ÿ≡₧▓⌐═Ä▀▐·_AAΓ3dK±┼û«╜{wΓÆ-jgü"VöÆ┤6ΘcgUùé╞W╪j╠6ú▌K/Çp9Å%ª╒*╬[┐7xè╒^T]>q␦' ║πδΦ┴W/a'óƒµ╦   ╬Nƒ·,è┬ôÇΓΣ&╘├°α²╘¡Ö{°Στ!╓ù╟ƒb╥╣úé7ë9ó≈I┤öP÷½φ]g>╪£V╔`7▀Φ▀T⌠╨pT Θ{àTx·≈-Ñ∞9ƒÜ)_0añ■²Ä<k5É╨δ81$╝ÿ┘╒á╕█]╖éq⌡JtiΩî)v~5jù÷u ╙#╥@ⁿ!|2ù╔ç°6ó`T:àσεJ7┴yµ∩'¢è┴ETë²│═╥lΦ╦û{╧¡H>m;uyöi╩≡▒»E¬«─ª▒·íM*Θ¼╒sWL≡F6nm&µ╘ûû═î$╟÷╦<▄Eg£PxI@à╞Nû±σqC ,°∩}3╠┬pÑù√i╩±|╝₧µ═¢>è¡UJuêÖàÖsD╬á╧┌Ä₧Hnù╥"äz√ì*N>╡I∩Y8Φε·,╢|H`Ω╛X╔≈+
+                                               ?ΣD╤4éÅ·%√≤&⌠8W*╙)╖S═╠ó¬w▐?I╡Γ└\┴Gh╨┤bad decrypt
+A0CD0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python curve.py
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+╣BhçÇ
+     ÷╞▓Uó.«KJ¬φⁿ7b!é▌αéN`╒dε╝
+%¢W▓¬>xα∙ì-~~el╨^q
+                  z]í!ELé£~┬ÿO│▌-eW@áA⌐Ñ^⌡WE│∩╟╘₧■?âÉ "₧¡┤?x╕²Ñ╫:≡╪;Cëmqc╠─wä╧└Yδ)7'M⌡5┴╛Kⁿ╘r≤. δ¿*¬oiòò╥ê?╝=∩  ╤y·,╡V┬¥4÷α-╡
+     còÉΓ4(:g«îyZ¢ëÜYâ≡e
+¢▌╠ë╡z|=HPfì~Φ'u┌*▄â¡╓Θk]3+÷'4¥εk∞¢Lw°úº;º1+5╢{ÉôZmêi^Σ:q╗| òz╖&`▒0t∞
+                                                                     ƒ╔5▄¼êÖ¿à╝æÇcY░4╞Y╥≥┤5■c╫£2┘âƒ.M¥≤┬┌a¼)¿.
+╘ ± µ╞)pS═|bπ   ¢╙¢Ç≡∞┌ö╩2␦═µ╧!x8+%a.ÿ╠uê       e
+                                                 Qµæë
+                                                     7f│╤f½p∞t╤w:┼v┐%─7┼Y└)╦ö2╤ô·í.⌠,Ç╛?7èû!Y₧òí9æd\-π┬~¥╨7*PxK·\┤╓uAê╪b═äAïûÄ]
+jçM╠ÿ╙[╬ôΘi┬òX= u#╤\T\lΩñ`┤R"Σ.«8╢ì┘ù
+äí∩╩▒Vm¿∞I╔┌╤R`LórUh▄ûK²"├@.º₧oßsæºë┐≤<5@┬zip}Ö≤V¡Ü╛Åj`s├?BLÿ#¬@OIÑXcæk
+                                                                       ■ûóñi╛Ñ╦CV*⌐▄V·╛SV;p7αW8çî╣^íijtT"ñ╛Q,└┴ε«╫Y¥D╢
+                                                                                                                      ª>┤â
+  Θòw`▀µƒⁿxóë«x_Öcê|sπ  ⌐7¿½wë≡e≥¿àΩ═z╦Fε>µ≥xⁿ⌠Kl*¡°Aé±4p≡^p°Ö5╚cQτ>²é┐sƒgB√v`BFFuƒñ{▒⌡╕τ╖!≡0<ÆA╜L!╝è╕éÑ▄√lΣ7Rº"åaªä°╜u╞òF╛L╗|àm╦½├ ΘHC.╛º#═U╠|*ⁿE%ÄN3σ┌┐⌡D²@
+                                     ╤dφÖ▀\í≤òs▒╟xa╞␦$₧1Ñâé¥¢ï{6ve∞∙ô2╫aµ▐␦╙æ▄Iδ,Σp┤╙xç&╣■Ö>╒]╢▓ƒ=°C/B█pcsX:
+                                                                                                            gτ" Aδ■á▀┬Å╠úîÿë{─RX\i╪╛Ç^àgJr µPyK╫¥║╦₧Ü⌠A|oKƒ∩M,P╨ia
+wAZåg{Θ∙²▀Üo»⌡■╤w{■▓C^╬ñùµ╥.üç█Ph⌠Ñ╤µ[2h≥ô╘h»σ└"EH@æGΘ┐╡τ═6⌡1╩ô╔Θ2▌√RäÖU{┌·╖┐æ.¿LV`M@√V÷J¼~     ╠╩1!ⁿáLπñß{ºtö/wσ₧Ü± ╬H╬4φ╬¼≡ú& ½ia*┴┤0á¬½ç±ε─╪Qφ
+                         *≈░Sz▌Ö╢p╗╝=x0 *>xóUT└ak:╥Q¬   1│J2ª▄╫æ␦╘G>µG⌐╙#
+                                                                         ≡.IÉ6ë∩aNJyr╕4é.Å¢Um+ñ┘&ÉIµ⌡ös╬|wXLfÄT »≤│ë∞ÿ&XE~3º╛ooï|Ñ
+Ω;åïX
+     ä
+÷v]╫Σ⌐M╓▌░├eα╛NΩσÉóHbad decrypt
+A4D40000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in phase3.txt -pass pass:1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c481c77d2ec30d5
+Can't open "phase3.txt" for reading, No such file or directory
+80B50000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(phase3.txt, r)
+80B50000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVkIqRhfDNuBmEfi+HpXuJLPBS1Pb
+UjrgoG/Uv7o8IeyST4HBv8+5KLx7IKQS8f1kPZ2YUME+8XJx0caFYs+JS2Jdm0oj
+Jm3JJEcYXdKEzOQvRzi4k+6dNlJ05TRZNTJvn0fPG5cM80aQb/ckUHsLsw9a4Wzh
+HsrzBQRTIhog9sTm+k+LkXzIJiFfSzRgf250pbviFGoQaIFl1CTQPT2w29DLP900
+6bSiliywwnxXOor03Hn+7MJL27YxeaGQn0sFGgP5X0X4jm3vEBkWvtF4PZl0bXWZ
+LvVL/zTn87+2Zi/u7LA6y6b2yt7YVMkpheeOL0japXaiAf3bSPeUPGz/eu8ZX/Nn
+O3259hG1XwoEVcGdDBV0Nh0A4/phPCR0x5BG04U0OeWAT/5Udc/gGM0TT2FrEzs/
+AJKtmsnj31OSsqWb9wD+CoduYY2JrkzJYihE3ZcgcvqqffZXqxQkaI/83ro6JZ4P
+ubml0PUnAnkdmnBCpbClbZMzmo3ELZ0EQwsvkJFDMQmiRhda4nBooUW7zXOIb7Wx
+bE9THrt3cdZP5uAgVfgguUNE4fZMN8ATEDhdSsLklJe2GvihKuZVA6uuSkWAsK6u
+MGo76xpPwYs3eUdLjtANS83a6/F/fhkX1GXs7zbQjh+Inzk8jhEdEogl9jPs/oDj
+KjbkUpFlsCWwAZGoeKlmX7c4OGuD5c+FEH+2nYHvYl8y1E/K5SDt9Uocio8XuxbD
+ZOzhw7LMSGkD1MZxpDzsCZY1emkSNd88NFj+9U8VssIDDVMYwKMsHKfjc0x5OlzQ
+1f6ST0xCkwydDHHGRKKxFC4y6H6fV9sgf9OPK/65z94Rx72+mfvTyizShjxYSRpl
+sH9otU4parl8roD0KsVTfXZoYrYXzK6cXBn1BO/OEqWlu++Dd9MiGaUGKd22fXER
+qNWoRAKlNn2b6EehD2D8WaAoliPURjkB0Lb/FpP9unI93Twg6NxBXAj734nctukR
+b3kE08RydJV70eJsvEftF5hbED4HacGx9pzisaSz6t9AKiuSoF6uoCtlTIYatyfZ
+kQA4wg50hAJqTynOQ09ArRHEchtB/7uvWZSBGJ7+zlzRGKx99P3oDZD+Y5D8bmUs
+3PV6FnAp+IRSlnsQ6hChkwBoQUcngcfGSkBRvmGjsGercCetRRwBOfh9fbX2ruw4
+mzRYrGnz9eBtepkJXDRjD6yvhNfQMCSkm6l9zMWxKvFbv5g2ae2SLrEt/x3MP2/G" | openssl enc -aes-256-cbc -d -a -pass pass::1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c481c77d2ec3
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+TrΓ╣æ┬┴ƒ░t¿åfç␦u╡≥²∞`█¬╟ó▓&ÿGl╕ΦQc∩ó#ñÜÄ╥ñay╜╪╧½┐╟╡Ä─l¿emⁿ┤2W┬∞mï%VûW╤▀<≤┘pº√Θ╚RnO(z∙òfjº├âæδê⌐\ΩÜÉê╗ô╩∙ü╢
+                                                                                                          ╨sä ⌐≈g{     ┬═æ;÷o▒R┤£√É╧Sφ₧YG.sûδ|≥tÇL╫╖m{î╛╝Qñ²╚éy║-âÑ)"ïéƒó≤}|êLæ[┴]║tu╣─%τ=b≈N$Gσ
+eíeg╤   @_æb¼5ka¥╙(kUo+à8Γèhì╟╜Æa¢«ÉQ/#æVs╝1Ω=7iG∩_DìM~░C[
+                                                          Ö╦╞å∩▀┘XTêσΦ√}╬╫αnqk╙Öï│3Z╪rδû╥▒┌£ΩX6BN
+                                                                                                 4¬╖9╛╞║▄é╧╟╖Ä  d"     ₧dkBrτa
+      z■¡8ç/Äñ>5δ╨&@kÖ¡e"U┐Bèu╚£öæ╖}Dτ3µ
+                                        ?
+                                         s(▄▀ßu"ûπò▀)·>:&╣8<6YiRÖ┐╖Ñ!è╝/╠∩╖╡∞└=ò╡╠└
+.2y┐»ε▒╦Có;Y1í└Sùφ∞α S~±8;Åw½c*ºéJD∩%╝4«╚â┤>-±XxA/¥±V₧½╓ùfƒ╕ⁿ▒╒P>&'ºo{⌠Çî≈Σ6|ç░├é²y≤'7'aùfΘêƒù7╠1┌F?ì⌡
+                                                                                                      ╩üε├JΦ▀≤␦àèd@_:╪HjΩ┴δ╤o2òB└pJ¼Rìò°ƒ∩Z╞²;╓╝>∞▒Ñ╛«ï╤ÑÜ#!<i_jj╥ⁿWU öñey≈≤╣Ñ>?┬G(∩╨≈n7ûá┴▄5úI&5╢
+vûyZ²%πrFÑ═PU£⌡≤/▓Oåx5n╦ämìè╡êΣåHΘ▌╦û$DÜcó┐
+                                           é#hα*╒╖V╠₧h$╠
+                                                       Z╫LÜ╡d<Ç\èσ}¿╢±ú⌡∙qó┬R╠|∞ë┌σTx╟>.
+                                                                                        æ!OëΦ^└&û\"ùNiεZ[\V·∙ùú└╩ëP╟╦J
+                                                                                                                      {JûéÆ/zP␦─Γ≤=E╨*b╩≥[OacócùH╖gr⌠V√}╫└≈╞wB≤DDJX%╡Ñ╣µt%╡Θô_╡ì╔╟é{τ~y┴V~î¡≈|±q√∞O╕H╖]O╘}y┼!;Ç─╙olöó╛═mLNDßNñ┤▄Ö║îÇ}⌡ Ä\H
+■:É␦╛┴?¬█O⌐α^╒
+              ñâΩ»äΦµ,═yc╥Tα(
+b⌡[cl¢pÉ┴▓CçWöv┬ü*½          Äë≥¥▒Üî±╡tgm.m²Σk¡b½┼Ä<:Y═&÷c°
+Ö≥âzΩ␦9zcc¼≥ô╨└~╙¬αTZ-≈█√²ß▄²╘J⌠ít∙cô╙Z■X¼ì1uîô~╧ΩMopMw=═&␦Gí╦f4O■╢»
+ⁿF╙iw6╡ò∩┐Ü┐≈╜x═¼7│╛ÇÅ~▄≡\úÑ╘∞│EΩVD9û╝4S╗B«\╜ætKσ│_âV│▄÷ëÉDdjí╛_òCQÜá┤å␦úi∩3?bad decrypt
+50380000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in salphaseion_real.txt -pass pass:1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c4
+81c77d2ec30d5
+error reading input file
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ " | openssl enc -aes-256-cbc -d -a -pass pass::1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c481c77d2ec3
+> ^C
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -aes-256-cbc -d -a -in -pass pass:1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c481c77d2ec30d5
+enc: Extra (unknown) options: "aes-256-cbc" "pass:1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c481c77d2ec30d5"
+enc: Use -help for summary.
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Try with the long phrase
+openssl enc -d -aes-256-cbc -base64 -pbkdf2 -iter 100000 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+
+# Try with the short phrase (if pbkdf2 fails, try without it for older versions)
+openssl enc -d -aes-256-cbc -base64 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+\ƒçK╢S{W"{┼ë;╚â╤·K╟25╒å-di╥è≡Vz⌠s8Å<█╣Z?éMW▐₧ne{ÄO(·ñ╠òHx?IÅ╨à7∙i ≥cGì3Oå,ƒlf┘
+                                                                              /¿&w"
+ÇKi╗m∙+╗îég╧éo≈â5╩╣╘4öºMñVLl┴L┐▓#╪Ñ?╖@Ω┌ê╘Q┼╢ΩεR╡(
+                                                  ├
+Ω_B╬bn<sß╦╪i2[K²ⁿß≡ΦEm┘ÿ├UzC≤ε.t╞@╢^å-≈┼kê_Y9+5╗X[≥σM√ôPh4╗╖3í{û$╚{╫
+≈-%»óÇδ─╓¼_v╠""3}vê┴9Φ≡?'é`=½# °b╜vH>╕╨yÇïñwRq=T╤┌k≡Bw`┐'ëêi+&»#²}│▀╛~$·π°íT±Åæ÷│╓¼ïUyKYÄΦë_î┤-W⌡é?Ñ·▌▓à⌡┐ßσ╕X┼-░Ü√╒C¥ΘP╘²iMⁿΩy.îóCÜIΦ[,+M}0a░*
+           \█4:Hë«ⁿ.$8╡╪h0N└B∙ß╒¬Lα╩¥ÿ√ßo}╗PªÆ8$⌡ç·ε
+                                                    ±¥&¬─cùxczO'╓ÑaS∩è¼╕6+b²╜╬m~lO∞0╒ƒ─5Kè╬≈óPUw⌡═┤░╬Ω±∞Y╔φGⁿΣ_w|ú¢Ö▐ª0Ç│Φÿ␦σxg5ZπHUçMúp|D╡
+Σ!Ω▒Ö⌡▐₧⌡"00NNJü·A*UfZ[₧╩Y▀╕ï°╜ò⌠Ñ'┐╣hê$ßN÷┤▓à<,ïΓ╝öàb╣¡÷▐ß─■ƒ  X╩ñΘ█␦╒ u$üXº√÷ìD&░oö
+                                  ;│╦;T6°~ƒPÆ╣fÿ▄ì¥╔R╔â∞φ≤/╓╓*┴╗m═UD╢+¡J╘ÇΦ╟Ü╩à≤éâ%╪∙^¥∞ Té%"ós╚;M∙V#₧╚b[å¥Ælª<ëH%9pWC▀èbc9=J]Å=╩_├@°¿Ñ╜s┐·╬┤c9í~ƒ⌡+ä┬╗@cæg╘=:δåmd≤╕]óîà²fXV-e╦δ│í(GO_Ö▐ßÜ╚j£╓-[▄¬␦Wφ\
+╥Ç╣é√v╞:╓;:~_┴#══╔═,╓₧▐ª½ì▀LL█╚è°|╧)╗ZîOJüñ┘vqHé÷_"8¼bî╡D0]4␦U"╕┘┤ähÉ=Uùm╤ööz╖,╔Hjcª▄(qÉ╗xg≈F┬ï"Lú╘û/␦≤»ç√ô▌ÿ└δ⌠╦║
+▌-BΣbad decrypt
+ECBA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+sLVE?L.Ä«æ╠ⁿΣx$H%Sìσ?╞⌠NHÄÑNnY%óm╝τσ#PHñ1ù≡çÉτ╚^╚\,√Θ▐
+                                                      ╓╥òX8╒▄ÿ╙L£jh:J┴ªT┤i∩òKKóp%;3╦▀|
+∩6ï╕·4#$i-2⌡fδT╠U1╨
+                   ┘╫⌐■Sª.\╬╧NEAf
+╔ä▌}─▒ëödÑ█>çΦ¡É⌡░,              Ω)ö╦I╡[_┤í└á╓î÷Ñç┤²α½öG}∙▐tH≡▌┐xñ!YBp┘s∞Ç
+8¿╢ls╟╙yvαD╚┼]S░pAZ└αú[╞`+µZd╤A∞£ ╜╙}ò║1ò╔Wxñ]æ¢å╒\ⁿ+   wÄfdσ+D%²+┤<ëº8╩┌BR╕M▐4r'╣Æ£µ╫·Σ«▐J╤K]╙L╙└╡{<ï¿,√[]8u≈ñf8┬«╖,├ σ`╘÷C,╛p╡y_\·bÅ £ä
+ßh▓8╫åVNì≥â:╧¿▌å─&\Æ]┴∞«3ò├äφ≡ê¬╧'üVσlxuÆúkT=cπ2q▐(bG^c║╖-ùAY{╟t╥─oⁿ╜3¢muà∩FR┬ZÉx¢╕?⌠╬Xì╟çâµ([▌Æ╕&▀C╡²╦x▐╓[v?ï@╠«⌠ Åf┬@4░Vn╩▐5╔%₧B*╗»╜_╟┼▄4ÄuÄpπ¼ú·ä█)E╜⌠π╧¥°DAⁿ_x≡$±e>M╦º┴≥┐▄,╧÷¿(█ÿ¬Σ!ûZîo╤îp█23i␦c;tÅ╡∞W2@*z¬ ⌠Θ
+π╫íb␦¼¥√âÜ⌠uz╨╪zOé⌠.Ç-·m█è╜ö?)3
+Öù·Σk         )mÆ;
+╞₧*æ≡␦µs╢δm·vêπφÇ╕ÆIⁿ╙c»z╦┼│îεGf▀fé¿ÉûU¢b£òES¼Ép├&*▌laJç╔␦╣╓Σi°Æí╧■
+                                                         X╝╣/╝ΦN╔âò┼╕;
+'╖T⌡ 'ñ≤░╙≥₧í2╪.╗ÿt╔
+                    ▒■P⌡╣╥▒gΦWkW~çA═&`╗0╞^AKª=çw{Æy-▌O╛òí≥á│C╪>z≡A╡Γ▒
+                                                                     i╫Fîáü╗H-XN
+;E#┴b6≡ü╕²CRë╥qqΩY┐ΓP║╚∩1+¿╬,╘╩3ú╖{?░áá┬:ⁿ@\R╜QÇσ°■iÇ⌡╔┌φ╪kσ¢¥r₧╓ÆÜ╜╒V3╖qöû╙n≥A≈C╡╢╣ΦúºC$C┘ù\░Ö■73û┤
+∩╧▄ÇÿZ+~≥=P└`╙+┤æ└      Lë╖+i{┼k╖√m{V¬φ╕πE╚o%ƒ$7ué&wm{x½▀└Ä╓SïO┐eC]
+                                                                   ╢⌐╙I■╗ö      ~╡DgΓ╫¢▌éy
+                                                                                          ≤«£±£πì≥±≤¿ß£⌐;½▐QpfiQ%8├I▐▓■ô▓#ù╫₧r╨╖·α÷═
+¼┬$èδ
+     7╔v└╜Σ╖£1ö;╧]áv╨¿å
+b╗x║x▀*KùM·G╒;╫ºUtπyq≡Hí!∩┴╔ºα)z6╤│╬ë#ΘáêÖ╤╨bad decrypt
+2CD70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo "U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR8NfqVPIKhUiGDu5QflYjczT6DrA9vLQZu3ko
+k+/ZurtRYnqqsj49UhwEF9GfUfl7uQYm0UunatW43C3Z1tyFRGAzAHQUFS6jRCd+
+vZGyoTlOsThjXDDCSAwoX2M+yM+oaEQoVvDwVk" | openssl enc -aes-256-cbc -d -a -pass pass::1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c481c77d2ec3
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+TrΓ╣æ┬┴ƒ░t¿åfç␦u╡≥²∞`█¬╟ó▓&ÿGl╕ΦQc∩ó#ñÜÄ╥ñay╜╪╧½┐╟╡Ä─l¿emⁿ┤2W┬∞mï%VûW╤▀<≤┘pº√Θ╚RnO(z∙òfjº├âæδê⌐\ΩÜÉê╗ô╩∙ü╢
+                                                                                                          ╨sä ⌐≈g{     ┬═æ;÷o▒R┤£√É╧Sφ₧YG.sûδ|≥tÇL╫╖m{î╛╝Qñ²╚éy║-âÑ)"ïéƒó≤}|êLæ[┴]║tu╣─%τ=b≈N$Gσ
+eíeg╤   @bad decrypt
+1CC30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -pbkdf2 -iter 100000 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+bad magic number
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -pbkdf2 -iter 100000 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+bad magic number
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -pbkdf2 -iter 100000 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+\ƒçK╢S{W"{┼ë;╚â╤·K╟25╒å-di╥è≡Vz⌠s8Å<█╣Z?éMW▐₧ne{ÄO(·ñ╠òHx?IÅ╨à7∙i ≥cGì3Oå,ƒlf┘
+                                                                              /¿&w"
+ÇKi╗m∙+╗îég╧éo≈â5╩╣╘4öºMñVLl┴L┐▓#╪Ñ?╖@Ω┌ê╘Q┼╢ΩεR╡(
+                                                  ├
+Ω_B╬bn<sß╦╪i2[K²ⁿß≡ΦEm┘ÿ├UzC≤ε.t╞@╢^å-≈┼kê_Y9+5╗X[≥σM√ôPh4╗╖3í{û$╚{╫
+≈-%»óÇδ─╓¼_v╠""3}vê┴9Φ≡?'é`=½# °b╜vH>╕╨yÇïñwRq=T╤┌k≡Bw`┐'ëêi+&»#²}│▀╛~$·π°íT±Åæ÷│╓¼ïUyKYÄΦë_î┤-W⌡é?Ñ·▌▓à⌡┐ßσ╕X┼-░Ü√╒C¥ΘP╘²iMⁿΩy.îóCÜIΦ[,+M}0a░*
+           \█4:Hë«ⁿ.$8╡╪h0N└B∙ß╒¬Lα╩¥ÿ√ßo}╗PªÆ8$⌡ç·ε
+                                                    ±¥&¬─cùxczO'╓ÑaS∩è¼╕6+b²╜╬m~lO∞0╒ƒ─5Kè╬≈óPUw⌡═┤░╬Ω±∞Y╔φGⁿΣ_w|ú¢Ö▐ª0Ç│Φÿ␦σxg5ZπHUçMúp|D╡
+Σ!Ω▒Ö⌡▐₧⌡"00NNJü·A*UfZ[₧╩Y▀╕ï°╜ò⌠Ñ'┐╣hê$ßN÷┤▓à<,ïΓ╝öàb╣¡÷▐ß─■ƒ  X╩ñΘ█␦╒ u$üXº√÷ìD&░oö
+                                  ;│╦;T6°~ƒPÆ╣fÿ▄ì¥╔R╔â∞φ≤/╓╓*┴╗m═UD╢+¡J╘ÇΦ╟Ü╩à≤éâ%╪∙^¥∞ Té%"ós╚;M∙V#₧╚b[å¥Ælª<ëH%9pWC▀èbc9=J]Å=╩_├@°¿Ñ╜s┐·╬┤c9í~ƒ⌡+ä┬╗@cæg╘=:δåmd≤╕]óîà²fXV-e╦δ│í(GO_Ö▐ßÜ╚j£╓-[▄¬␦Wφ\
+╥Ç╣é√v╞:╓;:~_┴#══╔═,╓₧▐ª½ì▀LL█╚è°|╧)╗ZîOJüñ┘vqHé÷_"8¼bî╡D0]4␦U"╕┘┤ähÉ=Uùm╤ööz╖,╔Hjcª▄(qÉ╗xg≈F┬ï"Lú╘û/␦≤»ç√ô▌ÿ└δ⌠╦║
+▌-BΣbad decrypt
+88E90000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+╣BhçÇ
+     ÷╞▓Uó.«KJ¬φⁿ7b!é▌αéN`╒dε╝
+%¢W▓¬>xα∙ì-~~el╨^q
+                  z]í!ELé£~┬ÿO│▌-eW@áA⌐Ñ^⌡WE│∩╟╘₧■?âÉ "₧¡┤?x╕²Ñ╫:≡╪;Cëmqc╠─wä╧└Yδ)7'M⌡5┴╛Kⁿ╘r≤. δ¿*¬oiòò╥ê?╝=∩  ╤y·,╡V┬¥4÷α-╡
+     còÉΓ4(:g«îyZ¢ëÜYâ≡e
+¢▌╠ë╡z|=HPfì~Φ'u┌*▄â¡╓Θk]3+÷'4¥εk∞¢Lw°úº;º1+5╢{ÉôZmêi^Σ:q╗| òz╖&`▒0t∞
+                                                                     ƒ╔5▄¼êÖ¿à╝æÇcY░4╞Y╥≥┤5■c╫£2┘âƒ.M¥≤┬┌a¼)¿.
+╘ ± µ╞)pS═|bπ   ¢╙¢Ç≡∞┌ö╩2␦═µ╧!x8+%a.ÿ╠uê       e
+                                                 Qµæë
+                                                     7f│╤f½p∞t╤w:┼v┐%─7┼Y└)╦ö2╤ô·í.⌠,Ç╛?7èû!Y₧òí9æd\-π┬~¥╨7*PxK·\┤╓uAê╪b═äAïûÄ]
+jçM╠ÿ╙[╬ôΘi┬òX= u#╤\T\lΩñ`┤R"Σ.«8╢ì┘ù
+äí∩╩▒Vm¿∞I╔┌╤R`LórUh▄ûK²"├@.º₧oßsæºë┐≤<5@┬zip}Ö≤V¡Ü╛Åj`s├?BLÿ#¬@OIÑXcæk
+                                                                       ■ûóñi╛Ñ╦CV*⌐▄V·╛SV;p7αW8çî╣^íijtT"ñ╛Q,└┴ε«╫Y¥D╢
+                                                                                                                      ª>┤â
+  Θòw`▀µƒⁿxóë«x_Öcê|sπ  ⌐7¿½wë≡e≥¿àΩ═z╦Fε>µ≥xⁿ⌠Kl*¡°Aé±4p≡^p°Ö5╚cQτ>²é┐sƒgB√v`BFFuƒñ{▒⌡╕τ╖!≡0<ÆA╜L!╝è╕éÑ▄√lΣ7Rº"åaªä°╜u╞òF╛L╗|àm╦½├ ΘHC.╛º#═U╠|*ⁿE%ÄN3σ┌┐⌡D²@
+                                     ╤dφÖ▀\í≤òs▒╟xa╞␦$₧1Ñâé¥¢ï{6ve∞∙ô2╫aµ▐␦╙æ▄Iδ,Σp┤╙xç&╣■Ö>╒]╢▓ƒ=°C/B█pcsX:
+                                                                                                            gτ" Aδ■á▀┬Å╠úîÿë{─RX\i╪╛Ç^àgJr µPyK╫¥║╦₧Ü⌠A|oKƒ∩M,P╨ia
+wAZåg{Θ∙²▀Üo»⌡■╤w{■▓C^╬ñùµ╥.üç█Ph⌠Ñ╤µ[2h≥ô╘h»σ└"EH@æGΘ┐╡τ═6⌡1╩ô╔Θ2▌√RäÖU{┌·╖┐æ.¿LV`M@√V÷J¼~     ╠╩1!ⁿáLπñß{ºtö/wσ₧Ü± ╬H╬4φ╬¼≡ú& ½ia*┴┤0á¬½ç±ε─╪Qφ
+                         *≈░Sz▌Ö╢p╗╝=x0 *>xóUT└ak:╥Q¬   1│J2ª▄╫æ␦╘G>µG⌐╙#
+                                                                         ≡.IÉ6ë∩aNJyr╕4é.Å¢Um+ñ┘&ÉIµ⌡ös╬|wXLfÄT »≤│ë∞ÿ&XE~3º╛ooï|Ñ
+Ω;åïX
+     ä
+÷v]╫Σ⌐M╓▌░├eα╛NΩσÉóHbad decrypt
+C0880000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_real.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+sLVE?L.Ä«æ╠ⁿΣx$H%Sìσ?╞⌠NHÄÑNnY%óm╝τσ#PHñ1ù≡çÉτ╚^╚\,√Θ▐
+                                                      ╓╥òX8╒▄ÿ╙L£jh:J┴ªT┤i∩òKKóp%;3╦▀|
+∩6ï╕·4#$i-2⌡fδT╠U1╨
+                   ┘╫⌐■Sª.\╬╧NEAf
+╔ä▌}─▒ëödÑ█>çΦ¡É⌡░,              Ω)ö╦I╡[_┤í└á╓î÷Ñç┤²α½öG}∙▐tH≡▌┐xñ!YBp┘s∞Ç
+8¿╢ls╟╙yvαD╚┼]S░pAZ└αú[╞`+µZd╤A∞£ ╜╙}ò║1ò╔Wxñ]æ¢å╒\ⁿ+   wÄfdσ+D%²+┤<ëº8╩┌BR╕M▐4r'╣Æ£µ╫·Σ«▐J╤K]╙L╙└╡{<ï¿,√[]8u≈ñf8┬«╖,├ σ`╘÷C,╛p╡y_\·bÅ £ä
+ßh▓8╫åVNì≥â:╧¿▌å─&\Æ]┴∞«3ò├äφ≡ê¬╧'üVσlxuÆúkT=cπ2q▐(bG^c║╖-ùAY{╟t╥─oⁿ╜3¢muà∩FR┬ZÉx¢╕?⌠╬Xì╟çâµ([▌Æ╕&▀C╡²╦x▐╓[v?ï@╠«⌠ Åf┬@4░Vn╩▐5╔%₧B*╗»╜_╟┼▄4ÄuÄpπ¼ú·ä█)E╜⌠π╧¥°DAⁿ_x≡$±e>M╦º┴≥┐▄,╧÷¿(█ÿ¬Σ!ûZîo╤îp█23i␦c;tÅ╡∞W2@*z¬ ⌠Θ
+π╫íb␦¼¥√âÜ⌠uz╨╪zOé⌠.Ç-·m█è╜ö?)3
+Öù·Σk         )mÆ;
+╞₧*æ≡␦µs╢δm·vêπφÇ╕ÆIⁿ╙c»z╦┼│îεGf▀fé¿ÉûU¢b£òES¼Ép├&*▌laJç╔␦╣╓Σi°Æí╧■
+                                                         X╝╣/╝ΦN╔âò┼╕;
+'╖T⌡ 'ñ≤░╙≥₧í2╪.╗ÿt╔
+                    ▒■P⌡╣╥▒gΦWkW~çA═&`╗0╞^AKª=çw{Æy-▌O╛òí≥á│C╪>z≡A╡Γ▒
+                                                                     i╫Fîáü╗H-XN
+;E#┴b6≡ü╕²CRë╥qqΩY┐ΓP║╚∩1+¿╬,╘╩3ú╖{?░áá┬:ⁿ@\R╜QÇσ°■iÇ⌡╔┌φ╪kσ¢¥r₧╓ÆÜ╜╒V3╖qöû╙n≥A≈C╡╢╣ΦúºC$C┘ù\░Ö■73û┤
+∩╧▄ÇÿZ+~≥=P└`╙+┤æ└      Lë╖+i{┼k╖√m{V¬φ╕πE╚o%ƒ$7ué&wm{x½▀└Ä╓SïO┐eC]
+                                                                   ╢⌐╙I■╗ö      ~╡DgΓ╫¢▌éy
+                                                                                          ≤«£±£πì≥±≤¿ß£⌐;½▐QpfiQ%8├I▐▓■ô▓#ù╫₧r╨╖·α÷═
+¼┬$èδ
+     7╔v└╜Σ╖£1ö;╧]áv╨¿å
+b╗x║x▀*KùM·G╒;╫ºUtπyq≡Hí!∩┴╔ºα)z6╤│╬ë#ΘáêÖ╤╨bad decrypt
+F4DA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -pbkdf2 -iter 100000 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+▓V▌ KTE╬aÖhÑ∙$.æ;åoW¿¢┬Lzµî%
+yα2<√ΓâaAmÖ@τC:(guh¬P?me≥*â$çx}vwJ ║b#»trwl»╖%`∙¬vÇ{▄₧╛U÷('└½
+                                                             Θ∩╟cΩ┬é∩╤N╞îz:Bsá/ⁿæ╫╖h┴MgnyÆ<╙dóφ╪öæá#╞░└FO3;Φ-æßL)U¥ß┬╘EAUÜτG#┴âÄ)?>_|ⁿæº∙M∩û─
+┤aö▐πLN¿ 7ôúHä¥_¬╖q∞╓ÜK╛@⌡╪␦/└╥/iΓ'∞"=½ïΣu├æt∩^╡╡╝hΓóâ*
+                                                       ╛├╨X+-U─ⁿEmG╕≡ó1É╜'Φⁿù(w5¥╫;:Φ0¢Φ
+                                                                                        ┐ë╟)&W⌠'╛U;æ␦àCé╙æ₧╕«åg╤sÆf├├₧µ$òß▒ß]úF▐ªV¼∩öâN⌡µÿ!èeKo∙é¼Ä∞ç▒p▐b╓┼3$bba⌐è╪┤;≥├+U╘ì5òg╔2_6Φ╚┬Lƒ┤ä╔u¼╚H¡"kTáHkMÑs½A¬╕╪k╛E)J=a░▀u@╚■ÇN║AÜBå╨C≥%9Ha│ó     Ü╧═╩Ö_
+     NΩùf∩hBÑÄ¢&#╩oRÉä<O┴φ@ÄíQ┤hå¬h.⌡₧·E:f╩^4Φ+τ1}╓o▒ö╤┘$φ▒IE▀
+P╗e∞¿ΘpQÆΦJ¬                                                  h@I@≥_Θ3/╟:╛J╗εΣÆvñ╫àAéû∙ΓG~ÿA¥ò(∩f\┌╤W█▐≥e═σì─⌠Ñ∙Q⌡╩Tj╩
+¥Æn▒-╔óαu5ƒ▀rÑ▌ZRNH⌐Æ≈├≤∙&₧ÿσ`U⌠G≤»0Å▒G⌡√╠b╜^╪┬\º╟ß°▀ói²∙>Φδ{▌%∙$3┘?Φ"é
+                                                                       Σ╙ó\╚╥¼═¢¡╖σ[é␦ò∙Éφàf╖u≡gv!h╥πy°J²▀n²τ:Xó▌t¬∩`pA¼GQ╘r█½½:5¡║┴┌⌐2K⌐╞)íúÜÑ4SúºñH>"yA║7+2î~z╢#∙{Y╝1▒Jê╠µ╖╝┼δb≈╕&╘Φ»∞¥·Éld>┴≤δ ╨`┘j!ñ-τ¡9╗≤¡¼╡B╧E╖ΩoΦΘ╘@e╨.nåmù#▓ΓΩ┐│kfzq¢Z*`╥C¬\q7╚ e␦H╣ ÿú»╢rªp°ZN▒Tñ⌡Ω±▓Åß}ÄΓß:╓äΦ K╥GjpG␦√ⁿ"('`╪≈.M,─t╕rÑ¡F²─f╗╞d#æ`c"╦q⌐¥ö╝[\ÄvRsToóª5╧ »┘╤sê~Dx-ñΩâß#4┼oÉ'M■ï╘┼s╧Γ▄C╛∩≡≡¥1─φ_u╒p┼Zƒ÷{┬¥fσ5ë+B1╨v@s÷ª:Æ ∞Θ)Φ²½ïG¢ä8┌ñPçÆ⌡├≡╖q&
+                                                              #╘r▐(3Z&φ├LoΣ±ÉZΣ¼è▌ΩóDîwV≈╠╕╟═ì╕H┴-ê╧ë"îjôR≤▄?z▀|Æ╬²ε+╨ì
+                                                                                                                       ␦á.ßRcî┴m╦√▐└Wßóµ╛▄₧╫bad decrypt
+BCDF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+b╪]$&Ä-A╨╣⌡h»,Ñ╟¬W*RAê; ─┌B╧╔┴█<Y∙zÇδ
+æow╩⌐JiΣä╘/±    ╤▒ä÷l.>╞^╨∞,/ë␦7æqPT╒F╦$≤≤WÆ#╠¼▒tY␦É7∙τ
+íÆB·ÿ░╪ⁿQY?kΓT}+Æ┬ì▄▒I-ÿ■HA⌠(üOÆÖN°t?╖■>·≡lp₧Bh4î╨}MτeûE╚▐␦┤Φ│µ─V;ån
+├╒hδT⌠x▄∞┌└Ñ╣Ió ?Φy>
+                    <u»}¢ùº;2C;íÉ╔┤ⁿçrvn⌡W¥δ$ëQOó?áN╓!i╘Æ╗zΣ%╪>X┬Å6┐du√π ╠δµ½Æ(YseÇ
+                                                                                   "≥mα▄á:KT0╔␦└╚╙ä⌐▒4≈û¢à^┼17[░Å>⌠d~▒c╕|(╡≤┤╖[Y(P╬πúl¥w7!u╪╦└{Uå╕Q║po␦Sb0╖ÜrsuDΩ_╡ε∙⌠«8hB<:ó╞sî/╢Q▓á¢█.╣       7$¢▌^A╤╒ⁿPÅ}pClìÇⁿvΣ
+$V┌ä≥QÆe1▓$Dä23b>V{ß⌐GrF'╞ßjlúö Rδ∙
+pΦn>φ¡╝^αüÖ %╗é╫{8H┴sê║S╟÷╚Y┴╨å£ìB╕gò·₧ß┘│═O^─└║&è╪^∞¬╒$≈ÿÉ▓åÉs!▀␦
+                                                                  ù╖ì▌ü╘B─5K╡ë¬ñ⌠ª╛f╦▀v┬9\i╫KÜ¿(n┴Ü°EaîΣ.'≥Y╨P∞A╘╜■LMσ╨╧àÉ>E,20µ╧║πP╥¼æΘù=╝:sCⁿCÑjW╖╛<DUR½Ñ&u√z╢╝3vF'Γe─╦ûX(y┐áò^0τΣ≡╙ΦL╠πxô╡∞g═Ad≤^êB5qÇ]aHf┘╦
+                                                                            ;D2K¬εçñ¿╤√╗ßΩW|{╝∩╣╙1
+7■0ÿ%Gδ╨c_û╖)≥╣(Nà φ\ê
+                   43¬ºRü7û╬┬ÄwÉ╢₧·ÿ╛7╙&F*:Q≡»ß9,±HC╧│ï╘P≤ó╤┼òí)3?╧÷▒╘D╕j╔û|▀>o░&εE/╫╒▒y╚\∩═╢ ═74÷cU¥╤  ╕⌡»␦╪¿KBΘ╥π∞»[r╧╝_ºü╬╡S│╡░ü├␦┌Y5-#gúüÑ░┤┐
+                         ≈B+ße·┼«╛|zÄb≈╙W6¼╚▀få╕~ⁿ│ç┌NF■kôs+¥a2Ñ1°Hk0
+·┐┤┘._░iP┤┤£¢wTτΣ;ºâ&Σ·i╞uA∩Ætmbad decrypt
+A8710000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+b╪]$&Ä-A╨╣⌡h»,Ñ╟¬W*RAê; ─┌B╧╔┴█<Y∙zÇδ
+æow╩⌐JiΣä╘/±    ╤▒ä÷l.>╞^╨∞,/ë␦7æqPT╒F╦$≤≤WÆ#╠¼▒tY␦É7∙τ
+íÆB·ÿ░╪ⁿQY?kΓT}+Æ┬ì▄▒I-ÿ■HA⌠(üOÆÖN°t?╖■>·≡lp₧Bh4î╨}MτeûE╚▐␦┤Φ│µ─V;ån
+├╒hδT⌠x▄∞┌└Ñ╣Ió ?Φy>
+                    <u»}¢ùº;2C;íÉ╔┤ⁿçrvn⌡W¥δ$ëQOó?áN╓!i╘Æ╗zΣ%╪>X┬Å6┐du√π ╠δµ½Æ(YseÇ
+                                                                                   "≥mα▄á:KT0╔␦└╚╙ä⌐▒4≈û¢à^┼17[░Å>⌠d~▒c╕|(╡≤┤╖[Y(P╬πúl¥w7!u╪╦└{Uå╕Q║po␦Sb0╖ÜrsuDΩ_╡ε∙⌠«8hB<:ó╞sî/╢Q▓á¢█.╣       7$¢▌^A╤╒ⁿPÅ}pClìÇⁿvΣ
+$V┌ä≥QÆe1▓$Dä23b>V{ß⌐GrF'╞ßjlúö Rδ∙
+pΦn>φ¡╝^αüÖ %╗é╫{8H┴sê║S╟÷╚Y┴╨å£ìB╕gò·₧ß┘│═O^─└║&è╪^∞¬╒$≈ÿÉ▓åÉs!▀␦
+                                                                  ù╖ì▌ü╘B─5K╡ë¬ñ⌠ª╛f╦▀v┬9\i╫KÜ¿(n┴Ü°EaîΣ.'≥Y╨P∞A╘╜■LMσ╨╧àÉ>E,20µ╧║πP╥¼æΘù=╝:sCⁿCÑjW╖╛<DUR½Ñ&u√z╢╝3vF'Γe─╦ûX(y┐áò^0τΣ≡╙ΦL╠πxô╡∞g═Ad≤^êB5qÇ]aHf┘╦
+                                                                            ;D2K¬εçñ¿╤√╗ßΩW|{╝∩╣╙1
+7■0ÿ%Gδ╨c_û╖)≥╣(Nà φ\ê
+                   43¬ºRü7û╬┬ÄwÉ╢₧·ÿ╛7╙&F*:Q≡»ß9,±HC╧│ï╘P≤ó╤┼òí)3?╧÷▒╘D╕j╔û|▀>o░&εE/╫╒▒y╚\∩═╢ ═74÷cU¥╤  ╕⌡»␦╪¿KBΘ╥π∞»[r╧╝_ºü╬╡S│╡░ü├␦┌Y5-#gúüÑ░┤┐
+                         ≈B+ße·┼«╛|zÄb≈╙W6¼╚▀få╕~ⁿ│ç┌NF■kôs+¥a2Ñ1°Hk0
+·┐┤┘._░iP┤┤£¢wTτΣ;ºâ&Σ·i╞uA∩Ætmbad decrypt
+80F20000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -pbkdf2 -iter 100000 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+▓V▌ KTE╬aÖhÑ∙$.æ;åoW¿¢┬Lzµî%
+yα2<√ΓâaAmÖ@τC:(guh¬P?me≥*â$çx}vwJ ║b#»trwl»╖%`∙¬vÇ{▄₧╛U÷('└½
+                                                             Θ∩╟cΩ┬é∩╤N╞îz:Bsá/ⁿæ╫╖h┴MgnyÆ<╙dóφ╪öæá#╞░└FO3;Φ-æßL)U¥ß┬╘EAUÜτG#┴âÄ)?>_|ⁿæº∙M∩û─
+┤aö▐πLN¿ 7ôúHä¥_¬╖q∞╓ÜK╛@⌡╪␦/└╥/iΓ'∞"=½ïΣu├æt∩^╡╡╝hΓóâ*
+                                                       ╛├╨X+-U─ⁿEmG╕≡ó1É╜'Φⁿù(w5¥╫;:Φ0¢Φ
+                                                                                        ┐ë╟)&W⌠'╛U;æ␦àCé╙æ₧╕«åg╤sÆf├├₧µ$òß▒ß]úF▐ªV¼∩öâN⌡µÿ!èeKo∙é¼Ä∞ç▒p▐b╓┼3$bba⌐è╪┤;≥├+U╘ì5òg╔2_6Φ╚┬Lƒ┤ä╔u¼╚H¡"kTáHkMÑs½A¬╕╪k╛E)J=a░▀u@╚■ÇN║AÜBå╨C≥%9Ha│ó     Ü╧═╩Ö_
+     NΩùf∩hBÑÄ¢&#╩oRÉä<O┴φ@ÄíQ┤hå¬h.⌡₧·E:f╩^4Φ+τ1}╓o▒ö╤┘$φ▒IE▀
+P╗e∞¿ΘpQÆΦJ¬                                                  h@I@≥_Θ3/╟:╛J╗εΣÆvñ╫àAéû∙ΓG~ÿA¥ò(∩f\┌╤W█▐≥e═σì─⌠Ñ∙Q⌡╩Tj╩
+¥Æn▒-╔óαu5ƒ▀rÑ▌ZRNH⌐Æ≈├≤∙&₧ÿσ`U⌠G≤»0Å▒G⌡√╠b╜^╪┬\º╟ß°▀ói²∙>Φδ{▌%∙$3┘?Φ"é
+                                                                       Σ╙ó\╚╥¼═¢¡╖σ[é␦ò∙Éφàf╖u≡gv!h╥πy°J²▀n²τ:Xó▌t¬∩`pA¼GQ╘r█½½:5¡║┴┌⌐2K⌐╞)íúÜÑ4SúºñH>"yA║7+2î~z╢#∙{Y╝1▒Jê╠µ╖╝┼δb≈╕&╘Φ»∞¥·Éld>┴≤δ ╨`┘j!ñ-τ¡9╗≤¡¼╡B╧E╖ΩoΦΘ╘@e╨.nåmù#▓ΓΩ┐│kfzq¢Z*`╥C¬\q7╚ e␦H╣ ÿú»╢rªp°ZN▒Tñ⌡Ω±▓Åß}ÄΓß:╓äΦ K╥GjpG␦√ⁿ"('`╪≈.M,─t╕rÑ¡F²─f╗╞d#æ`c"╦q⌐¥ö╝[\ÄvRsToóª5╧ »┘╤sê~Dx-ñΩâß#4┼oÉ'M■ï╘┼s╧Γ▄C╛∩≡≡¥1─φ_u╒p┼Zƒ÷{┬¥fσ5ë+B1╨v@s÷ª:Æ ∞Θ)Φ²½ïG¢ä8┌ñPçÆ⌡├≡╖q&
+                                                              #╘r▐(3Z&φ├LoΣ±ÉZΣ¼è▌ΩóDîwV≈╠╕╟═ì╕H┴-ê╧ë"îjôR≤▄?z▀|Æ╬²ε+╨ì
+                                                                                                                       ␦á.ßRcî┴m╦√▐└Wßóµ╛▄₧╫bad decrypt
+DCAE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -pbkdf2 -in cosmic_duality_real.txt -pass pass:THE_LONG_HASH_STRING_HERE
+░ò;╗╪ß2ΓHª╥Amï
+              O╬        E5└²_ππ╦ï£)+╣3╨W┤
+                                         ╟ÿæ¡ä41åTÆ:s⌡╞␦¢S(⌐·╢Ö∙ÉJN╒≈æ╨YπQ.▌┬{;aO√┼\╓?┌mO
+ö¥'╩⌡ä9,4Wÿôéó/J5▐∞A Y║43╒≤á╦¥»(ô┤à;Ü^nS6R`║╪L+τ┼G╞9µA/h╩=m/╗≈Jd$D█Äƒ┼kñDs╫1╡}]!╠4╔({╪ ∞Σ╨bcjlNG
+iky!m)I╢
+        sYWCu&  φΣ╔ºV^Eëé■c╥█ ⌐^@╟æ¥╣└s÷␦Eiτy░BⁿvÇ|?äHq}╜d╚;╖⌠çj╛:(»╛╬
+╛¿Æ£x7ΓµCj²¬íASóyπúe╞Z`éⁿ╘y╝W╩(ç£▐▐ª÷τ│▄&û)▌ç┼÷╝α¿¿╗âOσùLn«∩╔═φ{z+áü╖∩¬ù═9┘%;ìë]
+                                                                                W╦┤Ö⌐à⌡òJσ`óCü═üN├@@ ¡sÆ^╪╡½█G3n;E[╬(êªM?πgz╩EÄWÑ¥⌡√7É£âWÄæHôv∞│ó-╧╫Oâ╫éM|mc│û5d5«½     /y⌐îA╣√OèhXS╛╞╪ │o¡!    ÇDôSE│í@║ñlR|H
+                      h▒B╤
+≥█î┐?╛x@/&┴v¿74╩5╦╬Θ≥≡$à∞┴SΣ±δ└4¡ùÆΓ9¿;╜,╒╕ô.─ùñÖ825Q⌠B=8B╜╦rπσ·RÄÇH¢⌐␦FL╖┐σ½α┤∞+█»íÆû_sï&.?⌠
+║╕½␦╠ù─¥                                                                          ∞`q▄U
+8█Gñ`s╗zâºΩy⌐╚≤ÿ^µ╧*eX┴│âO≡Ñα│æKL┴`φÿ┤σ460┤Z]û÷╝gì√B!-╤⌠(╕O├4a┐mä EZ₧o¼╣ƒ₧-2E─╫╤¿ÅóÜYäN(⌠£ßσ^~¢ á0/■qQτF⌠ù
+Wmç╚╩µK¡n¿>ƒ¬cæ4▒√s╪8h~A▐|╙¬╫J¿Æû█[╢N8┐Γ@`Ñ├¥J╪ÅÅ▌,²oal┼ó^²╠yúôÜƒv┤öxƒ'ƒycé╚áH└
+                                                                               îë┌ÅªD␦╫,UΩC}Z≥╝▒╥µë+±╣
+ù┬°£▌ù▀û£.╖Qe₧^U╤φa≤┬╕▒,┐¥╜⌠ìc╢O)═Vm1£≡VåiN⌠û0TΩubâ∙╞Æ{╟*{r:ÿipÿi1ù╥╡*┐ç╘ôz┬Äù╘σ∙τ]╩                  ▌((!°■E{
+Y▓o!bCÄc┤Ä█╥3╙▐═ó┘╟±╪v╩⌠┐[┘░Vhí┐bad decrypt
+C8920000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo -n "matrixsumlist" | openssl dgst -sha512
+SHA2-512(stdin)= 34a8118df51c74b471709b9cd2c49c51ef6ab549ab5ec4c6fa036048003527adf57718997d7fe523d4e13dd92408d7faee08930d04ab21050c5b826075d3d59b
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -pbkdf2 -in cosmic_duality_real.txt -pass pass:34a8118df51c74b471709b9cd2c49c51ef6ab549ab5ec4c6fa036048003527adf57718997d7fe523d4e13dd92408d7faee08930d04ab21050c5b826075d3d59b
+~Ω¢└£φZ┘│uâ W⌐
+              ╫oR┴
+                  O,ü_ó6>▐╗≤ßQ╟:tûΦ─Üj╧jO║RZ─╣¬¡è       ═we╟ëCÄ*F╨┌I"i7Lá!!Hêì╚═,φ▄└╖,
+                                                                                      #∩╙4╔@Kε4╧Ωä\┘NwEZnà⌠╤:~M0]E╦╨┌q$ûñ∩êâ&∙M6^╪╗r ñhH╘Φ\╥░ì^}%Θe╨␦ö¼(%┴_π}î±]Z#ä╚ë ÿO═πΩ░┤ó7╠muzD╝'ïd■=╪ ∙Üö▄µe^}π⌠∙⌡4Se└τÄ6∩¥L=σRÿ\¬Ç∙iì·°Q┐<╝╝öα¿α8y#╠¼ ▀<qy╔uƒG
+"ë█Ñv
+     NæB_╖╧└Å2û▌[è┘_a÷W.▒║wS$ë⌐{5àá■╞vI?█₧V%⌠µMαb·■-╧╠Σ$i2
+`+pt+`Cjσ¼3J═Ö9M,ë¼<««ÖΘïtb▀sÖI6╪½ⁿ╥g<╪┴b∩æSU┌╣ë*╙¡┬xd═P{∩╝fB┤/Å2ƒµ╘⌐°ⁿè≡╠╓
+                                                             Pï╔╤(%G`└╥ëc╤▀Üåóφ8/▐W┬τƒæK╚£C╠í╖9ìΦ¢┴{&úæ»╝ûa$T┌≤╘à≤·äÑΦu)▐=╦Xn╢eZîδ⌡+╓≥ΓIQ¢∞*ÿ≡%3╢δ½ä¬┐h╞∙\pú
+°òw▀ïLph╬E!îª╗ßxöhñ╗wd╔;╔ßÖ┴p±uB⌠\:ºª'┘
+╣φ╡─}¬⌡α╜pú<N╤╜┴G½▌╝X▄¥`+■ó╤?╦≤╬╒mΦsTó√τt╗¬∞*␦ænrXAî╘Σ
+                                             P═«∙▐╘Fä»g) ü∩ü:╛╒Xl⌐a(4ê└Év▐"\ ╛4Q┐·Bjαw⌠{4l╓W:φlsdeáeC╦(~Γ┬╢▓ⁿ∞╦╢╦Wæî¿kß╖ jñUS
+     U₧½╨?┘+⌠=Σ≥╒╠|─7r╬!yRΦ»6X9╫α
+                                 ü3≈ε9π╓
+∙`zΩWs: í¢╔c`¼┬
+░ú*≤rτ>╓╬qRrδLu[Q+Hñß▒ú¢\╩≈─█ë∙π╡π╦n╣│;ñ¿ä┼êñ╝╬0πq▓`bRB╜┬≤
+σás╓)|Lⁿh∩╝t^₧╗╠Γ╜÷éBàG═òE'5°v╨U≥╬ôíê
+                                     SσlC≈tτ±)ëXp_à·T╟■¢▒ L'Θs1G7~π1ÇS┬╙Üá╧ë╡√BR╖╠╬Q═S0╠╥k▀≥msε¥ì _l╗ú>Tuô╨┼w╜N<Ñ─@ij∞r╬@aòZƒƒ⌐Ç▌╗╓█╗<úa╥Z!)ª╠B}Z╥≤PΦ░L
+z▀Aö·¡▄J⌐£r╧3$áTT¢┌b/µ∙áæ^tº²s∞╝«├╚xe╔π$nyäïτ╠ÄÑzM¥Öτ╝S¼!Pπƒ
+                                                            s╦rm'╚j└Θªεg╟µ│ï╦lZáA(╬Dô╦öZµα≡7αpΓ9gF^╕⌡º
+                                                                                                      ½å¡0┘4₧Æ&┴X#-ö
+                                                                                                                    |QL╠$Zìτ┤4■└å6▌⌡î╬Yu÷bad decrypt
+18AF0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+b╪]$&Ä-A╨╣⌡h»,Ñ╟¬W*RAê; ─┌B╧╔┴█<Y∙zÇδ
+æow╩⌐JiΣä╘/±    ╤▒ä÷l.>╞^╨∞,/ë␦7æqPT╒F╦$≤≤WÆ#╠¼▒tY␦É7∙τ
+íÆB·ÿ░╪ⁿQY?kΓT}+Æ┬ì▄▒I-ÿ■HA⌠(üOÆÖN°t?╖■>·≡lp₧Bh4î╨}MτeûE╚▐␦┤Φ│µ─V;ån
+├╒hδT⌠x▄∞┌└Ñ╣Ió ?Φy>
+                    <u»}¢ùº;2C;íÉ╔┤ⁿçrvn⌡W¥δ$ëQOó?áN╓!i╘Æ╗zΣ%╪>X┬Å6┐du√π ╠δµ½Æ(YseÇ
+                                                                                   "≥mα▄á:KT0╔␦└╚╙ä⌐▒4≈û¢à^┼17[░Å>⌠d~▒c╕|(╡≤┤╖[Y(P╬πúl¥w7!u╪╦└{Uå╕Q║po␦Sb0╖ÜrsuDΩ_╡ε∙⌠«8hB<:ó╞sî/╢Q▓á¢█.╣       7$¢▌^A╤╒ⁿPÅ}pClìÇⁿvΣ
+$V┌ä≥QÆe1▓$Dä23b>V{ß⌐GrF'╞ßjlúö Rδ∙
+pΦn>φ¡╝^αüÖ %╗é╫{8H┴sê║S╟÷╚Y┴╨å£ìB╕gò·₧ß┘│═O^─└║&è╪^∞¬╒$≈ÿÉ▓åÉs!▀␦
+                                                                  ù╖ì▌ü╘B─5K╡ë¬ñ⌠ª╛f╦▀v┬9\i╫KÜ¿(n┴Ü°EaîΣ.'≥Y╨P∞A╘╜■LMσ╨╧àÉ>E,20µ╧║πP╥¼æΘù=╝:sCⁿCÑjW╖╛<DUR½Ñ&u√z╢╝3vF'Γe─╦ûX(y┐áò^0τΣ≡╙ΦL╠πxô╡∞g═Ad≤^êB5qÇ]aHf┘╦
+                                                                            ;D2K¬εçñ¿╤√╗ßΩW|{╝∩╣╙1
+7■0ÿ%Gδ╨c_û╖)≥╣(Nà φ\ê
+                   43¬ºRü7û╬┬ÄwÉ╢₧·ÿ╛7╙&F*:Q≡»ß9,±HC╧│ï╘P≤ó╤┼òí)3?╧÷▒╘D╕j╔û|▀>o░&εE/╫╒▒y╚\∩═╢ ═74÷cU¥╤  ╕⌡»␦╪¿KBΘ╥π∞»[r╧╝_ºü╬╡S│╡░ü├␦┌Y5-#gúüÑ░┤┐
+                         ≈B+ße·┼«╛|zÄb≈╙W6¼╚▀få╕~ⁿ│ç┌NF■kôs+¥a2Ñ1°Hk0
+·┐┤┘._░iP┤┤£¢wTτΣ;ºâ&Σ·i╞uA∩Ætmbad decrypt
+F4DB0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # This derives the SHA512 hash and passes it as the password
+PASS=$(echo -n "matrixsumlist" | openssl dgst -sha512 | sed 's/.*= //')
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:$PASS
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+xÆz╗√
+╗Ñ▒A?^▐cWW z&=╨▒αH?√C∞ª│¡F┼ÄΣ*IαZO≡éyp-─K^⌠∞Θ0≈ÿ╢⌠ⁿ#Zw¿`⌐¢∞_(⌠û┘┬╨┼╙╔êwo÷^Ysù7=┤88R:+mΓ¼z±HƒàÉq
+çDî╨²±6╙$b╧╘▐c5÷₧├7|bQ,ó&iP╛πdùO┼■3
+ƒn|┴⌡2ìf]4╡═z8┐µ±       δ¡Ñnεó█£─▌i¿Üåª▐«/r!πΘk░U╛╦àd9┴δC_ &╠ΓS╖╫(      ╟ÑW┌▌÷ c╞ßóû⌠FÑ{º{π
+Ç▌≈b¼±6╘úQ&√╥3º½»»╔#|s≥▒f3
+%-âµë{▐+pª¿1qJûqJ/V¿cïJ⌐≡ hΣ┐7Σ+ó±│½>┘╪▐┼╡ñ½!╒>ºS0└pε}Äk├`╔Ç~-fè═o╔╣q■├lè√_^oa╡⌡{ñô½╫Φm┌vü┘æ╨6Ñ»yû┘<▌PÖ+^½äm╢╙B╘ΩΓÄ▌U╦O╞0σß¬`∞╦HE
+▒/°░6-òèù
+         ╝r^á±vy:e▄µ4äy═Ö≈ñ6mwΦ*$┼uEñÑq║ⁿ¼fO-7╖╨Φm┐(╢┤╞wεx┴g}╜I zì┐ƒºUgö╘»$δQ
+                                                                             ▐6?¿Cu≤ê Fùëà√²│ä÷o╜_r█
+                                                                                                    df▒│_δxs
+9╕)⌡uTÉ5/Ü┘al╠{VÑt╩╗âd■]8)[uF8?±Q>ⁿ■█&─å)       ␦}M╔cWqα⌠D╩IbΣ2╩<╚D╬=ùΦ⌐r-=']-*─>küaIεç~╤~=⌡ ¥ÿÉ└R∞WûΓùù⌐7æçÅö║NL■├¬▄⌐g{╛┴í]δEΓÿv5└°ƒµ1!┬w(╩ìP╥H9£3kí≈╬ozHâWü
+                                     ∩π¢∙Qå├*(P]#K
+                                                  !╖⌡?δX╜S      ÿ9╖ï┌í╦r!½╥IéΓ║┴É▌_v┼0d8▌⌠╔÷¿┴| B'≈.úx[fR═δ&F╩Ω2ε}P±î_═`E╝═Ñn/«≈┴&Ç5╠æv├ⁿäΩG]_à»ö┬>╞ßÆⁿDⁿ⌠┐=º#1⌡f¡H[Z╨█┘₧+░╞?:eBc~2.ùaa┌û␦)k[▌k√ ^≡~ª╦Σ╓CV╬"╝H\₧Röí¬_Ün╔▀£╖Äl
+                                                                                                     mα+ì╦╣p╓ε½ùôp╩Ci≥╬ås┘╝+╣WNsò╣Vd7█Rz±ªH░±QµïV▌₧^πk7îôñ,┌ÉD4"░
+n┬₧¬ß╦càL)ÄNΣå≈ä∩ùN╜?φ]{f╬╚ÖKm-
+É½N^└xZ~B╛w5+¬≈p═É╜╝╤¡/╕4.╔c╢=≡ahgÉñë%S░¼╧Θ√φÅ
+                                              X8M┐{π╧╦yáU₧yîó7≤┤ôtu=uºYM█╣µ┴═á87íAsï«6 ┘[üX56ù╧½jÑ4L╞▓■■!ìè≈πôCê_&*óB8≤ïVLv/╨û∩_ƒ±╧aeK"a`ΘäσA▄i÷╚▌êö¡Ä┘U╨½V
+                                   i/bad decrypt
+B8D20000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:112:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:matrixsumlis
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+?| ▌╧µ╣-√[-╘lpSé)▓&vⁿ│i6≡╤:╘é┴JÅéÿ#∩úUHo.╫╒┘?╝f ∞╓½¬L═X╟«Ñ=X╤╓╗«ap¢å]s╪╦kî┌£8d¥·═ÿôσ3à÷k94H╧╤d
+                                                                                              í'µü·o)╩J\▒?êùP≈v▀ß╫jÜç┴°\g╚╬»
+├▓▐└    ╝∩.yOú¢ª,τ      ¥R_ªªπ≤Ä`T;'1$ ;┴╣d$²
+    N[8j>N¿à7üô╪o÷
+                  ┬₧#V 4S∞y
+                           º+C√δεQ *╛Y^Φ▓T#▀╙▌,╠1╧ñ╝$A␦RdΦ1±¬P£Mq»HÖ╣a╪ßs+½ú≈ò`╟TJ₧et1╧ï]òùƒ±≡É∞╣aÿù LÆb╝Oñσ╟▓Éê╣~z▌~Æèac╧▌╜n╨î¼[⌐SQÜûF4êåⁿ╒ï,σΓ??╡ïφ⌠∩╗â¬┬▓nrφ÷∙╟^¢à/╟╠╬
+                                                 V─π=└Ä_╜╡ï
+^?Q├╬ñ╣╩2+jiα▓▒║ï╡▀*╡αq╢┘▒ëF|ε8├)uL╕}▌Ω▓Ω!fφ¼V┼╙WPª
+             \p3i1╢9█f,'nVkò⌐üWsû;╠E√7p1X¢ùB╥₧)
+¥s╥#C3─╖[Æ;Ç$h╘p.H≤Ωç±▐┘r╬
+                          ╡p≥51┴╒L█zTRH┴à
+                                         ╧A┴l.√É¥ÅαrOT¢kf¢┘√æÖ+f ß ▒≥-ñ<\9²o⌠¬≡p╘E`┼─X╬xïδ┐¡£.HìòKùz[ydV⌐a5Φ┬ß␦τªüÉ╫uM9÷°│╒╔≤∙▓'╣¥▒çτ2=¬Pcφ¢╘╚╟╙GífΩ:f╨é▓)vΦ┤c>:KYiÉ▀x&␦ⁿôáÅÖp∙╟SWΣ:ƒhV¼╙Φ
+                                                                  ▐e±j≈QóC═▓╔&i/2MΘ┼≈º■g,ÜêíhB┬Ü        à╢╬ä²φ4yLl╖ù└ƒ╗MtµVσLÄ╜µ(Qä┐╦≡A² f":╢␦b@╬ûú■ä»é▄\sÅ∩≤Q¥²╤N╞5▐╨I█└
+⌐√⌠␦└*█i{s+╛╨╝o=<╨ú╗}j╞P╒░ -ⁿ₧ò≤░p&Γaáó╡φr°▓▐╨ùΣ(αs5└É4±Ω╜²ú╜┌Tù₧▐Cá╚╠≡ß*N≡╢┐i₧H£╖┴Äçn±∩ÿ▄╖╬├ⁿÑ)Pr│ºå
+                                                                                                     X⌡C+²¬╣«/ì _û %ü╜wWO═≈╝6wr╝<&ìow_┘┘ZVa∩6╠û╣T*F╛5¡æ╡4l┐µN╤╕φ╣▀▌RéαKi╥Σè6|%┬2o╔v√g▄÷╣uqò²;├L/4α▓]i┬ouV░π-"h
+                                                                                      ⁿ¢∞ô}├*û»zIHAσ▀▀φ╤ú═]c0à{≤HΩÉZ■f
+                                                                                                                      ]ì╕;T╬:OºïioUä┐[╦é▌⌠rëg
+                     'K╢╪|≤1┘┴f`\Γ,j╣Å¬─▌ù°┬≤x{╬¡└$Ñ|∙g═╧f=èOf┼ ⌠r≥£ûQα'╖H{qƒ╟╤é░
+                                                                                 apPm╗╝ÄTITR∙:⌠⌠]D ╤▀╣bh╢=▌δ╜awÖïuçnò∩φ:^oT┘ô╥i⌡óº=?▓#φ├U
+                 í/ó>¬▓â╘2[╙╣╕╬bad decrypt
+10960000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+#kq¿╤óΩ╬'8░ëgâ▐7╔█╦«(█*╨>╝¢Ñjnc╨.SwíÉ¼ir
+▐[╬π«c££⌠zΣ Å+■╙║íY┬ö½½┴Xwgµù▒\∞ÿ=÷ù¡VG┬r╒¢#>Ö|ÿXL╨]àΦiI╓v└╘fîvÇφⁿ#-/ªUm#U▒;úQ}ε å
+»┘·í⌐╝`ñLδ╙h╗┤Ωöµ@.,                                                 à╝dßεu)╪nÖ¿␦₧├r┴\6█üdQK┌Ñ2╗d¡┤ⁿ:èε²ë║bsG╔[▒R├╚t¿üæ
+S-B▓αçiⁿ▀£ç⌠ÿÿW':√F╒Ü│ú█Φ╒∩╜4¢φù╙≤èL3-╘j╝╫n▌Æ╠:∙)q+¼zA
+                                 »π_º.¿:$RΩ╠:sæ┐±Æd╠╨z⌡5>╬h.█]6╗ï;!Sß)t9k@P«h\rHµ┘▀+┐≥+oªm╕<    *φ@╛#A∩╪√╛Æ/&µÜ╔8├ o~┴s2óvIyL
+%tsò╒6║╓╜ ╪√'␦╨╣¥vÑÉ│╚▒Γ╢ä^≈≥⌡┴u~DΣÅ≤╨âEÆµ╛J╟ñc╘h^äαK@3N@)╟ΣrUzαΓ.Γ┐j5?╞ou╟Äß,Φ1╬░aóH╞7é█J½@ΘèSO├,└_≤╓╙ï_┐
+                                                                                                                ╡KyìΦ╢└╖¢&9èd_}
+       #£è╬zÅ&0,╖kΣ°*Θ≥Ä
+Zik╤┬')▄ÜΓL╖à╦e═aδà▓½nlaHmaòQ·|Mn▀ⁿ:╓O.¡Y·Σéâ╓LΓPYwEF<6;═╓Aº╢²í%$uM▒║⌐≈;δú3zå:qτÉt¿É║▌ÿå╦Ir ,Hd╙Üá*7]░yò█╫⌡╧┐g├▐i√▓Σ÷∩oê╚╙╦#¼a6A╫┴╟q%Ω~┬▒vΦïπ╦≡ƒÑ⌐⌐Å?ƒüN┴║≥.l»ëΓ␦èτ:gN╥O
+                                                û┌g╧pâJº?@│└/9]i╨╖D╚Fà"ΓçJ+Éφ∩Rû┬;î╬:pè║ß)î▐c
+
+                                                                                             H≡X▌;~╖}îí8Dûì}α1Yp5n«╪y╥'÷═░■GéDBïü7pεç╣å
+}╚├zΓ╛:àÅºpÅ`   ÇuH(Θ3ÅéW2╕╝╛⌡;öφ«¥5╫+│Tl
+âª(mMεzTH\H+#ì[■áªL*εh»;w6P6╙±y4
+                                ZfªΣ@@m_53KΣδyε%╔ïÇⁿ│ªèO)╨x∞"b÷₧:J╬2░T╓∞╨rV¬╘t½┬}"[
+                                                                                   ym£v+σÅc>Üâ╢«⌡w%
+                                                                                                   Há╩Dú╦âZ°2mZº
+÷òbσEüτÜ3■r₧zF0g║ù╗┤╟▓Jÿ4\úgfⁿ^╫¼AG·}
+╤m▐
+   Æú╔┬│½REhU,Q"ì 
+[╧φí:q¡εÿ═^ß≈δI▓âÖé/W!b?╛l ╔╞V}KπÑäεë╟ x"(2╒µ=═Æ╟▌ë½Σ∩ÑCPMnΘ╞═√╔╪Rz╬⌡ â┌?ÖWσ│¬g≥≥┼=-W╔I┌mh╓╠Nc.ÅV░
+                                                                                                  ^bad decrypt
+E0BE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # First, generate the hash
+HASH=$(echo -n "matrixsumlist" | openssl dgst -sha512 | sed 's/.*= //')
+
+# Then, use that hash to decrypt (forcing legacy MD5)
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:$HASH
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+xÆz╗√
+╗Ñ▒A?^▐cWW z&=╨▒αH?√C∞ª│¡F┼ÄΣ*IαZO≡éyp-─K^⌠∞Θ0≈ÿ╢⌠ⁿ#Zw¿`⌐¢∞_(⌠û┘┬╨┼╙╔êwo÷^Ysù7=┤88R:+mΓ¼z±HƒàÉq
+çDî╨²±6╙$b╧╘▐c5÷₧├7|bQ,ó&iP╛πdùO┼■3
+ƒn|┴⌡2ìf]4╡═z8┐µ±       δ¡Ñnεó█£─▌i¿Üåª▐«/r!πΘk░U╛╦àd9┴δC_ &╠ΓS╖╫(      ╟ÑW┌▌÷ c╞ßóû⌠FÑ{º{π
+Ç▌≈b¼±6╘úQ&√╥3º½»»╔#|s≥▒f3
+%-âµë{▐+pª¿1qJûqJ/V¿cïJ⌐≡ hΣ┐7Σ+ó±│½>┘╪▐┼╡ñ½!╒>ºS0└pε}Äk├`╔Ç~-fè═o╔╣q■├lè√_^oa╡⌡{ñô½╫Φm┌vü┘æ╨6Ñ»yû┘<▌PÖ+^½äm╢╙B╘ΩΓÄ▌U╦O╞0σß¬`∞╦HE
+▒/°░6-òèù
+         ╝r^á±vy:e▄µ4äy═Ö≈ñ6mwΦ*$┼uEñÑq║ⁿ¼fO-7╖╨Φm┐(╢┤╞wεx┴g}╜I zì┐ƒºUgö╘»$δQ
+                                                                             ▐6?¿Cu≤ê Fùëà√²│ä÷o╜_r█
+                                                                                                    df▒│_δxs
+9╕)⌡uTÉ5/Ü┘al╠{VÑt╩╗âd■]8)[uF8?±Q>ⁿ■█&─å)       ␦}M╔cWqα⌠D╩IbΣ2╩<╚D╬=ùΦ⌐r-=']-*─>küaIεç~╤~=⌡ ¥ÿÉ└R∞WûΓùù⌐7æçÅö║NL■├¬▄⌐g{╛┴í]δEΓÿv5└°ƒµ1!┬w(╩ìP╥H9£3kí≈╬ozHâWü
+                                     ∩π¢∙Qå├*(P]#K
+                                                  !╖⌡?δX╜S      ÿ9╖ï┌í╦r!½╥IéΓ║┴É▌_v┼0d8▌⌠╔÷¿┴| B'≈.úx[fR═δ&F╩Ω2ε}P±î_═`E╝═Ñn/«≈┴&Ç5╠æv├ⁿäΩG]_à»ö┬>╞ßÆⁿDⁿ⌠┐=º#1⌡f¡H[Z╨█┘₧+░╞?:eBc~2.ùaa┌û␦)k[▌k√ ^≡~ª╦Σ╓CV╬"╝H\₧Röí¬_Ün╔▀£╖Äl
+                                                                                                     mα+ì╦╣p╓ε½ùôp╩Ci≥╬ås┘╝+╣WNsò╣Vd7█Rz±ªH░±QµïV▌₧^πk7îôñ,┌ÉD4"░
+n┬₧¬ß╦càL)ÄNΣå≈ä∩ùN╜?φ]{f╬╚ÖKm-
+É½N^└xZ~B╛w5+¬≈p═É╜╝╤¡/╕4.╔c╢=≡ahgÉñë%S░¼╧Θ√φÅ
+                                              X8M┐{π╧╦yáU₧yîó7≤┤ôtu=uºYM█╣µ┴═á87íAsï«6 ┘[üX56ù╧½jÑ4L╞▓■■!ìè≈πôCê_&*óB8≤ïVLv/╨û∩_ƒ±╧aeK"a`ΘäσA▄i÷╚▌êö¡Ä┘U╨½V
+                                   i/bad decrypt
+08D10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:112:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Generate the hash for the long phrase
+HASH_LONG=$(echo -n "theflowerblossomsthroughwhatseemstobeaconcretesurface" | openssl dgst -sha512 | sed 's/.*= //')
+
+# Decrypt using the long hash
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:$HASH_LONG
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+¿⌡≥¥Z╤i\╔╨u∙[╣éL≈x╨┌╔▒4∩φaDσz'Φïÿ≥@ô%ÿò▀┘Mα─$h╡╒j¢@µw█rí_tnîτµ&Rê╡┘ÿ#`║∞¢Äô■╦⌠ⁿ¥H╧╨»≤|Γ═╧M)ñƒ Lá Mïµ▐b`≈"·U█⌠Ñêùï
+                                                                                                                 àf╡¿-,╤¬é[≡i¿^ò\╪╥çÑΦ≡σ_$1╠■_m9ⁿ)╗ô°╪╒fX▀ñ╛╩>H╡╜√
+                                          G╞1é╠ÿ ¬ÉVG√
+                                                      ¿Rç╔.ÇΓ╬Jî
+                                                                â▓πúnΦεÇD9╡╟√▐µ╕$²*┼è°fN;A@¥`▓°ⁿöwU╚}ßïèny░h╟\s▄ÑÆ▀ƒ├ÉΣY6]J     V╨º;U Φù*Kù╞°
+lIg║z{b╗:█Ch└▀       @uì@!╓δ V*j(∩HτoσKX╞ô»+î╬╛V}╒f╣u╘╧FúH╨X╒1ë'¢▄╔h    [ƒα[╢%»ªmφ¬àr╩1─O╙A
+Σ°╧¥Ö8▐A╞;σ╚'÷í▐X`+á!}╪M'~LhbºW!0cÿ≥²Uåp▓åf{√╖ⁿ£
+                                                L,@'»⌠U╘╢╦½¢(╞└] iàóΘy╞a[╖a■â¼mYRπEé─±å┤é╢≡ ╨┘ÿ °o▐T>p·V╙e┌ T
+roU«%╘┐0¢Kèjx╕¼╙@:^sò▐T
+|ä:Θ ■╒ƒ├ÿw╧ƒQo|π\k└÷▄╪!└îÄD2kE┘êÅ!W±ÑM<
+                                  ht:╥7╚âÑàΣ~>╟µL┘▌∩J└R¡¿┬µφpIuqû┬?àjφ∩V,ë╧É▀╘÷Γ~ê`NH╧δ
+                                                                                       æäΣä2╤╩k°Ææ╡╔8B;6qüΓv@²²'±ë≡|≡Y½!ε╝iYäöt[┤o Da╧üºr^╧$l7í₧"╫╡╞ñéô*è÷╟è┘öφu²±φ\1]*║╢ª░√^␦≈)¡╛bLíäÄï²nå└Hδ╣/P┴ñ=0haH╙Äñτ╩▐9l╥╢Kú>UE_ª┼¿
+φ₧cå≡8╪+9[╗íφ«u█        δδ1ÆüA¿a╡Σ═µΦÅèº▒├RiSCèï┬┴␦»£╫&VfΘ,ß≥GD\₧y▌ åf=⌠╩ZC╣Ñ═╥D¡╖ñæºó≥⌐g╕ε╚π|▄╚L≡RJ=!╦u│┴ç4G÷»O▐}$║∩B¬Ww²ΓQQk·│¿nGg¢ε␦α≈!±Æ┘{osó7=7SUu╧ëÉÖ
+                                   ²╒╛₧iGå╣?FJ╧ÜwÉ╣Q─!ñ╨ÜjO≡½½!─m╓XΓ@3è╪╡       !â▀▄┼ƒëb⌐å▄╔}%x▓O)ôæΦ-Q~÷╤B─α┼Jâ@┘╓Ñ6┌¿┘
+                                                                                                                       ¿w╣Uô@D≥^ÄΦt╨╓.▐-\Cñç8>ºÿΓ@di!b+⌠#å°# Σw⌠9ⁿ.╧YÑ±V⌐       \è±||²┬L/ENδ/╥ª╖Åîìúû√s,½√■╖l═┌╓ò≤ç╣¼Å²╓▒:╕╟Φ¬Z ┬τ²úägZ∞∩▌w░^P≥█ì}H╫╖V╬├c╜─á½ⁿ─ó|║~,≈░p;4▌q⌡╠╝╤.σ ▐ΩT5 bad decrypt
+40F30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # -n tells echo NOT to add a newline
+HASH=$(echo -n "theflowerblossomsthroughwhatseemstobeaconcretesurface" | openssl dgst -sha512 | sed 's/.*= //')
+echo $HASH
+# Now try to decrypt with legacy MD5
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:$HASH
+7bcd8e54447ccd37ef77c4afa8d06b28cfba14c8e5d75fbc16a0d64f9b749df2030ffa4c3eb56d1a4fa645f6c234a1c118292e6c25a59c1d1a67fd6b5f7152ef
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+¿⌡≥¥Z╤i\╔╨u∙[╣éL≈x╨┌╔▒4∩φaDσz'Φïÿ≥@ô%ÿò▀┘Mα─$h╡╒j¢@µw█rí_tnîτµ&Rê╡┘ÿ#`║∞¢Äô■╦⌠ⁿ¥H╧╨»≤|Γ═╧M)ñƒ Lá Mïµ▐b`≈"·U█⌠Ñêùï
+                                                                                                                 àf╡¿-,╤¬é[≡i¿^ò\╪╥çÑΦ≡σ_$1╠■_m9ⁿ)╗ô°╪╒fX▀ñ╛╩>H╡╜√
+                                          G╞1é╠ÿ ¬ÉVG√
+                                                      ¿Rç╔.ÇΓ╬Jî
+                                                                â▓πúnΦεÇD9╡╟√▐µ╕$²*┼è°fN;A@¥`▓°ⁿöwU╚}ßïèny░h╟\s▄ÑÆ▀ƒ├ÉΣY6]J     V╨º;U Φù*Kù╞°
+lIg║z{b╗:█Ch└▀       @uì@!╓δ V*j(∩HτoσKX╞ô»+î╬╛V}╒f╣u╘╧FúH╨X╒1ë'¢▄╔h    [ƒα[╢%»ªmφ¬àr╩1─O╙A
+Σ°╧¥Ö8▐A╞;σ╚'÷í▐X`+á!}╪M'~LhbºW!0cÿ≥²Uåp▓åf{√╖ⁿ£
+                                                L,@'»⌠U╘╢╦½¢(╞└] iàóΘy╞a[╖a■â¼mYRπEé─±å┤é╢≡ ╨┘ÿ °o▐T>p·V╙e┌ T
+roU«%╘┐0¢Kèjx╕¼╙@:^sò▐T
+|ä:Θ ■╒ƒ├ÿw╧ƒQo|π\k└÷▄╪!└îÄD2kE┘êÅ!W±ÑM<
+                                  ht:╥7╚âÑàΣ~>╟µL┘▌∩J└R¡¿┬µφpIuqû┬?àjφ∩V,ë╧É▀╘÷Γ~ê`NH╧δ
+                                                                                       æäΣä2╤╩k°Ææ╡╔8B;6qüΓv@²²'±ë≡|≡Y½!ε╝iYäöt[┤o Da╧üºr^╧$l7í₧"╫╡╞ñéô*è÷╟è┘öφu²±φ\1]*║╢ª░√^␦≈)¡╛bLíäÄï²nå└Hδ╣/P┴ñ=0haH╙Äñτ╩▐9l╥╢Kú>UE_ª┼¿
+φ₧cå≡8╪+9[╗íφ«u█        δδ1ÆüA¿a╡Σ═µΦÅèº▒├RiSCèï┬┴␦»£╫&VfΘ,ß≥GD\₧y▌ åf=⌠╩ZC╣Ñ═╥D¡╖ñæºó≥⌐g╕ε╚π|▄╚L≡RJ=!╦u│┴ç4G÷»O▐}$║∩B¬Ww²ΓQQk·│¿nGg¢ε␦α≈!±Æ┘{osó7=7SUu╧ëÉÖ
+                                   ²╒╛₧iGå╣?FJ╧ÜwÉ╣Q─!ñ╨ÜjO≡½½!─m╓XΓ@3è╪╡       !â▀▄┼ƒëb⌐å▄╔}%x▓O)ôæΦ-Q~÷╤B─α┼Jâ@┘╓Ñ6┌¿┘
+                                                                                                                       ¿w╣Uô@D≥^ÄΦt╨╓.▐-\Cñç8>ºÿΓ@di!b+⌠#å°# Σw⌠9ⁿ.╧YÑ±V⌐       \è±||²┬L/ENδ/╥ª╖Åîìúû√s,½√■╖l═┌╓ò≤ç╣¼Å²╓▒:╕╟Φ¬Z ┬τ²úägZ∞∩▌w░^P≥█ì}H╫╖V╬├c╜─á½ⁿ─ó|║~,≈░p;4▌q⌡╠╝╤.σ ▐ΩT5 bad decrypt
+E0F20000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+ⁿÆ≤PU]*ÆΦ▄δ√Σú╖b,Ö┴·┼r:╚P5tπX╜╧¥║m:<yÿB╜┤/&B╔█"╛ß╡Ωⁿ#▀_▓¼┴╡⌠w≈<_4F7ì≥ƒ¼"≥≡µ÷≈╒ôë
+∩0â∙                                                                            Çú└␦╪\╞╤,▄∩╪âEº»¬êûàΩª
+C$ %␦:┴ó╘▐┴ΣÜ≥@*à√█Θ┤ⁿ╝µd.|wVé┐⌐!¢,KºnºφGl,íºÑÖºÆΓj¿f+▌╪Y°U∩º:6ÿTO¿╚H
+ß¼φ?}-dClk▓╕aW␦D≡
+¢∞SÉ'gª╪_Åτt■√(Ä≈a└º}└╩]6c
+±Ç╙+ú'╛␦ô=¬î!¿~√Y┼Ig4éz╤½YP'⌐ª½╜║¡>∞ò·}Bσäd─▌zÇφy<╝,î»⌡f║L╦␦ñ╗]
+                               fKT K¡qj_è       ░<æú╚l
+                                                      k¬=X7[╫ñ╠E␦²■αòWI√╢b5└Z╗≡!/≥íæαÿΩ)░░╬ª▐┬'ö⌠zäe╛Ö╚␦wK\k¼?êìå╛åL█ë╫÷o▒xòPc $·êÅD␦╖`ó▄αì≡l'£LM]¢Ç^│ΘτH
+╝₧N»Γσ¿½v²Σ+╬╤┘Ñö~ô»▐?R∙ΩHß~╓Ççsδº▀I°(▀≤s=F,╦¬«î-KA~Ñ{Æ~╫ï╣τëTªµôjåä␦B=è╖╝φ≈çX─¢═öfd╧[╓■ÆJ╓y c÷╙
+>∞-ô772φb╞I{√╛di÷9Q½lÆç╫D─9â═t·»
+                                ú?°╨Zi■
+┼¢■hm╒╤▒▀/²(í.≥╢▒■zMûφσ╤XfΦIσô╔≡²╩π╞>╓╘π╕H┤å°╛£╥^│:╗╕τ≤±╥
+                                                         ñeæπ∙Ü├¬xv≤*╬î├╢αú«<YK╪lΓ≈GA╘¥à2ñ┌K├K"3ÇñÜfµ½ ¿╥▀]c7Ç\*E┐ï┘▓*EêmΓ!╟╒╣░,φ>µæ|D3ª╫|╜▒<8úåî"┼Uƒ.▌â╫üô│╣└FBs≈!▀δd5ªh╘₧5°¥╖∞æí▓╦▄╥í╥A«të╓û]░BÜµsΣSa└╟@«î■╪>ßvG5\¼▒~▌öⁿ%ì┬▓Σª╖╖úO√@╥;k!E╧Ö└_:≈²╟S[?╛Æ&8è╝^≥P╕°q(╙R│
+                      πÜ÷╚.╤■ƒ│f╕∞╖nñ╤ÅΣb3sΦ⌠Tv╠`╔µφ;°e╚E╟▐Ma╘4
+▌p╜Å╥┌Kⁿ║■╗█R8␦~ï⌡NAm⌠ï±$╝Ω
+╫Å                nÿWå
+Γç9╤«╘╟¢ⁿ9µri7ëüα∙⌠6σ£j⌡≡.å!╒°b?æ*o,Æ┴á⌠x╚╝√y╧T÷π\█╕ï╟PKB
+┘jR¼ƒ1YP+»yδµ7q·Ä}{É⌡¢┤[,!Æi▌│q┐Gòo≤ym&∙àux╓M¿^mτφkÜT╫Z\┴wwöå│¼╥::÷
+¢║ü┐╠f░H╨╟ºσ∩fÇd■┌▀ÿ╩v9═╪│⌡}╤#ûÿSæ≡┤|╓,öK`h└!═q┬╖4«╢τ░xéπ,w╚«└uº╠µuñÉ⌐bad decrypt
+44320000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+#kq¿╤óΩ╬'8░ëgâ▐7╔█╦«(█*╨>╝¢Ñjnc╨.SwíÉ¼ir
+▐[╬π«c££⌠zΣ Å+■╙║íY┬ö½½┴Xwgµù▒\∞ÿ=÷ù¡VG┬r╒¢#>Ö|ÿXL╨]àΦiI╓v└╘fîvÇφⁿ#-/ªUm#U▒;úQ}ε å
+»┘·í⌐╝`ñLδ╙h╗┤Ωöµ@.,                                                 à╝dßεu)╪nÖ¿␦₧├r┴\6█üdQK┌Ñ2╗d¡┤ⁿ:èε²ë║bsG╔[▒R├╚t¿üæ
+S-B▓αçiⁿ▀£ç⌠ÿÿW':√F╒Ü│ú█Φ╒∩╜4¢φù╙≤èL3-╘j╝╫n▌Æ╠:∙)q+¼zA
+                                 »π_º.¿:$RΩ╠:sæ┐±Æd╠╨z⌡5>╬h.█]6╗ï;!Sß)t9k@P«h\rHµ┘▀+┐≥+oªm╕<    *φ@╛#A∩╪√╛Æ/&µÜ╔8├ o~┴s2óvIyL
+%tsò╒6║╓╜ ╪√'␦╨╣¥vÑÉ│╚▒Γ╢ä^≈≥⌡┴u~DΣÅ≤╨âEÆµ╛J╟ñc╘h^äαK@3N@)╟ΣrUzαΓ.Γ┐j5?╞ou╟Äß,Φ1╬░aóH╞7é█J½@ΘèSO├,└_≤╓╙ï_┐
+                                                                                                                ╡KyìΦ╢└╖¢&9èd_}
+       #£è╬zÅ&0,╖kΣ°*Θ≥Ä
+Zik╤┬')▄ÜΓL╖à╦e═aδà▓½nlaHmaòQ·|Mn▀ⁿ:╓O.¡Y·Σéâ╓LΓPYwEF<6;═╓Aº╢²í%$uM▒║⌐≈;δú3zå:qτÉt¿É║▌ÿå╦Ir ,Hd╙Üá*7]░yò█╫⌡╧┐g├▐i√▓Σ÷∩oê╚╙╦#¼a6A╫┴╟q%Ω~┬▒vΦïπ╦≡ƒÑ⌐⌐Å?ƒüN┴║≥.l»ëΓ␦èτ:gN╥O
+                                                û┌g╧pâJº?@│└/9]i╨╖D╚Fà"ΓçJ+Éφ∩Rû┬;î╬:pè║ß)î▐c
+
+                                                                                             H≡X▌;~╖}îí8Dûì}α1Yp5n«╪y╥'÷═░■GéDBïü7pεç╣å
+}╚├zΓ╛:àÅºpÅ`   ÇuH(Θ3ÅéW2╕╝╛⌡;öφ«¥5╫+│Tl
+âª(mMεzTH\H+#ì[■áªL*εh»;w6P6╙±y4
+                                ZfªΣ@@m_53KΣδyε%╔ïÇⁿ│ªèO)╨x∞"b÷₧:J╬2░T╓∞╨rV¬╘t½┬}"[
+                                                                                   ym£v+σÅc>Üâ╢«⌡w%
+                                                                                                   Há╩Dú╦âZ°2mZº
+÷òbσEüτÜ3■r₧zF0g║ù╗┤╟▓Jÿ4\úgfⁿ^╫¼AG·}
+╤m▐
+   Æú╔┬│½REhU,Q"ì 
+[╧φí:q¡εÿ═^ß≈δI▓âÖé/W!b?╛l ╔╞V}KπÑäεë╟ x"(2╒µ=═Æ╟▌ë½Σ∩ÑCPMnΘ╞═√╔╪Rz╬⌡ â┌?ÖWσ│¬g≥≥┼=-W╔I┌mh╓╠Nc.ÅV░
+                                                                                                  ^bad decrypt
+90B90000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md sha256 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+╣BhçÇ
+     ÷╞▓Uó.«KJ¬φⁿ7b!é▌αéN`╒dε╝
+%¢W▓¬>xα∙ì-~~el╨^q
+                  z]í!ELé£~┬ÿO│▌-eW@áA⌐Ñ^⌡WE│∩╟╘₧■?âÉ "₧¡┤?x╕²Ñ╫:≡╪;Cëmqc╠─wä╧└Yδ)7'M⌡5┴╛Kⁿ╘r≤. δ¿*¬oiòò╥ê?╝=∩  ╤y·,╡V┬¥4÷α-╡
+     còÉΓ4(:g«îyZ¢ëÜYâ≡e
+¢▌╠ë╡z|=HPfì~Φ'u┌*▄â¡╓Θk]3+÷'4¥εk∞¢Lw°úº;º1+5╢{ÉôZmêi^Σ:q╗| òz╖&`▒0t∞
+                                                                     ƒ╔5▄¼êÖ¿à╝æÇcY░4╞Y╥≥┤5■c╫£2┘âƒ.M¥≤┬┌a¼)¿.
+╘ ± µ╞)pS═|bπ   ¢╙¢Ç≡∞┌ö╩2␦═µ╧!x8+%a.ÿ╠uê       e
+                                                 Qµæë
+                                                     7f│╤f½p∞t╤w:┼v┐%─7┼Y└)╦ö2╤ô·í.⌠,Ç╛?7èû!Y₧òí9æd\-π┬~¥╨7*PxK·\┤╓uAê╪b═äAïûÄ]
+jçM╠ÿ╙[╬ôΘi┬òX= u#╤\T\lΩñ`┤R"Σ.«8╢ì┘ù
+äí∩╩▒Vm¿∞I╔┌╤R`LórUh▄ûK²"├@.º₧oßsæºë┐≤<5@┬zip}Ö≤V¡Ü╛Åj`s├?BLÿ#¬@OIÑXcæk
+                                                                       ■ûóñi╛Ñ╦CV*⌐▄V·╛SV;p7αW8çî╣^íijtT"ñ╛Q,└┴ε«╫Y¥D╢
+                                                                                                                      ª>┤â
+  Θòw`▀µƒⁿxóë«x_Öcê|sπ  ⌐7¿½wë≡e≥¿àΩ═z╦Fε>µ≥xⁿ⌠Kl*¡°Aé±4p≡^p°Ö5╚cQτ>²é┐sƒgB√v`BFFuƒñ{▒⌡╕τ╖!≡0<ÆA╜L!╝è╕éÑ▄√lΣ7Rº"åaªä°╜u╞òF╛L╗|àm╦½├ ΘHC.╛º#═U╠|*ⁿE%ÄN3σ┌┐⌡D²@
+                                     ╤dφÖ▀\í≤òs▒╟xa╞␦$₧1Ñâé¥¢ï{6ve∞∙ô2╫aµ▐␦╙æ▄Iδ,Σp┤╙xç&╣■Ö>╒]╢▓ƒ=°C/B█pcsX:
+                                                                                                            gτ" Aδ■á▀┬Å╠úîÿë{─RX\i╪╛Ç^àgJr µPyK╫¥║╦₧Ü⌠A|oKƒ∩M,P╨ia
+wAZåg{Θ∙²▀Üo»⌡■╤w{■▓C^╬ñùµ╥.üç█Ph⌠Ñ╤µ[2h≥ô╘h»σ└"EH@æGΘ┐╡τ═6⌡1╩ô╔Θ2▌√RäÖU{┌·╖┐æ.¿LV`M@√V÷J¼~     ╠╩1!ⁿáLπñß{ºtö/wσ₧Ü± ╬H╬4φ╬¼≡ú& ½ia*┴┤0á¬½ç±ε─╪Qφ
+                         *≈░Sz▌Ö╢p╗╝=x0 *>xóUT└ak:╥Q¬   1│J2ª▄╫æ␦╘G>µG⌐╙#
+                                                                         ≡.IÉ6ë∩aNJyr╕4é.Å¢Um+ñ┘&ÉIµ⌡ös╬|wXLfÄT »≤│ë∞ÿ&XE~3º╛ooï|Ñ
+Ω;åïX
+     ä
+÷v]╫Σ⌐M╓▌░├eα╛NΩσÉóHbad decrypt
+0CD40000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -pbkdf2 -in cosmic_duality_real.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+═0φ≡( ╒X└Ω^6Ä¢ú7!π0Σ∞2y╟Cæ;╚;╧≡╕τ:∞Æ╦_⌐mI(╤¡p1Y0√ÜC9w%╔]αV√?w~<#n⌡î▀╞0R3≥≈▐╝"8]┴        N1~╠Fƒ╬┌OÑ)AAötYóTAC(Gx'╓)â,BuΓ∞L∙╥στn¡,æ╞₧8«·IΘ╝Θ.4
+                ╣╢δ·Z╧wú¥KëU
+                            /~
+                              ╞ª!╓AIú■Wà ^╕─▓├±Cmτ╝!╢▀)Σ╠ú╨Σüo╟@;╡
+[╪╤}ΓÄI╝╪Do█√≤┌τ+(k┤Å╝·U┤cH⌐°ºP9∞¿ƒf%ÖK(
+                                        ╞╥nä\ep)=J╩=▀²δmQ░╤ç▄ ,(å╖w▄\bƒ┬Z¡;F.╪+␦╡'∞╚O╜ZéñßD₧∞q│└╞╚╢╨?╥Ü≤í¿ì√■╚┬Uüò5<¡n«╖x╟äKr─b/╒#▄φ3íòƒ2╗qJ╥┴v¡p╒T|?uBè┼òºÇEx?αKbª8¡₧╖ººî8ì4f¥┼ëφÄ^║╚KÜ~7╤ 5┤t`        8╧µû\awv■┴{]0G3°l9RΩ╩ε
+                                                                                                      J2IçåW╛┼:╩hEQi␦╤6Eâ_ìºZ%=r≥²¡wûú├▒UDq≡Ü~┬°7┴█╟P~Cª        óTù╓Dε┘r╦]3%Ö$\░ÇDIr(█Σ≈Σ5=     ÅóòÿHR╔╬Iéƒ ╧╢∞╢F╩Θ,äç,N«╖╒lªΓU■⌡¿╩;æ±L╪MåùKq≈─åÖ█±╥╝*æbó¢Z     G(S╨ƒÅ┼h∞y╩i~·├9oXò«0╦%φ▀ ▄]▄╣C╞⌠Éí≤º{╘è?┼$╨Ç╙qçáÉö
+m/PD Σφª÷ºg╙<O─▀}!x=3∩┤│gz¢"ûRπ)ⁿ;÷τ%                              É`%VUÇ╖~
+N╝^▓ïX░úⁿk≡iHx┴ÿ≈ fY┼S╕róKé Φy9O(2i>ΦΓ╥⌠IQêb#⌠ät⌡Càë!π;0ε┴²J█Z█°╪/EΣ■IV┴║       á½│6┌╩@│Zï*d£í÷î┘îò#┤]╩├è√?æ3φ¢\E7CO|ÆK╕┌àr¡y╧àëç╢µü┤┬;;+╦½b
+                    ÷
+▐⌠3ZeÑ├Xôû┴┴U<≥â·┤±±ÜV≤▒ⁿ!;«9¬ë¬╔#`c╜╗╢┼└7╓Ñ'╘Θ
+δƒα╚╔ò~█╩∩╞_XI] íX\÷à±+ΘΘg%<▓═╝â±╘ùµ,D« ■TJé-╞¢╖┘ûΓⁿhz∞δ╝\ƒ$▄Ibo,$]h∞ÉY2█╓¼.Ωkφ ╟╠*δbad decrypt
+ACE70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_content.txt -out answer_3_2.txt -pass pass:matrixsumlist
+Can't open "cosmic_duality_content.txt" for reading, No such file or directory
+4CE70000:error:80000002:system library:BIO_new_file:No such file or directory:../openssl-3.2.4/crypto/bio/bss_file.c:67:calling fopen(cosmic_duality_content.txt, r)
+4CE70000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.2.4/crypto/bio/bss_file.c:75:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+84850000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cat << 'EOF' > cosmic_duality_real.txt
+U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR
+EOF
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+74E40000:error:1C80006B:Provider routines:ossl_cipher_generic_block_final:wrong final block length:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon.c:443:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cat << 'EOF' > cosmic_duality_real.txt
+U2FsdGVkX18tP2/gbclQ5tNZuD4shoV3axuUd8J8aycGCAMoYfhZK0JecHTDpTFe
+dGJh4SJIP66qRtXvo7PTpvsIjwO8prLiC/sNHthxiGMuqIrKoO224rOisFJZgARi
+c7PaJPne4nab8XCFuV3NbfxGX2BUjNkef5hg7nsoadZx08dNyU2b6eiciWiUvu7D
+SATSFO7IFBiAMz7dDqIETKuGlTAP4EmMQUZrQNtfbJsURATW6V5VSbtZB5RFk0O+
+IymhstzrQHsU0Bugjv2nndmOEhCxGi/lqK2rLNdOOLutYGnA6RDDbFJUattggELh
+2SZx+SBpCdbSGjxOap27l9FOyl02r0HU6UxFdcsbfZ1utTqVEyNs91emQxtpgt+6
+BPZisil74Jv4EmrpRDC3ufnkmWwR=
+EOF
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+30B30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+F88C0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Generate the SHA-256 hash of the password
+PASS_HASH=$(echo -n "matrixsumlist" | openssl dgst -sha256 | sed 's/.*= //')
+
+# Decrypt using the hash as the password
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$PASS_HASH
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+94B50000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # 1. Generate the SHA-512 hash correctly (no newline)
+PASS_HASH512=$(echo -n "matrixsumlist" | openssl dgst -sha512 | sed 's/.*= //')
+
+# 2. Decrypt using the SHA-512 hash as the password with legacy MD5
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$PASS_HASH512
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+BC9E0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+D4DE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md sha256 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+5CE10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # This removes any spaces or carriage returns that might break the Base64
+tr -d ' \r\n' < cosmic_duality_real.txt > cosmic_clean.txt
+# Now try Option 1 again with the clean file
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_clean.txt -out answer_3_2.txt -pass pass:matrixsumlist
+error reading input file
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+44F10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -nosalt -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+1CD90000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -iter 1 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+bad decrypt
+3C560000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md sha512 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+ECD70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+bad magic number
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ echo -e "matrixsumlist\n" > pass.txt
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass file:pass.txt
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+903C0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:theflowerblossomsthroughwhatseemstobeaconcretesurface
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+80EA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:112:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md sha256 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+38A70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:theseedisplanted
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+24460000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlisttheseedisplanted
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+60920000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Generate the hash
+SEED_HASH=$(echo -n "theseedisplanted" | openssl dgst -sha512 | sed 's/.*= //')
+
+# Decrypt using the hash
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$SEED_HASH
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+D0F10000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # 1. Generate the SHA-256 hash of the spiral result
+FINAL_PASS=$(echo -n "theseedisplanted" | openssl dgst -sha256 | sed 's/.*= //')
+
+# 2. Decrypt using the hash as the password and legacy MD5 math
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$FINAL_PASS
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+40F00000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Try combined: matrixsumlist + theseedisplanted
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlisttheseedisplanted
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+88CE0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:98
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+10DA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:ninetyeight
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+C8740000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:98
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+1CC60000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Variation 1: Sum + Seed
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:98theseedisplanted
+
+# Variation 2: Sum with Space (Literal "enter")
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:"98 enter"
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+1CBC0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+78E50000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:1701
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+7C5C0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:2440
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+94A60000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md sha1 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:matrixsumlist
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+64BA0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Attempt 1: The numbers as a comma-separated list (Common in 2018)
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:103,115,109,103,46,105,111,47,116,104,101,115,101,101,100,105,115,112,108,97,110,116,101,100
+
+# Attempt 2: The sum of the HEX section (from your decoded_hex.txt)
+# Your hex section 2 was: "cfoofbfdhgddobdgoooiiigdocdaoofidfh"
+# If we sum those (a=1, b=2...): 3+6+15+15+6+2+6+4+8+7+4+4+15+2+4+7+15+15+15+9+9+9+7+4+15+3+4+1+15+15+6+9+4+6+8 = 277
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:277
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+38B80000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+48880000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Generate SHA-512 and take first 16 chars
+SHORT_HASH=$(echo -n "theseedisplanted" | openssl dgst -sha512 | sed 's/.*= //' | cut -c1-16)
+
+# Decrypt
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$SHORT_HASH
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+5CF20000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -out check_file.bin
+# Then check what kind of file it is
+file check_file.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+E4E70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+check_file.bin: data
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -in cosmic_duality_real.txt -pass pass:matrixsumlist -out check_file.bin
+# Then check what kind of file it is
+file check_file.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+E0E70000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+check_file.bin: data
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Generate the SHA-512 of the decoded phrase
+PASS=$(echo -n "theseedisplanted" | openssl dgst -sha512 | sed 's/.*= //')
+
+# Decrypt using that hash with the 2018 legacy MD5 digest
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$PASS
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+4CA50000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Capture the output even if it looks like garbage
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out puzzle_output.bin -pass pass:matrixsumlist
+
+# Use the 'file' command to see what it actually is
+file puzzle_output.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+80D00000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+puzzle_output.bin: data
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:62
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+58F20000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -nopad -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:theseedisplanted
+# If that finishes, check the file:
+cat answer_3_2.txt
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+□□=□'□□□□p□#Y□5□v□□□□H□%□□N□fS□.□□□N□□!ǅ \□□eR6□5□5□5□□j□3U^}ik^-u?<□nc□gPB□ſ□7)□□~□{T□□□□A□כNW□□□,□□□□□□6□□□□□y)ي:□B□□□w2□=sց=□□;□□fH□^□□-□fgp□Ǎ5f□[□y□□□w□□Z□K□□B□□□␦□z□ o□
+                                                     □U, □□jxW□□□}□=□WG?Ң□□□*□62□□XmhZ□$H□t□□?;x□□!□
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ □□=□'□□□□p□#Y□5□v□□□□H□%□□N□fS□.□□□N□□!ǅ \□□eR6□5□5□5□□j□3U^}ik^-u?<□nc□gPB□ſ□7)□□~□{T□□□□A□כNW□□□,□□□□□□6□□□□□y)ي:□B□□□w2□=sց=□□;□□fH□^□□-□fgp□Ǎ5f□[□y□□□w□□Z□K□□B□□□␦□z□ o□
+                                                     □U, □□jxW□□□}□=□WG?Ң□□□*□62□□XmhZ□$H□t□□?;x□□!□
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzleopenssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_answer.txt -pass pass:1701
+> ^C
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out final_answer.txt -pass pass:1701
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+44B90000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Variation: Space
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:"matrixsumlist theseedisplanted"
+
+# Variation: Colon
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:"matrixsumlist:theseedisplanted"
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+48E80000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+84940000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:112:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md sha256 -iter 1 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:theseedisplanted
+bad decrypt
+E8650000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:444
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+80A30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:1686
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+D8830000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Generate the SHA-256 of the hint word
+HINT_PASS=$(echo -n "matrixsumlist" | openssl dgst -sha256 | sed 's/.*= //')
+
+# Decrypt using that hash
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:$HINT_PASS
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+74B50000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:98
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+2CF30000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:1701
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+5C7D0000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ # Generate the SHA-256 binary hash and use it as the password
+echo -n "theseedisplanted" | openssl dgst -sha256 -binary > key.bin
+openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass file:key.bin
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+A8530000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ openssl enc -d -aes-256-cbc -a -md md5 -in cosmic_duality_real.txt -out answer_3_2.txt -pass pass:948
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+bad decrypt
+08E80000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:../openssl-3.2.4/providers/implementations/ciphers/ciphercommon_block.c:107:
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$

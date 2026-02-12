@@ -1,0 +1,523 @@
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle
+$ cd Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ optimized_gpu_brute_force_new.py
+bash: optimized_gpu_brute_force_new.py: command not found
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python optimized_gpu_brute_force_new.py
+
+
+================================================================================
+🔥 OPTIMIZED GPU BRUTE FORCE: GSMG PUZZLE k1 & k2 EXTRACTION
+================================================================================
+
+✓ GPU DETECTED: b'Quadro P1000'
+  Compute Capability: (6, 1)
+
+📋 Input Data:
+  Section 2 (k1): agdafaoaheiecggchgicbbhcgbehcfcoabicfdhhcdbbcagbda... (92 chars)
+  Section 3 (k2): cfobfdhgdobdgooiigdocdaoofidh (29 chars)
+  Custom Alphabet: abcdefghio (10 chars)
+
+🎯 Generating smart Base58 character subsets...
+📊 Character Frequency Analysis:
+  Section 2 (k1): [('d', 13), ('b', 12), ('c', 11), ('g', 10), ('o', 10), ('a', 9), ('h', 8), ('i', 7), ('f', 6), ('e', 6)]
+  Section 3 (k2): [('o', 7), ('d', 6), ('f', 3), ('g', 3), ('i', 3), ('c', 2), ('b', 2), ('h', 2), ('a', 1)]
+
+  Testing 7 high-probability subsets first
+
+================================================================================
+PHASE 1: Testing Smart Subsets
+================================================================================
+
+Testing subset 1/7: 5KL1234567
+  → Tested 3,628,800 permutations (70,277 perms/sec)
+
+Testing subset 2/7: 5KLABCDabc
+  → Tested 3,628,800 permutations (70,171 perms/sec)
+
+Testing subset 3/7: 5KL123ABCa
+  → Tested 3,628,800 permutations (70,241 perms/sec)
+
+Testing subset 4/7: 12345KLabc
+  → Tested 3,628,800 permutations (68,971 perms/sec)
+
+Testing subset 5/7: 123456789A
+  → Tested 3,628,800 permutations (66,061 perms/sec)
+
+Testing subset 6/7: 5KLdefghij
+  → Tested 3,628,800 permutations (62,345 perms/sec)
+
+Testing subset 7/7: 5KLMNPQRST
+  → Tested 3,628,800 permutations (60,604 perms/sec)
+
+
+================================================================================
+SEARCH COMPLETE (Smart Subsets)
+================================================================================
+Total permutations tested: 25,401,600
+Time elapsed: 419.1 seconds
+
+❌ NO VALID WIF KEYS FOUND in smart subsets
+
+The solution may require:
+  1. Exhaustive search (C(58,10) ≈ 2 billion combinations)
+  2. A different decoding approach
+  3. Additional information from the puzzle
+
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python optimized_gpu_brute_force_new.py
+
+
+================================================================================
+🔥 OPTIMIZED GPU BRUTE FORCE: GSMG PUZZLE k1 & k2 EXTRACTION
+================================================================================
+
+✓ GPU DETECTED: b'Quadro P1000'
+  Compute Capability: (6, 1)
+
+📋 Input Data:
+  Section 2 (k1): agdafaoaheiecggchgicbbhcgbehcfcoabicfdhhcdbbcagbda... (92 chars)
+  Section 3 (k2): cfobfdhgdobdgooiigdocdaoofidh (29 chars)
+  Custom Alphabet: abcdefghio (10 chars)
+
+🎯 Generating smart Base58 character subsets...
+📊 Character Frequency Analysis:
+  Section 2 (k1): [('d', 13), ('b', 12), ('c', 11), ('g', 10), ('o', 10), ('a', 9), ('h', 8), ('i', 7), ('f', 6), ('e', 6)]
+  Section 3 (k2): [('o', 7), ('d', 6), ('f', 3), ('g', 3), ('i', 3), ('c', 2), ('b', 2), ('h', 2), ('a', 1)]
+
+  Testing 7 high-probability subsets first
+
+================================================================================
+PHASE 1: Testing Smart Subsets
+================================================================================
+
+Testing subset 1/7: 5KL1234567
+Traceback (most recent call last):
+  File "C:\temp\Mini_Puzzle\Brute\gsmg_gpu_brute_force\gsmg_gpu_brute_force\optimized_gpu_brute_force_new.py", line 311, in <module>
+    result = brute_force_with_heuristics()
+  File "C:\temp\Mini_Puzzle\Brute\gsmg_gpu_brute_force\gsmg_gpu_brute_force\optimized_gpu_brute_force_new.py", line 256, in brute_force_with_heuristics
+    result = test_permutation(perm)
+  File "C:\temp\Mini_Puzzle\Brute\gsmg_gpu_brute_force\gsmg_gpu_brute_force\optimized_gpu_brute_force_new.py", line 119, in test_permutation
+    k1_candidate = apply_mapping(SECTION2_K1, mapping)
+  File "C:\temp\Mini_Puzzle\Brute\gsmg_gpu_brute_force\gsmg_gpu_brute_force\optimized_gpu_brute_force_new.py", line 101, in apply_mapping
+    return ''.join(mapping.get(c, c) for c in text)
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python brute_force.py
+C:\Users\Dad\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'C:\\temp\\Mini_Puzzle\\Brute\\gsmg_gpu_brute_force\\gsmg_gpu_brute_force\\brute_force.py': [Errno 2] No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python brute_force.py
+C:\Users\Dad\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'C:\\temp\\Mini_Puzzle\\Brute\\gsmg_gpu_brute_force\\gsmg_gpu_brute_force\\brute_force.py': [Errno 2] No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python brute_force.py
+============================================================
+🚀 VIC-OPTIMIZED GPU BRUTE FORCE (P1000 Edition)
+============================================================
+Fixed: 'a' -> '5'
+Pool: ['H', 'A', 'L', 'F', 'B', 'E', 'T', 'R', 'N', 'D']
+Targeting: k1 (Length 51), k2 (Length 52)
+
+Testing with 'c' -> 'L'...
+Traceback (most recent call last):
+  File "C:\temp\Mini_Puzzle\Brute\gsmg_gpu_brute_force\gsmg_gpu_brute_force\brute_force.py", line 97, in <module>
+    vic_optimized_search()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\temp\Mini_Puzzle\Brute\gsmg_gpu_brute_force\gsmg_gpu_brute_force\brute_force.py", line 78, in vic_optimized_search
+    k2_candidate = "".join(mapping[c] for c in SECTION3_K2 + " " * (52-len(SECTION3_K2))) # Padding logic
+  File "C:\temp\Mini_Puzzle\Brute\gsmg_gpu_brute_force\gsmg_gpu_brute_force\brute_force.py", line 78, in <genexpr>
+    k2_candidate = "".join(mapping[c] for c in SECTION3_K2 + " " * (52-len(SECTION3_K2))) # Padding logic
+                           ~~~~~~~^^^
+KeyError: ' '
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python brute_force.py
+============================================================
+🚀 FIXED VIC-OPTIMIZED BRUTE FORCE (P1000)
+============================================================
+Tested: 3,600,000 permutations... Rate: 127537/s
+
+Search complete.
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ import hashlib
+
+def int_to_wif(n, compressed=False):
+    # Convert integer to 32 bytes
+    key_bytes = n.to_bytes(32, 'big')
+    # Add version byte 0x80
+    extended = b'\x80' + key_bytes
+    if compressed: extended += b'\x01'
+    # Double SHA-256 Checksum
+    checksum = hashlib.sha256(hashlib.sha256(extended).digest()).digest()[:4]
+    # Simple Base58 encoding would go here...
+    return (extended + checksum).hex() # Let's just look at the hex for now
+
+# Testing Section 3 (the shorter one)
+S3 = "cfobfdhgdobdgooiigdocdaoofidh"
+mapping = {'a':'1','b':'2','c':'3','d':'4','e':'5','f':'6','g':'7','h':'8','i':'9','o':'0'}
+s3_digits = "".join(mapping[char] for char in S3)
+n2 = int(s3_digits)
+
+print(f"Integer Value: {n2}")
+print(f"Hex Private Key: {hex(n2)}")
+bash: import: command not found
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+bash: extended: command not found
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `extended'
+bash: S3: command not found
+bash: mapping: command not found
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `f"Integer Value: {n2}"'
+bash: syntax error near unexpected token `f"Hex Private Key: {hex(n2)}"'
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ simple.py
+bash: simple.py: command not found
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python simple.py
+Integer Value: 36026487402470099740341006948
+Hex Private Key: 0x7468697370617373776f7264
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python content.py
+Section 2 Decoded: lastwordsbeforearchichoice
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ wif.py
+bash: wif.py: command not found
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python wif.py
+Final Private Key (Hex): 0xf8811be90a9d71efe34b3c196e1c92e44aa9e67a7e2f6aa52e39dfe3de4173fb
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python convert_wif.py
+Compressed WIF: L5YmfKoQoi6Q1V3y5TfSkypQWbQxi8751uiAieBG4G4ET2B4yQm4
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python generate_key.py
+Your WIF Key: L5YmfKoQoi6Q1V3y5TfSkypQWbQxi8751uiAieBG4G4ET2B4yQm4
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$  python try.py
+Concatenated Key: 4b6187a05181577e3e53ec5543af1f685af12de88877e1d1db1770ed7c6d4e4a
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python shabe1.py
+Final Private Key (Hex): 855411a598c406fe2063cd09136ec19a83ca1de0be77235d45b4bcf80248ff45
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python soln.py
+Final WIF to import: L1gtDYnqnDJ3zZn7RzwgBGsiTcNp9Z4QjZSYv1qKcmdwDrtdminh
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python soln2.py
+--- FINAL PRIZE ATTEMPT ---
+Hex Key: 0000000000006c617374776f7264736265666f72d9c9dbd6d8cad6dbe6d8d5c9
+WIF Key: KwDiBf89QhvTAkY8DfESZRGQThz7rcCt4gH1Bt7dRQVELLvEAkLP
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python soln3.py
+--- 2.5 BTC PRIZE KEY ---
+Hex Private Key: 0000000000006c617374776f7264736265666f72d9c9dbd6d8cad6dbe6d8d5c9
+Compressed WIF: KwDiBf89QhvTAkY8DfESZRGQThz7rcCt4gH1Bt7dRQVELLvEAkLP
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final000.py
+Concatenated Seed: causalitySafenetLunaHSM11110islastwordsbeforearchichoicethispassword
+Final Prize Hex: 4b6187a05181577e3e53ec5543af1f685af12de88877e1d1db1770ed7c6d4e4a
+Final Prize WIF: KykEyA2yFsBLfU5Ziq1JSGgmyBAWE8ZM2Gua6e5ohyQh55iYTHNB
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final001.py
+Full Seed: causalitySafenetLunaHSM11110islastwordsbeforearchichoicethispassword
+Final WIF: KykEyA2yFsBLfU5Ziq1JSGgmyBAWE8ZM2Gua6e5ohyQh55iYTHNB
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final001.py
+Full Seed: https://gsmg.io/89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+Final WIF: L4VYXby4arw1CC5a5bjL4cfQP3GbQmMs1UeoEE6f5PRXWdCsbFUK
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final001.py
+Full Seed: View Source / Inspections
+Final WIF: KwJKMJo1i7s7pcQhMH5SmKjMisxV6vCoNZDejFkvCuYHkVNDXDGh
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final001.py
+Full Seed: Substitute('ab','01') -> From_Binary()
+Final WIF: L17bkMH6PYZyobroqbCzKNbcZarvtBs7Hwax5EoqZDHHDxELFRgA
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final001.py
+Final Seed String: causalitySafenetLunaHSM11110islastwordsbeforearchichoicethispassword
+Final Private Key (Hex): 4b6187a05181577e3e53ec5543af1f685af12de88877e1d1db1770ed7c6d4e4a
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final001.py
+Full Seed: causalitySafenetLunaHSM11110islastwordsbeforearchichoicethispassword
+Final WIF: KykEyA2yFsBLfU5Ziq1JSGgmyBAWE8ZM2Gua6e5ohyQh55iYTHNB
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final001.py
+Full Seed: causalitySafenetLunaHSM1105islastwordsbeforearchichoicethispassword
+Final WIF: Ky9T2rgVvwriP5NmCMedcAUaHyi4P2J2r6mKKKfgTGYmrQQnvHN3
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python fina_logic.py
+C:\Users\Dad\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'C:\\temp\\Mini_Puzzle\\Brute\\gsmg_gpu_brute_force\\gsmg_gpu_brute_force\\fina_logic.py': [Errno 2] No such file or directory
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic.py
+Final Matrix Sum Hex: 982b7055c3f962101daf6ddf7dbad67623a7655cd1cc2a08f48ee16522adca3b
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic.py
+Target Prize Hex: 982b7055c3f962101daf6ddf7dbad67623a7655cd1cc2a08f48ee16522adca3b
+Target Prize WIF: L2KWU4Mttv66aoqAcwdQsNiXeU7cSXnkwjGz4KbTemUuuTNaktC5
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic.py
+Final Prize WIF: L4RihL72ZErfpdf11fZHkbeAPCLZf3DAGdmrbhtKrk8bGcpHruMA
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Final Prize Hex: eb3efb5151e691bb07e59758648ab78a34552efaea67f9568625e16753e0bb88
+Final Prize WIF: L56zru3SfYJyAKHF4LmtM5ZJ8WseYdLHd6iVv5KnuA1D6LpZHZmC
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Final Prize Hex: eb3efb5151e691bb07e59758648ab78a34552efaea67f9568625e16753e0bb88
+Final Prize WIF: L56zru3SfYJyAKHF4LmtM5ZJ8WseYdLHd6iVv5KnuA1D6LpZHZmC
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Candidate Prize WIF: L584bFYdUZPHoavej4Qjm7SQxaNQvWpEDkrLiPbsMdEFj5saW3xC
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Combined Seed: lastwordsbeforearchichoicethispassword
+Final WIF: L1gtDYnqnDJ3zZn7RzwgBGsiTcNp9Z4QjZSYv1qKcmdwDrtdminh
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Final Prize WIF: L584bFYdUZPHoavej4Qjm7SQxaNQvWpEDkrLiPbsMdEFj5saW3xC
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Final Seed List: ['lastwordsbeforearchichoice', 'thispassword', 'causality']
+Final Prize WIF: L4RihL72ZErfpdf11fZHkbeAPCLZf3DAGdmrbhtKrk8bGcpHruMA
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Final Prize WIF: L3HDESVC2ZuMquxE8KjVDXQuDxGt1Cs7oQZR1MmSLdTP76gdevNV
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Final Seed: lastwordsbeforearchichoicethispasswordcausality
+Final WIF: L2qQ65zsKJpBSA2sXmCKPtEEkTUhD8v1AvNEbFfzYGqPA9VokScZ
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Try this XOR WIF: L52ZQ9ZjMzdRsVoRK2DHCXgh5S5esLbjX2BDBB12JN9UBtUmCtua
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Final Prize WIF: L4RihL72ZErfpdf11fZHkbeAPCLZf3DAGdmrbhtKrk8bGcpHruMA
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Full List WIF: L4EgLaetGms8HzMoc4khnmrEqHmsbBYTe3mXUtk13dRE2GyrQayP
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Final Seed: lastwordsbeforearchichoiceisthispasswordcausality
+Final WIF: L4NXcvbACCXFdsyu2XJvQKGMX5uX1bTQBcmeGSxWCo3oUFmftNiV
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Final Seed Construction: causalitylastwordsbeforearchichoiceisthispasswordcausality
+Final WIF: KwZmpAoyKDK6GiAxwUvuWtZ2HEoCTLrG9C9anGKwzpGF6Gin7rE6
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Final Prize WIF: L4RihL72ZErfpdf11fZHkbeAPCLZf3DAGdmrbhtKrk8bGcpHruMA
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Final WIF: L3HDESVC2ZuMquxE8KjVDXQuDxGt1Cs7oQZR1MmSLdTP76gdevNV
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic1.py
+Final Seed: causality lastwordsbeforearchichoice thispassword
+Final WIF: KyHzK1FJMyC9VDae5CFSTVBGgH2GnZL9E9NfpUAkfdbqsfhxDs69
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic2.py
+Final Construction: lastwordsbeforearchichoicethispasswordcausality
+Final Prize WIF: L2qQ65zsKJpBSA2sXmCKPtEEkTUhD8v1AvNEbFfzYGqPA9VokScZ
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python final_logic3.py
+Final Prize WIF: L4RihL72ZErfpdf11fZHkbeAPCLZf3DAGdmrbhtKrk8kmNirR2w4
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python decode_map.py
+
+section1 decimal len 60
+174161185953773879322837258363129364883422317241922725145445
+section1 mode=no_offset hex (start): 1bbed79faf5f87a0e0f6b30d3becf48bf7d887939c749ceb65 ...
+;���؇��t��ede=no_offset ascii (start): ן�_�����
+section1 mode=add1106 hex (start): 1bbed79faf5f87a0e0f6b30d3becf48bf7d887939c749cefb7 ...
+;���؇��t��ode=add1106 ascii (start): ן�_�����
+
+section2 decimal len 22
+3626487424799743416948
+section2 mode=no_offset hex (start): c4979f7ae6c9d41a74 ...
+section2 mode=no_offset ascii (start): ė�z���␦t
+section2 mode=add1106 hex (start): c4979f7ae6c9d41ec6 ...
+section2 mode=add1106 ascii (start): ė�z����
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python decode_map.py
+  File "C:\temp\Mini_Puzzle\Brute\gsmg_gpu_brute_force\gsmg_gpu_brute_force\decode_map.py", line 35
+    i =
+        ^
+SyntaxError: invalid syntax
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python decode_map.py
+
+section1 mapped decimal (len 60):
+174161185953773879322837258363129364883422317241922725145445
+
+Variant as_is: hex start: 1bbed79faf5f87a0e0f6b30d3becf48bf7d887939c749ceb65 ...
+ Variant as_is: ascii (hex->ascii) start: '\x1b�ן�_�����\r;���؇��t��e'
+ Variant as_is: chunked-decimal ASCII candidates: none
+Variant append_1106: hex start: 43bcec6cdb283a1fc53a4b234f4d8109b817a2ff60f8b31ab1da2 ...
+ Variant append_1106: ascii (hex->ascii) start: <<no ascii>>
+ Variant append_1106: chunked-decimal ASCII candidates: none
+Variant add_1106_numeric: hex start: 1bbed79faf5f87a0e0f6b30d3becf48bf7d887939c749cefb7 ...
+ Variant add_1106_numeric: ascii (hex->ascii) start: '\x1b�ן�_�����\r;���؇��t��'
+ Variant add_1106_numeric: chunked-decimal ASCII candidates: none
+ Raw bytes (len 25) start (hex): 1bbed79faf5f87a0e0f6b30d3becf48bf7d887939c749ceb65
+;���؇��t��eas utf-8 (start): ן�_�����
+
+section2 mapped decimal (len 22):
+3626487424799743416948
+
+Variant as_is: hex start: c4979f7ae6c9d41a74 ...
+ Variant as_is: ascii (hex->ascii) start: 'ė�z���\x1at'
+ Variant as_is: chunked-decimal ASCII candidates: none
+Variant append_1106: hex start: 1dff62c5b0d72bed495792 ...
+ Variant append_1106: ascii (hex->ascii) start: '\x1d�bŰ�+�IW�'
+ Variant append_1106: chunked-decimal ASCII candidates: none
+Variant add_1106_numeric: hex start: c4979f7ae6c9d41ec6 ...
+ Variant add_1106_numeric: ascii (hex->ascii) start: 'ė�z���\x1e�'
+ Variant add_1106_numeric: chunked-decimal ASCII candidates: none
+ Raw bytes (len 9) start (hex): c4979f7ae6c9d41a74
+ Raw bytes as utf-8 (start): ė�z���␦t
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python decode_map.py
+  File "C:\temp\Mini_Puzzle\Brute\gsmg_gpu_brute_force\gsmg_gpu_brute_force\decode_map.py", line 42
+    if chunk[]=='': continue
+             ^
+SyntaxError: invalid syntax
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python decode_map.py
+
+section1 mapped decimal (len 63):
+174161018595377387932283725836301293648834223172419022725145445
+
+Variant as_is: hex start: 6c617374776f7264736265666f7265617263686963686f696365 ...
+ Variant as_is: ascii (hex->ascii) start: 'lastwordsbeforearchichoice'
+ Variant as_is: chunked-decimal ASCII candidates: none
+Variant append_1106: hex start: 10899eadf579716473db3398f16164982e844b1e94bb1f8004ba9da2 ...
+ Variant append_1106: ascii (hex->ascii) start: '\x10����yqds�3��ad�.�K\x1e��\x1f�\x04���'
+ Variant append_1106: chunked-decimal ASCII candidates: none
+Variant add_1106_numeric: hex start: 6c617374776f7264736265666f7265617263686963686f6967b7 ...
+ Variant add_1106_numeric: ascii (hex->ascii) start: 'lastwordsbeforearchichoig�'
+ Variant add_1106_numeric: chunked-decimal ASCII candidates: none
+ Raw bytes (len 26) start (hex): 6c617374776f7264736265666f7265617263686963686f696365
+ Raw bytes as utf-8 (start): lastwordsbeforearchichoice
+
+section2 mapped decimal (len 29):
+36026487402470099740341006948
+
+Variant as_is: hex start: 7468697370617373776f7264 ...
+ Variant as_is: ascii (hex->ascii) start: 'thispassword'
+ Variant as_is: chunked-decimal ASCII candidates: none
+Variant append_1106: hex start: 11c32e972d55deadce6971646692 ...
+ Variant append_1106: ascii (hex->ascii) start: '\x11�.�-Uޭ�iqdf�'
+ Variant append_1106: chunked-decimal ASCII candidates: none
+Variant add_1106_numeric: hex start: 7468697370617373776f76b6 ...
+ Variant add_1106_numeric: ascii (hex->ascii) start: 'thispasswov�'
+ Variant add_1106_numeric: chunked-decimal ASCII candidates: none
+ Raw bytes (len 12) start (hex): 7468697370617373776f7264
+ Raw bytes as utf-8 (start): thispassword
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python decode_map.py
+  File "C:\temp\Mini_Puzzle\Brute\gsmg_gpu_brute_force\gsmg_gpu_brute_force\decode_map.py", line 13
+    for cand in "${candidates[@]}"; do
+                                  ^
+SyntaxError: invalid syntax
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python decode_map.py
+  File "C:\temp\Mini_Puzzle\Brute\gsmg_gpu_brute_force\gsmg_gpu_brute_force\decode_map.py", line 31
+    i =
+        ^
+SyntaxError: invalid syntax
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$ python decode_map.py
+
+section1 mapped decimal (len 60):
+174161185953773879322837258363129364883422317241922725145445
+
+Variant as_is: hex start: 1bbed79faf5f87a0e0f6b30d3becf48bf7d887939c749ceb65 ...
+;���؇��t��e_is: ascii (hex->ascii) start: ן�_�����
+ Variant as_is: chunked-decimal ASCII candidates: none
+Variant append_1106: hex start: 43bcec6cdb283a1fc53a4b234f4d8109b817a2ff60f8b31ab1da2 ...
+ Variant append_1106: ascii (hex->ascii) start: <<no ascii>>
+ Variant append_1106: chunked-decimal ASCII candidates: none
+Variant add_1106_numeric: hex start: 1bbed79faf5f87a0e0f6b30d3becf48bf7d887939c749cefb7 ...
+;���؇��t��dd_1106_numeric: ascii (hex->ascii) start: ן�_�����
+ Variant add_1106_numeric: chunked-decimal ASCII candidates: none
+ Raw bytes (len 25) hex start: 1bbed79faf5f87a0e0f6b30d3becf48bf7d887939c749ceb65
+;���؇��t��eutf8 start: ן�_�����
+
+section2 mapped decimal (len 22):
+3626487424799743416948
+
+Variant as_is: hex start: c4979f7ae6c9d41a74 ...
+ Variant as_is: ascii (hex->ascii) start: ė�z���␦t
+ Variant as_is: chunked-decimal ASCII candidates: none
+Variant append_1106: hex start: 1dff62c5b0d72bed495792 ...
+ Variant append_1106: ascii (hex->ascii) start: �bŰ�+�IW�
+ Variant append_1106: chunked-decimal ASCII candidates: none
+Variant add_1106_numeric: hex start: c4979f7ae6c9d41ec6 ...
+ Variant add_1106_numeric: ascii (hex->ascii) start: ė�z����
+ Variant add_1106_numeric: chunked-decimal ASCII candidates: none
+ Raw bytes (len 9) hex start: c4979f7ae6c9d41a74
+ Raw bytes utf8 start: ė�z���␦t
+
+Dad@DESKTOP-LAB MINGW64 /c/temp/Mini_Puzzle/Brute/gsmg_gpu_brute_force/gsmg_gpu_brute_force
+$

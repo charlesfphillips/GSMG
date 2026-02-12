@@ -1,0 +1,68 @@
+
+Dad@DESKTOP-LAB MINGW64 ~
+$ cd C:/Temp/Mini_Puzzle
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ python decrypt.py
+Traceback (most recent call last):
+  File "C:\Temp\Mini_Puzzle\decrypt.py", line 38, in <module>
+    plaintext_padded = cipher.decrypt(ciphertext)
+  File "C:\Users\Dad\AppData\Local\Programs\Python\Python313\Lib\site-packages\Crypto\Cipher\_mode_cbc.py", line 246, in decrypt
+    raise ValueError("Data must be padded to %d byte boundary in CBC mode" % self.block_size)
+ValueError: Data must be padded to 16 byte boundary in CBC mode
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle
+$ cd decrypt
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python masterkeycheck.py
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python masterkeycheck.py
+[+] Extracted Salt from file: 2d3f6fe06dc950e6
+----------------------------------------
+Master Key Used: 818af53daa302844...
+Derived IV:      c71b68834346cb1580cf54cc3b5a57a4
+Target IV:       c6ff2e39d98843bc3c26b8a33a15b5c9
+----------------------------------------
+❌ VERIFICATION FAILED: The Master Key does not match this ciphertext salt.
+   Checking if Phase 5 Key is the actual password...
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python masterkeycheck.py
+Testing XORed Master Key...
+Derived: b514979571ed4bc6de740e0be8be8c5a
+Target:  c6ff2e39d98843bc3c26b8a33a15b5c9
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ python masterkeycheck.py
+Testing XORed Master Key...
+Derived: b514979571ed4bc6de740e0be8be8c5a
+Target:  c6ff2e39d98843bc3c26b8a33a15b5c9
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ # 1. Decode the Base64 to a raw binary blob
+base64 -d cosmic_duality_content.txt > cosmic_raw.bin
+
+# 2. Decrypt using Raw Hex Key and Raw Hex IV (No Salt/KDF)
+openssl enc -aes-256-cbc -d -in cosmic_raw.bin -out duality.dec \
+-K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 \
+-iv c6ff2e39d98843bc3c26b8a33a15b5c9 -nopad
+base64: invalid input
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ # Clean the file of newlines/whitespace and decode
+tr -d '\n\r ' < cosmic_duality_content.txt | base64 -d > cosmic_raw.bin
+
+# Now run the decryption (identical to before)
+openssl enc -aes-256-cbc -d -in cosmic_raw.bin -out duality.dec \
+-K 6ac438facf366702b60d6dfcebd39815b582f19b591b3fdf69240c6966f4fc23 \
+-iv c6ff2e39d98843bc3c26b8a33a15b5c9 -nopad
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$ head -c 32 duality.dec | xxd -p
+8badeb454dbeb5d2263d8774b8b24f1bd14fd658bc7635cab922f80d5a7b
+54af
+
+Dad@DESKTOP-LAB MINGW64 /c/Temp/Mini_Puzzle/decrypt
+$

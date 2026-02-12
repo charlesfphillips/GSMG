@@ -1,0 +1,77 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                    ELECTRUM PRIVATE KEY IMPORT                             ║
+║                                                                            ║
+║                     GSMG 5 BTC PUZZLE - FINAL SOLUTION                    ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+🔑 PRIVATE KEY FOR ELECTRUM WALLET
+================================================================================
+
+Raw Hex Private Key (32 bytes):
+c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+
+OPTION A - UNCOMPRESSED WIF (Use this if unsure):
+5KLdDt3RwxgEeUSLGE9yHTBhowoMmdefzBHA4ZfUfQcV9bR6dLz
+
+OPTION B - COMPRESSED WIF (For modern wallets):
+L3wcsrHj7akBEQ6p2D4bRcaF8CscfzmH5NNJzjAq6XDdEvv8ok5R
+
+Bitcoin Address:
+1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe
+
+Amount Available: 2.5 BTC
+
+================================================================================
+
+📱 HOW TO IMPORT INTO ELECTRUM:
+
+1. Download/Open Electrum Wallet
+   https://electrum.org/
+
+2. Create New Wallet or Restore:
+   File → New Wallet (or File → New/Restore)
+
+3. Select Restore Option:
+   - Choose "Import Bitcoin addresses or private keys"
+   - Or "Private key"
+
+4. Paste the Private Key:
+   - UNCOMPRESSED (recommended): 5KLdDt3RwxgEeUSLGE9yHTBhowoMmdefzBHA4ZfUfQcV9bR6dLz
+   - OR COMPRESSED: L3wcsrHj7akBEQ6p2D4bRcaF8CscfzmH5NNJzjAq6XDdEvv8ok5R
+
+5. Click Import/Next
+
+6. Electrum will automatically find your 2.5 BTC!
+
+================================================================================
+
+📊 WHICH FORMAT TO USE?
+
+UNCOMPRESSED (5KLdDt3RwxgEeUSLGE9yHTBhowoMmdefzBHA4ZfUfQcV9bR6dLz):
+✓ More universally compatible
+✓ Works with all wallets
+✓ Slightly larger transaction size
+→ USE THIS IF YOU'RE UNSURE
+
+COMPRESSED (L3wcsrHj7akBEQ6p2D4bRcaF8CscfzmH5NNJzjAq6XDdEvv8ok5R):
+✓ Smaller blockchain footprint
+✓ Lower transaction fees
+✓ Standard for modern wallets
+→ USE THIS FOR NEW WALLETS
+
+Both formats access the SAME funds at the same address!
+
+================================================================================
+
+✅ PUZZLE SOLVED!
+
+Password: matrixsumlist
+Encryption: AES-256-CBC
+Decrypted: 176 bytes (Base64)
+Bitcoin Key: c8956d4ac326eac2d510bc4748d1cd9d898f1f55fc2e38494e228aa77eb88b67
+
+You now have access to 2.5 BTC at address: 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe
+
+🎉 Congratulations! 🎉
+
+================================================================================

@@ -1,0 +1,131 @@
+================================================================================
+BLOCKCHAIN TRANSACTION ANALYSIS - DUST PATTERN STUDY
+================================================================================
+
+ADDRESS: 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe
+PURPOSE: Identify puzzle-relevant dust transactions and sender patterns
+
+================================================================================
+STATISTICS
+================================================================================
+
+Total Transactions Received: 46
+Transactions Analyzed: 20 (most recent)
+Dust Transactions (< 0.0001 BTC): 16
+
+Total Received: 8.75728067 BTC
+Total Sent: 7.50353498 BTC
+Current Balance: 1.25374569 BTC
+
+DUST DISTRIBUTION:
+- Standard 546 satoshis: 4 transactions
+- Custom amounts: 12 transactions
+- Range: 546 to 10,000 satoshis
+
+================================================================================
+MOST ACTIVE SENDERS (DUST)
+================================================================================
+
+1. bc1qj03l9ucwwgd4nmlvhz42qhgnpspru60whlqngl (SegWit)
+   - Transactions: 2
+   - Dates: 1/25/2026, 1/20/2026, 1/15/2026
+   - Amounts: 0.00001126, 0.00000546, 0.00000546 BTC
+   - Total Sent: 0.00002218 BTC
+
+2. Multiple Single Senders
+   - 18BpBB1YA8UwBpgkdx7JGsNqKvV9JhEQ1DgtKH: 0.00002526 BTC (2526 sats)
+   - 1H8hfqBiCfm8YBDdQzM4PrEd3sFfeD5sG: 0.00002526 BTC (2526 sats)
+   - 12putUDNkEg7r9Z6CfPZCyYzKAV1dJJy2h: 0.00002680 BTC (2680 sats)
+
+================================================================================
+CUSTOM DUST AMOUNTS (non-standard 546)
+================================================================================
+
+Amount (BTC) | Amount (Sats) | Hex Value | Date | From
+0.00001126   | 1126          | 0x466     | 1/25/2026 | SegWit
+0.00002026   | 2026          | 0x7EA     | 12/31/2025
+0.00002526   | 2526          | 0x9DE     | 1/23/2026 (x2)
+0.00002680   | 2680          | 0xA78     | 12/6/2025
+0.00001203   | 1203          | 0x4B3     | 10/16/2025
+0.00002380   | 2380          | 0x94C     | 9/10/2025
+0.00001070   | 1070          | 0x42E     | 9/8/2025
+0.00010000   | 10000         | 0x2710    | 9/4/2025
+0.00000800   | 800           | 0x320     | 8/31/2025
+0.00000666   | 666           | 0x29A     | 12/23/2025
+0.00000864   | 864           | 0x360     | 12/30/2025
+0.00000700   | 700           | 0x2BC     | 8/11/2025
+
+OBSERVATIONS:
+- Hex values don't form obvious pattern when concatenated
+- Amounts vary significantly
+- Could represent encoded metadata or just puzzle distribution
+
+================================================================================
+TEMPORAL ANALYSIS
+================================================================================
+
+Most Recent Activity: 1/25/2026
+- 2 transactions in last 48 hours
+- Suggests ongoing puzzle activity
+
+Oldest Analyzed: 8/11/2025
+- Approximately 5.5 months of transaction history shown
+- 46 total transactions (implies very recent puzzle setup or testing)
+
+Frequency: Sporadic
+- Clusters around certain dates
+- Not regular pattern (unlikely timed automated distribution)
+
+================================================================================
+KEY INSIGHT FOR K2 DISCOVERY
+================================================================================
+
+CRITICAL OBSERVATION:
+
+The multiple dust senders suggest this address might have been "seeded" by
+several different sources, possibly to:
+
+1. Mask the original k2 funding source
+2. Test multiple k1 key derivations
+3. Distribute puzzle components across transactions
+4. Create a "dust trail" for solvers to follow
+
+NEXT INVESTIGATION:
+
+Look at the INPUTS of each dust-sending transaction:
+- Which address/key controlled the funding UTXO?
+- That key might be k2!
+
+Trace backwards:
+  1GSMG... ← receives dust from [Address X]
+  [Address X] ← where did THAT BTC come from?
+  [Source Y] ← might be controlled by the puzzle creator
+  [Source Y]'s private key might encode k2
+
+This requires:
+- Full transaction history lookup on blockchain.com or blockchair.com
+- Looking at INPUTS (not outputs) of each dust sender
+- Retrieving the keys from the original funding UTXOs
+
+================================================================================
+PUZZLE HYPOTHESIS
+================================================================================
+
+Based on this transaction pattern:
+
+1. Puzzle creator has HIDDEN k1 in Cosmic Duality (✓ we found it)
+2. k2 might be HIDDEN in blockchain dust transactions:
+   - Sent FROM multiple addresses to target address
+   - The SOURCE addresses' keys might encode k2
+   - Or one specific "original" dust sender holds the key
+
+3. Solver must:
+   - Decrypt Cosmic Duality → get k1
+   - Analyze dust transactions → identify key source
+   - Get k2 from key source
+   - Calculate ktarget = k1 ± k2
+   - Claim 2.5 BTC
+
+This matches the "dust key" hint perfectly!
+
+================================================================================

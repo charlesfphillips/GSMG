@@ -1,0 +1,59 @@
+GSMG DUALITY PUZZLE - ALL CANDIDATE WIF KEYS
+================================================================================
+
+TEST THESE KEYS IN ELECTRUM - ONE SHOULD SHOW 2.5 BTC AT:
+1GSMG1JCHXNstXW39VpS9iVfM9P6P7B3P
+
+================================================================================
+FROM PASSWORD: matrixsumlist (ABBA Section 1)
+================================================================================
+
+Key Pair 1 (Bytes 0-31):
+  Uncompressed: 5KLdDt3RwxgEeUSLGE9yHTBhowoMmdefzBHA4ZfUfQcV9bR6dLz
+  Compressed:   L3wcsrHj7akBEQ6p2D4bRcaF8CscfzmH5NNJzjAq6XDdEvv8ok5R
+
+Key Pair 2 (Bytes 32-63):
+  Uncompressed: 5KRMcDam6oisQYQnESu5HYvK1E8q6yHbaCqb12fWfJGUkdPgjyt
+  Compressed:   L4JVxSY1edDoUudxeMJqv3tJTzyZKMSFbZFT58Lyv3DKVKS5gdbQ
+
+Key Pair 3 (Bytes 64-95):
+  Uncompressed: 5JJMbKcU9Aipdp9qmrstgRVDkcHebtqdVmWf1yUMEyHydJm3F2L
+  Compressed:   KyMbtV9Yo3ubFV82H19d715ZHUkUy1oe5yTtoJFiLfTvvmto8Jng
+
+================================================================================
+FROM PASSWORD: lastwordsbeforearchichoice (Hex Section 1)
+================================================================================
+
+Key (First 32 bytes):
+  Uncompressed: 5KJ8u7hT3TiDXEZsopndPJKfiM8xcTmzNVaAKr7dD9Non7qknaF
+  Compressed:   L3kds2ZXwrtvGSt7FfvPbRTPsVt8TXBaDs7NABnEpbyFU2ew6jA3
+
+================================================================================
+FROM PASSWORD: thispassword (Hex Section 2)
+================================================================================
+
+Key Pair 1 (Bytes 0-31):
+  Uncompressed: 5JtGowxrZwy3ygxaoGacKPWXgrFG9eoC8rkofrjZ3g4Cg8yLPyJ
+  Compressed:   L1wJnDbXnRcQ9DNLBDmLtAMLStMwsBpt9gcLzWWpSoP8XGdCnV6W
+
+Key Pair 2 (Bytes 32-63):
+  Uncompressed: 5K2eVGEgnG7MU192xsYsJAki6vhEJ67pyGjEXXxv6EXyHJSnzUM
+  Compressed:   L2aGTkFQamh3LBcTfc7ezn3vR9zZgRb8jNRQhmfoL6jhQriSLG91
+
+Key Pair 3 (Bytes 64-95):
+  Uncompressed: 5JzeffEUBqizDaNyGjjJiauDYU2gz6BcDboNeCa5cpNP2r6fYiW
+  Compressed:   L2RTFdkSzr4KYWKyNTbjCYdUMtJTUyspScbgXC51P65NF8zuRCaG
+
+================================================================================
+IMPORT INSTRUCTIONS:
+
+1. Open Electrum Wallet
+2. File → New/Restore
+3. Select "Import Bitcoin addresses or private keys"
+4. Paste ONE WIF key from above
+5. Check if it shows 2.5 BTC at 1GSMG1JCHXNstXW39VpS9iVfM9P6P7B3P
+6. If not, try the next one
+
+Try all 11 keys until one shows the 2.5 BTC!
+
+================================================================================
